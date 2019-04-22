@@ -1,0 +1,135 @@
+﻿@model Persada.Fr.ModelView.TOURIS_TV_SUB_CATEGORY
+@{
+    ViewBag.Title = "Edit SubCategory";
+}
+
+<h2>@ViewBag.Title.</h2>
+
+
+@using (Html.BeginForm("ActionEdit", "SubCategory", FormMethod.Post, new { enctype = "multipart/form-data", @class = "form-horizontal", role = "form" }))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        @Html.HiddenFor(model => model.ID)
+
+        <div class="form-group">
+            <label class="col-md-2 control-label">Category</label>
+            <div class="col-md-10">
+                @Html.DropDownListFor(model => model.CATEGORY_ID, (IEnumerable<SelectListItem>)ViewBag.GetCategoryList, new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.CATEGORY_ID, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label class="col-md-2 control-label">Country</label>
+            <div class="col-md-10">
+                @Html.DropDownListFor(model => model.COUNTRY_ID, (IEnumerable<SelectListItem>)ViewBag.GetCountryList, new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.COUNTRY_ID, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label class="col-md-2 control-label">Province</label>
+            <div class="col-md-10">
+                @Html.DropDownListFor(model => model.PROVINCE_ID, (IEnumerable<SelectListItem>)ViewBag.GetProvinceList, new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.PROVINCE_ID, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+
+        <div class="form-group">
+            <label class="col-md-2 control-label">City</label>
+            <div class="col-md-10">
+                @Html.DropDownListFor(model => model.CITY_ID, (IEnumerable<SelectListItem>)ViewBag.GetCityList, new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.CITY_ID, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label class="col-md-2 control-label">District</label>
+            <div class="col-md-10">
+                @Html.DropDownListFor(model => model.DISTRICT_ID, (IEnumerable<SelectListItem>)ViewBag.GetDistrictList, new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.DISTRICT_ID, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label class="col-md-2 control-label">Village</label>
+            <div class="col-md-10">
+                @Html.DropDownListFor(model => model.VILLAGE_ID, (IEnumerable<SelectListItem>)ViewBag.GetVillageList, new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.VILLAGE_ID, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label class="col-md-2 control-label">Address</label>
+            <div class="col-md-10">
+                @Html.TextAreaFor(m => m.ADDRESS, new { @class = "form-control", @rows = "3" })
+            </div>
+        </div>
+
+
+        <div class="form-group">
+            <label class="col-md-2 control-label">Sub Category</label>
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.SUB_CATEGORY_NAME, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.SUB_CATEGORY_NAME, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label class="col-md-2 control-label">SubCategory Description</label>
+            <div class="col-md-10">
+                @Html.TextAreaFor(m => m.SUB_CATEGORY_DESCRIPTION, new { @class = "form-control", @rows = "5" })
+            </div>
+        </div>
+        <div class="form-group">
+            <label class="col-md-2 control-label">Start Date</label>
+            <div class="col-md-10">
+                @Html.TextBoxFor(m => m.START_TIME, new { @class = "form-control" })
+            </div>
+        </div>
+        <div class="form-group">
+            <label class="col-md-2 control-label">End Date</label>
+            <div class="col-md-10">
+                @Html.TextBoxFor(m => m.END_TIME, new { @class = "form-control" })
+            </div>
+        </div>
+        <div class="form-group">
+            <label class="col-md-2 control-label">Image</label>
+            <div class="col-md-10">
+                <div>
+                    <img id="txtImage" src="@Model.PHOTO_PATH" class="img-medium" />
+                    <input type="file" id="postedFile" name="postedFile" style="display:none" />
+                </div>
+                <div style="float:left">
+                    <a href="#" id="btnBrowse" onclick="GetFile()" class="btn btn-sm btn-white btn-default btn-round">Browse</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Edit" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
+<script src="~/Scripts/Controller/SubCategoryScript.js"></script>
+<script>
+    $(function () {
+        $('#START_TIME').datetimepicker();
+        $('#END_TIME').datetimepicker();
+    });
+</script>

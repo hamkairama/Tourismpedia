@@ -1,0 +1,149 @@
+﻿@using Persada.Fr.CommonFunction;
+@using Persada.Fr.ModelView;
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title</title>
+    @Scripts.Render("~/bundles/jquery")
+    <script src="~/Scripts/moment.js"></script>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("MTF GO!", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li class="@ViewBag.IndexHome">@Html.ActionLink("Home", "Index", "Home")</li>
+                    <li class="@ViewBag.About">@Html.ActionLink("About", "About", "Home")</li>
+                    <li class="@ViewBag.Contact">@Html.ActionLink("Contact", "Contact", "Home")</li>
+
+                    @{
+                        if (CurrentUser.IsSa())
+                        {
+                    <li class="@ViewBag.AreaSetup">
+                        <a href="#" Class="dropdown-toggle" data-toggle="dropdown">Area Setup<b Class="caret"></b></a>
+                        <ul Class="dropdown-menu">
+                            <li class="@ViewBag.IndexCountry">
+                                <a href="#" Class="dropdown-toggle" data-toggle="dropdown">@Html.ActionLink("Country", "Index", "Country")</a>
+                            </li>
+                            <li class="@ViewBag.IndexProvince">
+                                <a href="#" Class="dropdown-toggle" data-toggle="dropdown">@Html.ActionLink("Province", "Index", "Province")</a>
+                            </li>
+                            <li class="@ViewBag.IndexCity">
+                                <a href="#" Class="dropdown-toggle" data-toggle="dropdown">@Html.ActionLink("City", "Index", "City")</a>
+                            </li>
+                            <li class="@ViewBag.IndexDistrict">
+                                <a href="#" Class="dropdown-toggle" data-toggle="dropdown">@Html.ActionLink("District", "Index", "District")</a>
+                            </li>
+                            <li class="@ViewBag.IndexVillage">
+                                <a href="#" Class="dropdown-toggle" data-toggle="dropdown">@Html.ActionLink("Village", "Index", "Village")</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="@ViewBag.CategorySetup">
+                        <a href="#" Class="dropdown-toggle" data-toggle="dropdown">Category Setup<b Class="caret"></b></a>
+                        <ul Class="dropdown-menu">
+                            <li class="@ViewBag.IndexCategory">
+                                <a href="#" Class="dropdown-toggle" data-toggle="dropdown">@Html.ActionLink("Category", "Index", "Category")</a>
+                            </li>
+                            <li class="@ViewBag.IndexSubCategory">
+                                <a href="#" Class="dropdown-toggle" data-toggle="dropdown">@Html.ActionLink("SubCategory", "Index", "SubCategory")</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="@ViewBag.MenuSetup">
+                        <a href="#" Class="dropdown-toggle" data-toggle="dropdown">Menu Setup<b Class="caret"></b></a>
+                        <ul Class="dropdown-menu">
+                            @*<li class="@ViewBag.IndexMenu">
+                                    <a href="#" Class="dropdown-toggle" data-toggle="dropdown">@Html.ActionLink("Menu", "Index", "Menu")</a>
+                                </li>
+                                <li class="@ViewBag.IndexRole">
+                                    <a href="#" Class="dropdown-toggle" data-toggle="dropdown">@Html.ActionLink("Role", "Index", "Role")</a>
+                                </li>
+                                <li class="@ViewBag.IndexMenuRole">
+                                    <a href="#" Class="dropdown-toggle" data-toggle="dropdown">@Html.ActionLink("MenuRole", "Index", "MenuRole")</a>
+                                </li>*@
+                            <li class="@ViewBag.IndexUser">
+                                <a href="#" Class="dropdown-toggle" data-toggle="dropdown">@Html.ActionLink("User", "Index", "User")</a>
+                            </li>
+                            <li class="@ViewBag.IndexSlideshow">
+                                <a href="#" Class="dropdown-toggle" data-toggle="dropdown">@Html.ActionLink("Slideshow", "Index", "Slideshow")</a>
+                            </li>
+                            <li class="@ViewBag.IndexSosmed">
+                                <a href="#" Class="dropdown-toggle" data-toggle="dropdown">@Html.ActionLink("Sosmed", "Index", "Sosmed")</a>
+                            </li>
+                        </ul>
+                    </li>
+                        }
+                    }
+
+                </ul>
+                @Html.Partial("_LoginPartial")
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <br />
+        <div class="col-xs-1">
+            <a class="twitter-timeline" width="300" height="500" href="https://twitter.com/search?q=jakarta" data-widget-id="964578559883816960"></a>
+            <iframe width="200" height="200" src="https://www.youtube.com/embed/PxucQe-3gMY"></iframe>
+        </div>
+        <div class="col-xs-10">
+            @RenderBody()
+        </div>
+
+        <div class="col-xs-1">
+            <iframe src="https://snapwidget.com/embed/509301" class="snapwidget-widget" allowTransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:390px; height:390px"></iframe>
+            @*<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/BZvM77AlmB_/" data-instgrm-version="8" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:62.5% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/BZvM77AlmB_/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A post shared by Cristiano Ronaldo</a> on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2017-10-02T07:38:27+00:00">Oct 2, 2017 at 12:38am PDT</time></p></div></blockquote>*@
+            @*<iframe src="http://embedmyphotos.com/widget.php?id=8d360451afefe3bf09356e88a" frameborder=0 scrolling=no title="Embed your instagram photos" style="overflow:hidden; width:209px; height:312px;"></iframe>*@
+            @*<script src="//lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/944420073a215f549f3640dfb6b9ccda.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe>*@
+            @*<iframe src='https://www.juicer.io/api/feeds/fani-nurlia/iframe' frameborder='0' width='1000' height='1000' style='display:block;margin:0 auto;'></iframe>*@
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-xs-12">
+            <hr />
+            <div class="col-xs-5">
+                <p><b>&copy; @DateTime.Now.Year - Tourismpedia</b></p>
+            </div>
+            <div class="col-xs-7">
+                @{
+                    foreach (TOURIS_TV_SOSMED item in CurrentUser.GetSosmedList())
+                    {
+                <a class="btn btn-social-icon btn-@item.ICON" href="@item.URL" target="_blank">
+                    <span class="fa fa-@item.ICON"></span>
+                </a>
+                    }
+                }
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="modal fade" id="myModal" role="dialog">
+        </div>
+    </div>
+
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>
+
+<script src="~/Scripts/Helpers/Common.js"></script>
+<script src="~/Scripts/Helpers/Modal.js"></script>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async defer src="//www.instagram.com/embed.js"></script>
+

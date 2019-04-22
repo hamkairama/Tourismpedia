@@ -1,0 +1,82 @@
+﻿@model Persada.Fr.ModelView.TOURIS_TV_DISTRICT
+@{
+    ViewBag.Title = "Edit District";
+}
+
+<h2>@ViewBag.Title.</h2>
+
+
+@using (Html.BeginForm("ActionEdit", "District", FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        @Html.HiddenFor(model => model.ID)
+
+        <div class="form-group">
+            <label class="col-md-2 control-label">District Code</label>
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.DISTRICT_CODE, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.DISTRICT_CODE, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label class="col-md-2 control-label">Country</label>
+            <div class="col-md-10">
+                @Html.DropDownListFor(model => model.COUNTRY_ID, (IEnumerable<SelectListItem>)ViewBag.GetCountryList, new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.COUNTRY_ID, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label class="col-md-2 control-label">Province</label>
+            <div class="col-md-10">
+                @Html.DropDownListFor(model => model.PROVINCE_ID, (IEnumerable<SelectListItem>)ViewBag.GetProvinceList, new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.PROVINCE_ID, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label class="col-md-2 control-label">City</label>
+            <div class="col-md-10">
+                @Html.DropDownListFor(model => model.CITY_ID, (IEnumerable<SelectListItem>)ViewBag.GetCityList, new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.CITY_ID, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        
+        <div class="form-group">
+            <label class="col-md-2 control-label">District</label>
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.DISTRICT_NAME, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.DISTRICT_NAME, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label class="col-md-2 control-label">City Description</label>
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.DISTRICT_DESCRIPTION, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.DISTRICT_DESCRIPTION, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Edit" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
+
+<script src="~/Scripts/Controller/DistrictScript.js"></script>

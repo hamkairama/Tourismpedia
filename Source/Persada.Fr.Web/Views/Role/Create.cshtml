@@ -1,0 +1,233 @@
+﻿@model Persada.Fr.ModelView.TOURIS_TV_ROLE
+@{
+    ViewBag.Title = "Create Role";
+}
+
+<style>
+    input[type="checkbox"] {
+        opacity: 100;
+        position: static;
+    }
+
+    .tree-folder-content {
+        border-left: 1px dotted #67b2dd;
+    }
+
+    .bolder {
+        font-weight: bold;
+    }
+
+    .accordion-toggle {
+        color: #4d6878;
+        text-decoration: none;
+    }
+
+        .accordion-toggle:hover {
+            text-decoration: none;
+        }
+</style>
+
+<div class="row-fluid">
+    <div class="span12">
+
+        <div class="widget-box">
+            <div class="widget-header">
+                <h5>
+                    @*@Html.Raw(Labels.IconWidget("Create"))*@
+                    Create Role
+                </h5>
+            </div>
+
+            <div class="widget-body">
+                <div class="widget-main">
+                    @if (ViewBag.Message != null)
+                    {
+                        <div class="alert alert-block alert-info">
+                            <button class="close" data-dismiss="alert" type="button">
+                                <i class="icon-remove"></i>
+                            </button>
+                            <i class="icon-ok blue"></i>
+                            @ViewBag.Message
+                        </div>
+                    }
+                    @if (ViewBag.messageEror != null)
+                    {
+                        <div class="alert alert-block alert-error">
+                            <button class="close" data-dismiss="alert" type="button">
+                                <i class="icon-remove"></i>
+                            </button>
+                            <i class="icon-warning-sign red"></i>
+                            @ViewBag.messageEror
+                            <br>
+                        </div>
+                    }
+                    @using (Html.BeginForm())
+                    {
+                        @Html.AntiForgeryToken()
+                        @Html.ValidationSummary(true)
+                        <div class="form-horizontal">
+
+                            <div class="row-fluid">
+
+                                <div class="span7">
+                                    <div class="control-group">
+                                        @Html.LabelFor(model => model.ROLE_NAME, new { @class = "control-label" })
+                                        <div class="controls">
+                                            @Html.EditorFor(model => model.ROLE_NAME) *
+                                            <span class="help-inline">
+                                                @Html.ValidationMessageFor(model => model.ROLE_NAME)
+                                                <span id="Unique">
+                                                    @ViewBag.Unique
+                                                </span>
+                                            </span>
+                                        </div>
+                                    </div>
+
+                                    <div class="control-group">
+                                        @Html.LabelFor(model => model.IS_INACTIVE, new { @class = "control-label" })
+                                        <div class="controls">
+                                            @if (Model.IS_INACTIVE == "1")
+                                            {
+                                                <input type="checkbox" name="IS_INACTIVE" id="IS_INACTIVE" value="1" checked="checked">
+                                            }
+                                            else
+                                            {
+                                                <input type="checkbox" name="IS_INACTIVE" id="IS_INACTIVE" value="1">
+                                            }
+
+                                            <span class="help-inline">
+                                                @Html.ValidationMessageFor(model => model.IS_INACTIVE)
+                                            </span>
+                                        </div>
+                                    </div>
+
+                                    <div class="control-group">
+                                        @Html.LabelFor(model => model.DESCRIPTION, new { @class = "control-label" })
+                                        <div class="controls">
+                                            @Html.EditorFor(model => model.DESCRIPTION)
+                                            <span class="help-inline">
+                                                @Html.ValidationMessageFor(model => model.DESCRIPTION)
+                                            </span>
+                                        </div>
+                                    </div>
+
+                                </div>
+
+                                <div class="span5">
+
+                                    <div class="widget-box">
+                                        <div class="widget-body" style="border-top:solid 1px #ccc">
+                                            <div class="widget-main">
+                                                <div id="tree2" class="tree tree-unselectable">
+                                                    @foreach (Persada.Fr.ModelView.TOURIS_TV_ROLE_MENU item in Model.ROLE_MENU.Where(a => a.MENU_PARENT_ID != 0).OrderBy(a => a.MENU_NAME))
+                                                    {
+                                                        <div class="tree-folder">
+
+                                                            <div class="tree-folder-header">
+                                                                @if (item.IS_ACCESS == "1")
+                                                                {
+                                                                    <input type="checkbox" id="@item.MENU_ID" name="@item.MENU_ID" value="1" checked="checked" />
+                                                                }
+                                                                else
+                                                                {
+                                                                    <input type="checkbox" id="@item.MENU_ID" name="@item.MENU_ID" value="1" />
+                                                                }
+                                                                <div class="tree-folder-name">
+                                                                    <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion2" href="#M-@item.MENU_ID">
+                                                                        @item.MENU_NAME
+                                                                    </a>
+                                                                </div>
+                                                            </div>
+
+
+                                                            <div class="tree-folder-content collapse" id="M-@item.MENU_ID">
+                                                                @foreach (Persada.Fr.ModelView.TOURIS_TV_ROLE_MENU child in Model.ROLE_MENU.Where(a => a.MENU_PARENT_ID == item.MENU_ID).OrderBy(a => a.MENU_NAME))
+                                                                {
+                                                                    <div class="tree-folder">
+                                                                        <div class="tree-folder-header">
+                                                                            @if (child.IS_ACCESS == "1")
+                                                                            {
+                                                                                <input type="checkbox" class="@child.MENU_PARENT_ID" id="@child.MENU_ID" name="@child.MENU_ID" value="1" checked="checked" />
+                                                                            }
+                                                                            else
+                                                                            {
+                                                                                <input type="checkbox" class="@child.MENU_PARENT_ID" id="@child.MENU_ID" name="@child.MENU_ID" value="1" />
+                                                                            }
+
+                                                                            <div class="tree-folder-name">
+                                                                                <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion2" href="#M-@child.MENU_ID">
+                                                                                    @child.MENU_NAME
+                                                                                </a>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                }
+                                                            </div>
+                                                        </div>
+
+                                                        <script>
+                                                            $(function () {
+
+                                                                $('.@item.MENU_ID').click(function () { // Jika Checkbox Pilih Semua di ceklis maka semua sub checkbox akan diceklis juga
+                                                                    if ($(".@item.MENU_ID:checked").length > 0) {
+                                                                        $("#@item.MENU_ID:checkbox").attr("checked", "checked");
+                                                                    } else {
+                                                                        $("#@item.MENU_ID").removeAttr("checked");
+                                                                    }
+                                                                });
+
+                                                                $('#@item.MENU_ID').click(function () { // Jika Checkbox Pilih Semua di ceklis maka semua sub checkbox akan diceklis juga
+                                                                    $('.@item.MENU_ID:checkbox').attr('checked', this.checked);
+                                                                });
+
+                                                            });
+                                                        </script>
+                                                    }
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+
+                            <div class="form-actions">
+                                <span id="buttons">
+                                    @*<input type="submit" name="submit" value="@Labels.ButtonSaveForm("Create")" class="btn btn-primary btn-small" />*@
+                                </span>
+                                @*<a href="@Url.Action("Index", "Role")" class="btn btn-warning btn-small">@Labels.ButtonCancelForm()</a>*@
+
+                            </div>
+                        </div>
+                    }
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+@*<div id="dvLoading" class="loading-page"><img src="@WebConfigKey.ImgLoading" /></div>*@
+
+<script>
+    $(function () {
+
+        $('form').submit(function () {
+            if ($(this).valid()) {
+                $('#dvLoading').fadeIn(200);
+            };
+        });
+
+        $('#tree2').ready(function () {
+            $.each($('#tree2').find('.tree-folder'), function (i, val) {
+                if ($(this).find('.tree-folder').length > 0) {
+                    $(this).children().children('.tree-folder-name').addClass('bolder');
+                };
+            });
+        });
+
+        //-------------------------------------------------------------------
+
+      
+    });
+</script>

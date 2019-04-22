@@ -1,0 +1,24 @@
+E:\Project 2\Persada.Fr.Web\Persada.Fr.ModelView\bin\Debug\Persada.Fr.ModelView.dll
+E:\Project 2\Persada.Fr.Web\Persada.Fr.ModelView\bin\Debug\Persada.Fr.ModelView.pdb
+E:\Project 2\Persada.Fr.Web\Persada.Fr.ModelView\obj\Debug\Persada.Fr.ModelView.dll
+E:\Project 2\Persada.Fr.Web\Persada.Fr.ModelView\obj\Debug\Persada.Fr.ModelView.pdb
+E:\Project 2\Persada.Fr.Web\Persada.Fr.ModelView\obj\Debug\Persada.Fr.ModelView.csprojResolveAssemblyReference.cache
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.ModelView\bin\Debug\Persada.Fr.ModelView.dll
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.ModelView\bin\Debug\Persada.Fr.ModelView.pdb
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.ModelView\obj\Debug\Persada.Fr.ModelView.csprojResolveAssemblyReference.cache
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.ModelView\obj\Debug\Persada.Fr.ModelView.dll
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.ModelView\obj\Debug\Persada.Fr.ModelView.pdb
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.ModelView\bin\Debug\Persada.Fr.ModelView.dll
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.ModelView\bin\Debug\Persada.Fr.ModelView.pdb
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.ModelView\obj\Debug\Persada.Fr.ModelView.dll
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.ModelView\obj\Debug\Persada.Fr.ModelView.pdb
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.ModelView\bin\Debug\Persada.Fr.ModelView.dll
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.ModelView\bin\Debug\Persada.Fr.ModelView.pdb
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.ModelView\obj\Debug\Persada.Fr.ModelView.csprojResolveAssemblyReference.cache
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.ModelView\obj\Debug\Persada.Fr.ModelView.dll
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.ModelView\obj\Debug\Persada.Fr.ModelView.pdb
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.ModelView\bin\Debug\Persada.Fr.ModelView.dll
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.ModelView\bin\Debug\Persada.Fr.ModelView.pdb
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.ModelView\obj\Debug\Persada.Fr.ModelView.dll
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.ModelView\obj\Debug\Persada.Fr.ModelView.pdb
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.ModelView\obj\Debug\Persada.Fr.ModelView.csprojResolveAssemblyReference.cache

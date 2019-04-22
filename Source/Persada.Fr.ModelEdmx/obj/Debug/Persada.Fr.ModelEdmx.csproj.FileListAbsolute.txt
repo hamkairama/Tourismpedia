@@ -1,0 +1,5 @@
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.ModelEdmx\bin\Debug\Persada.Fr.ModelEdmx.dll
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.ModelEdmx\bin\Debug\Persada.Fr.ModelEdmx.pdb
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.ModelEdmx\obj\Debug\Persada.Fr.ModelEdmx.csprojResolveAssemblyReference.cache
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.ModelEdmx\obj\Debug\Persada.Fr.ModelEdmx.dll
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.ModelEdmx\obj\Debug\Persada.Fr.ModelEdmx.pdb

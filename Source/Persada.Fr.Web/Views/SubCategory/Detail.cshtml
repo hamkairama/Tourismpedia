@@ -1,0 +1,101 @@
+﻿@model Persada.Fr.ModelView.TOURIS_TV_SUB_CATEGORY
+@{
+    ViewBag.Title = "Detail SubCategory";
+}
+
+<h2>@ViewBag.Title.</h2>
+
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false&libraries=places"></script>
+
+<div class="modal-dialog">
+    <div class="modal-content">
+        <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal">&times;</button>
+            <h4 class="modal-title">@Model.CATEGORY_NAME</h4>
+            <span id="lat">@Model.LATITUDE</span>
+            <span id="lng">@Model.LONGITUDE</span>
+        </div>
+        <div class="modal-body">
+            <div>
+                <div style="text-align:center">
+                    <img src="@Model.PHOTO_PATH" class="img-large" />
+                </div>
+                <dl class="dl-horizontal">
+                    <dt>
+                        SubCategory
+                    </dt>
+
+                    <dd>
+                        @Model.SUB_CATEGORY_NAME
+                    </dd>
+
+                    <dt>
+                        Description
+                    </dt>
+
+                    <dd>
+                        @Model.SUB_CATEGORY_DESCRIPTION
+                    </dd>
+
+                    <dt>
+                        Address
+                    </dt>
+
+                    <dd>
+                        <span id="address">
+                            @Model.ADDRESS. @Model.VILLAGE_NAME, @Model.DISTRICT_NAME. @Model.CITY_NAME, @Model.PROVINCE_NAME. @Model.COUNTRY_NAME.
+                        </span>
+                    </dd>
+
+
+                    <dt>
+                        Start Date
+                    </dt>
+
+                    <dd>
+                        @Model.START_TIME
+                    </dd>
+
+
+                    <dt>
+                        End Date
+                    </dt>
+
+                    <dd>
+                        @Model.END_TIME
+                    </dd>
+
+                </dl>
+            </div>
+
+            <div class="col-md-4"><a href="#" onclick="ShowMap()">show mapp..</a></div>
+
+            <iframe id="map"
+                    class="img-medium"
+                    frameborder="0" style="border:0;display:none;"
+                    src="https://www.google.com/maps/embed/v1/place?key=AIzaSyC0RRMJrUWd9zwELK6LMfJmrU9ZyIOsnq8&q=@ViewBag.MapUrl"
+                    allowfullscreen>
+            </iframe>
+
+
+        </div>
+        <div class="modal-footer">
+            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        </div>
+    </div>
+</div>
+<script src="~/Scripts/Helpers/GoogleMap.js"></script>
+<script>
+    var address, newAddress;
+    $(function () {
+        address = document.getElementById("address").innerText;
+        newAddress = address.replace(/ /g, '+');
+    })
+    function ShowMap() {
+        var map = document.getElementById("map");
+        map.style.display = 'block';
+    }
+</script>
+
+
+

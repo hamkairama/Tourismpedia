@@ -1,0 +1,33 @@
+﻿@using Microsoft.AspNet.Identity
+@using Persada.Fr.CommonFunction
+@if (CurrentUser.GetCurrentUserId() != "")
+{
+    using (Html.BeginForm("ActionLogoff", "User", FormMethod.Post, new { id = "logoutForm", @class = "navbar-right" }))
+    {
+    @Html.AntiForgeryToken()
+
+    <ul class="nav navbar-nav navbar-right">
+        <li class="@ViewBag.ProfileSetting">
+            <a href="#" Class="dropdown-toggle" data-toggle="dropdown">
+                Hello @CurrentUser.GetCurrentUserId() !
+            <b Class="caret"></b></a>
+            <ul Class="dropdown-menu">
+                <li class="@ViewBag.EditProfile">
+                    <a href="#" Class="dropdown-toggle" data-toggle="dropdown">@Html.ActionLink("Edit Profile", "Edit", "User", new { id = Session["USER_ID_ID"] }, null)</a>
+                </li>
+                <li class="@ViewBag.ChangePasswordProfile">
+                    <a href="#" Class="dropdown-toggle" data-toggle="dropdown">@Html.ActionLink("Change Password", "ChangePassword", "User")</a>
+                </li>
+            </ul>
+        </li>
+        <li><a href="javascript:document.getElementById('logoutForm').submit()">Log off</a></li>
+    </ul>
+    }
+}
+else
+{
+    <ul class="nav navbar-nav navbar-right">
+        <li>@Html.ActionLink("Register", "Create", "User", routeValues: null, htmlAttributes: new { id = "registerLink" })</li>
+        <li>@Html.ActionLink("Log in", "Login", "User", routeValues: null, htmlAttributes: new { id = "loginLink" })</li>
+    </ul>
+}

@@ -1,0 +1,80 @@
+﻿@model Persada.Fr.ModelView.TOURIS_TV_CATEGORY
+@using Persada.Fr.CommonFunction;
+@{
+    ViewBag.Title = "Detail Category";
+}
+
+<h2>@ViewBag.Title.</h2>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Category Code
+        </dt>
+
+        <dd>
+            @Model.CATEGORY_CODE
+        </dd>
+
+        <dt>
+            Category Name
+        </dt>
+
+        <dd>
+            @Model.CATEGORY_NAME
+        </dd>
+
+        <dt>
+            Category Description
+        </dt>
+
+        <dd>
+            @Model.CATEGORY_DESCRIPTION
+        </dd>
+        @{
+            if (CurrentUser.IsSa())
+            {
+
+                <dt>
+                    Url
+                </dt>
+
+                <dd>
+                    @Model.URL
+                </dd>
+
+                <dt>
+                    Class
+                </dt>
+
+                <dd>
+                    @Model.CLASS
+                </dd>
+            }
+        }
+    </dl>
+
+    <hr />
+    @{
+        foreach (var item in Model.TOURIS_TV_SUB_CATEGORY)
+        {
+            <div class="form-group">
+                <div class="col-md-4">
+                    <div>
+                        <a href="#"><img src="@item.PHOTO_PATH" class="img-medium" onclick="Modal('/SubCategory/Detail/','@item.ID','#myModal')" /></a>
+                        <b>@item.SUB_CATEGORY_NAME</b><br />
+                    </div>
+                </div>
+            </div>
+        }
+
+        if (CurrentUser.IsSa())
+        {
+            <div class="form-actions no-color">
+                @Html.ActionLink("Back to List", "Index")
+            </div>
+        }
+    }
+</div>
+

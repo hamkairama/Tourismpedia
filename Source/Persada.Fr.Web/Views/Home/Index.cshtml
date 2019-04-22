@@ -1,0 +1,82 @@
+﻿@model IEnumerable<Persada.Fr.ModelView.TOURIS_TV_CATEGORY>
+@using Persada.Fr.ModelView;
+
+@{
+    ViewBag.Title = "MTF GO!";
+    ViewBag.IndexHome = "active";
+}
+
+<style>
+    #map {
+        height: 100%;
+    }
+    /* Optional: Makes the sample page fill the window. */
+    /*html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+    }*/
+</style>
+
+<div class="row">
+    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+        <ol class="carousel-indicators">
+            @{
+                int i = 0;
+                foreach (TOURIS_TV_SLIDESHOW item in ViewBag.GetSlideshow)
+                {
+                    <li data-target="#myCarousel" data-slide-to="@i" class="@item.CLASS"></li>
+                    i += 1;
+                }
+            }
+        </ol>
+
+        <div class="carousel-inner">
+            @{
+                foreach (TOURIS_TV_SLIDESHOW item in ViewBag.GetSlideshow)
+                {
+                    <div class="item @item.CLASS">
+                        <div style="background:url('@item.PHOTO_PATH') center center; background-size:cover;" class="slider-size">
+                            <div class="carousel-caption">
+                                <a href="@item.URL" style="text-decoration:none"><h2 class="tourism-shadow">@item.TITTLE</h2></a>
+                                <p>@item.CONTENT_DESCRIPTION</p>
+                            </div>
+                        </div>
+                    </div>
+                }
+            }
+        </div>
+    </div>
+
+    <p><a href="http://asp.net" class="btn btn-default">Learn more &raquo;</a></p>
+</div>
+
+<div class="row">
+    @{
+        foreach (var item in Model)
+        {
+            <div class="col-xs-4">
+                <a href="@item.URL" style="text-decoration:none;" class="tourism-shadow">
+                    <div style="background:url('@item.PHOTO_PATH') center center; background-size:cover;" class="img-medium">
+                        <div class="">
+                            @item.CATEGORY_NAME
+                            @*<p>@item.CONTENT_DESCRIPTION</p>*@
+                        </div>
+                    </div>             
+                </a>
+            </div>
+
+
+            @*<div class="col-xs-4">
+                    <h2>@item.CATEGORY_NAME</h2>
+                    <p>
+                        @item.CATEGORY_DESCRIPTION
+                    </p>
+                    <p><a class="btn btn-@item.CLASS" href="@item.URL">Learn more &raquo;</a></p>
+                </div>*@
+        }
+    }
+</div>
+
+
+

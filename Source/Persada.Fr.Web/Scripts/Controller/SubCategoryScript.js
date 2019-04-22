@@ -1,0 +1,72 @@
+﻿$(function () {
+    $('#COUNTRY_ID').change(function () {
+        var idSelected = $(this).find('option:selected').attr('value');
+        var path = pathWeb + "/City/GetProvinceListByCountryId/";
+        var response = $.xResponse(path, { countryId: idSelected });
+
+        var markup;
+        for (var x = 0; x < response.length; x++) {
+            var responseText = response[x].Text;
+            var responseValue = response[x].Value;
+            if (x == 0) {
+                responseText = "Select Province :"
+            }
+            markup += "<option value=" + responseValue + ">" + responseText + "</option>";
+        }
+        $("#PROVINCE_ID").html(markup).show();
+        $("#CITY_ID").html("").show();
+        $("#DISTRICT_ID").html("").show();
+        $("#VILLAGE_ID").html("").show();
+    });
+
+    $('#PROVINCE_ID').change(function () {
+        var idSelected = $(this).find('option:selected').attr('value');
+        var path = pathWeb + "/District/GetCityListByProvinceId/";
+        var response = $.xResponse(path, { provinceId: idSelected });
+
+        var markup;
+        for (var x = 0; x < response.length; x++) {
+            var responseText = response[x].Text;
+            var responseValue = response[x].Value;
+            if (x == 0) {
+                responseText = "Select City :"
+            }
+            markup += "<option value=" + responseValue + ">" + responseText + "</option>";
+        }
+        $("#CITY_ID").html(markup).show();
+    });
+
+    $('#CITY_ID').change(function () {
+        var idSelected = $(this).find('option:selected').attr('value');
+        var path = pathWeb + "/Village/GetDistrictByCityId/";
+        var response = $.xResponse(path, { cityId: idSelected });
+
+        var markup;
+        for (var x = 0; x < response.length; x++) {
+            var responseText = response[x].Text;
+            var responseValue = response[x].Value;
+            if (x == 0) {
+                responseText = "Select District :"
+            }
+            markup += "<option value=" + responseValue + ">" + responseText + "</option>";
+        }
+        $("#DISTRICT_ID").html(markup).show();
+    });
+
+    $('#DISTRICT_ID').change(function () {
+        var idSelected = $(this).find('option:selected').attr('value');
+        var path = pathWeb + "/SubCategory/GetVillageByDistrictId/";
+        var response = $.xResponse(path, { districtId: idSelected });
+
+        var markup;
+        for (var x = 0; x < response.length; x++) {
+            var responseText = response[x].Text;
+            var responseValue = response[x].Value;
+            if (x == 0) {
+                responseText = "Select Village :"
+            }
+            markup += "<option value=" + responseValue + ">" + responseText + "</option>";
+        }
+        $("#VILLAGE_ID").html(markup).show();
+    });
+});

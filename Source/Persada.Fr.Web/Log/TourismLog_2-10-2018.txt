@@ -1,0 +1,4739 @@
+===================================================2/10/2018 12:02:03 AM===================================================
+URL					 = http://localhost:45086/api/Country/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 22,
+    "COUNTRY_NAME": "Singapore",
+    "COUNTRY_CODE": "12",
+    "COUNTRY_DESCRIPTION": "Singapore",
+    "CREATED_TIME": "2018-02-08T05:52:02.58",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-09T06:31:07.307",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 23,
+    "COUNTRY_NAME": "Indonesia",
+    "COUNTRY_CODE": "3",
+    "COUNTRY_DESCRIPTION": "Indonesia",
+    "CREATED_TIME": "2018-02-08T05:59:27.36",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:03:20.177",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "COUNTRY_CODE": "ad",
+    "COUNTRY_DESCRIPTION": "adfad",
+    "CREATED_TIME": "2018-02-08T06:14:20.91",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:02.12",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 25,
+    "COUNTRY_NAME": "Bruney Darussalam",
+    "COUNTRY_CODE": "ads",
+    "COUNTRY_DESCRIPTION": "fad",
+    "CREATED_TIME": "2018-02-08T06:15:03.513",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:12.5",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 12:04:05 AM===================================================
+URL					 = http://localhost:45086/api/Country/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 22,
+    "COUNTRY_NAME": "Singapore",
+    "COUNTRY_CODE": "12",
+    "COUNTRY_DESCRIPTION": "Singapore",
+    "CREATED_TIME": "2018-02-08T05:52:02.58",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-09T06:31:07.307",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 23,
+    "COUNTRY_NAME": "Indonesia",
+    "COUNTRY_CODE": "3",
+    "COUNTRY_DESCRIPTION": "Indonesia",
+    "CREATED_TIME": "2018-02-08T05:59:27.36",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:03:20.177",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "COUNTRY_CODE": "ad",
+    "COUNTRY_DESCRIPTION": "adfad",
+    "CREATED_TIME": "2018-02-08T06:14:20.91",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:02.12",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 25,
+    "COUNTRY_NAME": "Bruney Darussalam",
+    "COUNTRY_CODE": "ads",
+    "COUNTRY_DESCRIPTION": "fad",
+    "CREATED_TIME": "2018-02-08T06:15:03.513",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:12.5",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 12:18:42 AM===================================================
+URL					 = http://localhost:45086/api/Country/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 22,
+    "COUNTRY_NAME": "Singapore",
+    "COUNTRY_CODE": "12",
+    "COUNTRY_DESCRIPTION": "Singapore",
+    "CREATED_TIME": "2018-02-08T05:52:02.58",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-09T06:31:07.307",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 23,
+    "COUNTRY_NAME": "Indonesia",
+    "COUNTRY_CODE": "3",
+    "COUNTRY_DESCRIPTION": "Indonesia",
+    "CREATED_TIME": "2018-02-08T05:59:27.36",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:03:20.177",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "COUNTRY_CODE": "ad",
+    "COUNTRY_DESCRIPTION": "adfad",
+    "CREATED_TIME": "2018-02-08T06:14:20.91",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:02.12",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 25,
+    "COUNTRY_NAME": "Bruney Darussalam",
+    "COUNTRY_CODE": "ads",
+    "COUNTRY_DESCRIPTION": "fad",
+    "CREATED_TIME": "2018-02-08T06:15:03.513",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:12.5",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 12:19:36 AM===================================================
+URL					 = http://localhost:45086/api/Country/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 22,
+    "COUNTRY_NAME": "Singapore",
+    "COUNTRY_CODE": "12",
+    "COUNTRY_DESCRIPTION": "Singapore",
+    "CREATED_TIME": "2018-02-08T05:52:02.58",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-09T06:31:07.307",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 23,
+    "COUNTRY_NAME": "Indonesia",
+    "COUNTRY_CODE": "3",
+    "COUNTRY_DESCRIPTION": "Indonesia",
+    "CREATED_TIME": "2018-02-08T05:59:27.36",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:03:20.177",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "COUNTRY_CODE": "ad",
+    "COUNTRY_DESCRIPTION": "adfad",
+    "CREATED_TIME": "2018-02-08T06:14:20.91",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:02.12",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 25,
+    "COUNTRY_NAME": "Bruney Darussalam",
+    "COUNTRY_CODE": "ads",
+    "COUNTRY_DESCRIPTION": "fad",
+    "CREATED_TIME": "2018-02-08T06:15:03.513",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:12.5",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 12:21:48 AM===================================================
+URL					 = http://localhost:45086/api/City/GridBind
+Request					 = 
+Respon					 = []
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 12:21:50 AM===================================================
+URL					 = http://localhost:45086/api/Country/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 22,
+    "COUNTRY_NAME": "Singapore",
+    "COUNTRY_CODE": "12",
+    "COUNTRY_DESCRIPTION": "Singapore",
+    "CREATED_TIME": "2018-02-08T05:52:02.58",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-09T06:31:07.307",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 23,
+    "COUNTRY_NAME": "Indonesia",
+    "COUNTRY_CODE": "3",
+    "COUNTRY_DESCRIPTION": "Indonesia",
+    "CREATED_TIME": "2018-02-08T05:59:27.36",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:03:20.177",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "COUNTRY_CODE": "ad",
+    "COUNTRY_DESCRIPTION": "adfad",
+    "CREATED_TIME": "2018-02-08T06:14:20.91",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:02.12",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 25,
+    "COUNTRY_NAME": "Bruney Darussalam",
+    "COUNTRY_CODE": "ads",
+    "COUNTRY_DESCRIPTION": "fad",
+    "CREATED_TIME": "2018-02-08T06:15:03.513",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:12.5",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 12:37:44 AM===================================================
+URL					 = http://localhost:45086/api/City/GridBind
+Request					 = 
+Respon					 = []
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 12:37:45 AM===================================================
+URL					 = http://localhost:45086/api/Country/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 22,
+    "COUNTRY_NAME": "Singapore",
+    "COUNTRY_CODE": "12",
+    "COUNTRY_DESCRIPTION": "Singapore",
+    "CREATED_TIME": "2018-02-08T05:52:02.58",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-09T06:31:07.307",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 23,
+    "COUNTRY_NAME": "Indonesia",
+    "COUNTRY_CODE": "3",
+    "COUNTRY_DESCRIPTION": "Indonesia",
+    "CREATED_TIME": "2018-02-08T05:59:27.36",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:03:20.177",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "COUNTRY_CODE": "ad",
+    "COUNTRY_DESCRIPTION": "adfad",
+    "CREATED_TIME": "2018-02-08T06:14:20.91",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:02.12",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 25,
+    "COUNTRY_NAME": "Bruney Darussalam",
+    "COUNTRY_CODE": "ads",
+    "COUNTRY_DESCRIPTION": "fad",
+    "CREATED_TIME": "2018-02-08T06:15:03.513",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:12.5",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 12:39:57 AM===================================================
+URL					 = http://localhost:45086/api/City/GridBind
+Request					 = 
+Respon					 = []
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 12:40:02 AM===================================================
+URL					 = http://localhost:45086/api/Country/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 22,
+    "COUNTRY_NAME": "Singapore",
+    "COUNTRY_CODE": "12",
+    "COUNTRY_DESCRIPTION": "Singapore",
+    "CREATED_TIME": "2018-02-08T05:52:02.58",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-09T06:31:07.307",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 23,
+    "COUNTRY_NAME": "Indonesia",
+    "COUNTRY_CODE": "3",
+    "COUNTRY_DESCRIPTION": "Indonesia",
+    "CREATED_TIME": "2018-02-08T05:59:27.36",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:03:20.177",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "COUNTRY_CODE": "ad",
+    "COUNTRY_DESCRIPTION": "adfad",
+    "CREATED_TIME": "2018-02-08T06:14:20.91",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:02.12",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 25,
+    "COUNTRY_NAME": "Bruney Darussalam",
+    "COUNTRY_CODE": "ads",
+    "COUNTRY_DESCRIPTION": "fad",
+    "CREATED_TIME": "2018-02-08T06:15:03.513",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:12.5",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 12:40:21 AM===================================================
+URL					 = http://localhost:45086/api/Province/GridBind
+Request					 = {}
+Respon					 = [
+  {
+    "ID": 7,
+    "COUNTRY_ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "PROVINCE_NAME": "fadsfa",
+    "PROVINCE_CODE": "adfa",
+    "PROVINCE_DESCRIPTION": "adfadf",
+    "CREATED_TIME": "2018-02-08T06:16:47.743",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:17:05.437",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 12:41:16 AM===================================================
+URL					 = http://localhost:45086/api/Province/GridBind
+Request					 = {}
+Respon					 = [
+  {
+    "ID": 7,
+    "COUNTRY_ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "PROVINCE_NAME": "fadsfa",
+    "PROVINCE_CODE": "adfa",
+    "PROVINCE_DESCRIPTION": "adfadf",
+    "CREATED_TIME": "2018-02-08T06:16:47.743",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:17:05.437",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 12:46:04 AM===================================================
+URL					 = http://localhost:45086/api/Country/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 22,
+    "COUNTRY_NAME": "Singapore",
+    "COUNTRY_CODE": "12",
+    "COUNTRY_DESCRIPTION": "Singapore",
+    "CREATED_TIME": "2018-02-08T05:52:02.58",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-09T06:31:07.307",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 23,
+    "COUNTRY_NAME": "Indonesia",
+    "COUNTRY_CODE": "3",
+    "COUNTRY_DESCRIPTION": "Indonesia",
+    "CREATED_TIME": "2018-02-08T05:59:27.36",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:03:20.177",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "COUNTRY_CODE": "ad",
+    "COUNTRY_DESCRIPTION": "adfad",
+    "CREATED_TIME": "2018-02-08T06:14:20.91",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:02.12",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 25,
+    "COUNTRY_NAME": "Bruney Darussalam",
+    "COUNTRY_CODE": "ads",
+    "COUNTRY_DESCRIPTION": "fad",
+    "CREATED_TIME": "2018-02-08T06:15:03.513",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:12.5",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 12:48:48 AM===================================================
+URL					 = http://localhost:45086/api/City/GridBind
+Request					 = 
+Respon					 = []
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 12:48:53 AM===================================================
+URL					 = http://localhost:45086/api/Country/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 22,
+    "COUNTRY_NAME": "Singapore",
+    "COUNTRY_CODE": "12",
+    "COUNTRY_DESCRIPTION": "Singapore",
+    "CREATED_TIME": "2018-02-08T05:52:02.58",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-09T06:31:07.307",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 23,
+    "COUNTRY_NAME": "Indonesia",
+    "COUNTRY_CODE": "3",
+    "COUNTRY_DESCRIPTION": "Indonesia",
+    "CREATED_TIME": "2018-02-08T05:59:27.36",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:03:20.177",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "COUNTRY_CODE": "ad",
+    "COUNTRY_DESCRIPTION": "adfad",
+    "CREATED_TIME": "2018-02-08T06:14:20.91",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:02.12",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 25,
+    "COUNTRY_NAME": "Bruney Darussalam",
+    "COUNTRY_CODE": "ads",
+    "COUNTRY_DESCRIPTION": "fad",
+    "CREATED_TIME": "2018-02-08T06:15:03.513",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:12.5",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 12:49:04 AM===================================================
+URL					 = http://localhost:45086/api/Province/GridBind
+Request					 = {}
+Respon					 = [
+  {
+    "ID": 7,
+    "COUNTRY_ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "PROVINCE_NAME": "fadsfa",
+    "PROVINCE_CODE": "adfa",
+    "PROVINCE_DESCRIPTION": "adfadf",
+    "CREATED_TIME": "2018-02-08T06:16:47.743",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:17:05.437",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 12:49:21 AM===================================================
+URL					 = http://localhost:45086/api/Province/GridBind
+Request					 = {}
+Respon					 = [
+  {
+    "ID": 7,
+    "COUNTRY_ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "PROVINCE_NAME": "fadsfa",
+    "PROVINCE_CODE": "adfa",
+    "PROVINCE_DESCRIPTION": "adfadf",
+    "CREATED_TIME": "2018-02-08T06:16:47.743",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:17:05.437",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 12:49:26 AM===================================================
+URL					 = http://localhost:45086/api/Province/GridBind
+Request					 = {}
+Respon					 = [
+  {
+    "ID": 7,
+    "COUNTRY_ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "PROVINCE_NAME": "fadsfa",
+    "PROVINCE_CODE": "adfa",
+    "PROVINCE_DESCRIPTION": "adfadf",
+    "CREATED_TIME": "2018-02-08T06:16:47.743",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:17:05.437",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 12:49:29 AM===================================================
+URL					 = http://localhost:45086/api/Province/GridBind
+Request					 = {}
+Respon					 = [
+  {
+    "ID": 7,
+    "COUNTRY_ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "PROVINCE_NAME": "fadsfa",
+    "PROVINCE_CODE": "adfa",
+    "PROVINCE_DESCRIPTION": "adfadf",
+    "CREATED_TIME": "2018-02-08T06:16:47.743",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:17:05.437",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 12:49:32 AM===================================================
+URL					 = http://localhost:45086/api/Province/GridBind
+Request					 = {}
+Respon					 = [
+  {
+    "ID": 7,
+    "COUNTRY_ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "PROVINCE_NAME": "fadsfa",
+    "PROVINCE_CODE": "adfa",
+    "PROVINCE_DESCRIPTION": "adfadf",
+    "CREATED_TIME": "2018-02-08T06:16:47.743",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:17:05.437",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 12:49:36 AM===================================================
+URL					 = http://localhost:45086/api/Province/GridBind
+Request					 = {}
+Respon					 = [
+  {
+    "ID": 7,
+    "COUNTRY_ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "PROVINCE_NAME": "fadsfa",
+    "PROVINCE_CODE": "adfa",
+    "PROVINCE_DESCRIPTION": "adfadf",
+    "CREATED_TIME": "2018-02-08T06:16:47.743",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:17:05.437",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 12:49:56 AM===================================================
+URL					 = http://localhost:45086/api/Province/GridBind
+Request					 = {}
+Respon					 = [
+  {
+    "ID": 7,
+    "COUNTRY_ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "PROVINCE_NAME": "fadsfa",
+    "PROVINCE_CODE": "adfa",
+    "PROVINCE_DESCRIPTION": "adfadf",
+    "CREATED_TIME": "2018-02-08T06:16:47.743",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:17:05.437",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 12:50:22 AM===================================================
+URL					 = http://localhost:45086/api/Province/GridBind
+Request					 = {}
+Respon					 = [
+  {
+    "ID": 7,
+    "COUNTRY_ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "PROVINCE_NAME": "fadsfa",
+    "PROVINCE_CODE": "adfa",
+    "PROVINCE_DESCRIPTION": "adfadf",
+    "CREATED_TIME": "2018-02-08T06:16:47.743",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:17:05.437",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 12:51:01 AM===================================================
+URL					 = http://localhost:45086/api/Country/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 22,
+    "COUNTRY_NAME": "Singapore",
+    "COUNTRY_CODE": "12",
+    "COUNTRY_DESCRIPTION": "Singapore",
+    "CREATED_TIME": "2018-02-08T05:52:02.58",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-09T06:31:07.307",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 23,
+    "COUNTRY_NAME": "Indonesia",
+    "COUNTRY_CODE": "3",
+    "COUNTRY_DESCRIPTION": "Indonesia",
+    "CREATED_TIME": "2018-02-08T05:59:27.36",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:03:20.177",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "COUNTRY_CODE": "ad",
+    "COUNTRY_DESCRIPTION": "adfad",
+    "CREATED_TIME": "2018-02-08T06:14:20.91",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:02.12",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 25,
+    "COUNTRY_NAME": "Bruney Darussalam",
+    "COUNTRY_CODE": "ads",
+    "COUNTRY_DESCRIPTION": "fad",
+    "CREATED_TIME": "2018-02-08T06:15:03.513",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:12.5",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 12:51:08 AM===================================================
+URL					 = http://localhost:45086/api/City/GridBind
+Request					 = 
+Respon					 = []
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 12:51:11 AM===================================================
+URL					 = http://localhost:45086/api/City/GridBind
+Request					 = 
+Respon					 = []
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 12:51:12 AM===================================================
+URL					 = http://localhost:45086/api/City/GridBind
+Request					 = 
+Respon					 = []
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 12:51:14 AM===================================================
+URL					 = http://localhost:45086/api/Province/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 7,
+    "COUNTRY_ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "PROVINCE_NAME": "fadsfa",
+    "PROVINCE_CODE": "adfa",
+    "PROVINCE_DESCRIPTION": "adfadf",
+    "CREATED_TIME": "2018-02-08T06:16:47.743",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:17:05.437",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 12:51:17 AM===================================================
+URL					 = http://localhost:45086/api/Province/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 7,
+    "COUNTRY_ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "PROVINCE_NAME": "fadsfa",
+    "PROVINCE_CODE": "adfa",
+    "PROVINCE_DESCRIPTION": "adfadf",
+    "CREATED_TIME": "2018-02-08T06:16:47.743",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:17:05.437",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 12:51:18 AM===================================================
+URL					 = http://localhost:45086/api/Country/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 22,
+    "COUNTRY_NAME": "Singapore",
+    "COUNTRY_CODE": "12",
+    "COUNTRY_DESCRIPTION": "Singapore",
+    "CREATED_TIME": "2018-02-08T05:52:02.58",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-09T06:31:07.307",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 23,
+    "COUNTRY_NAME": "Indonesia",
+    "COUNTRY_CODE": "3",
+    "COUNTRY_DESCRIPTION": "Indonesia",
+    "CREATED_TIME": "2018-02-08T05:59:27.36",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:03:20.177",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "COUNTRY_CODE": "ad",
+    "COUNTRY_DESCRIPTION": "adfad",
+    "CREATED_TIME": "2018-02-08T06:14:20.91",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:02.12",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 25,
+    "COUNTRY_NAME": "Bruney Darussalam",
+    "COUNTRY_CODE": "ads",
+    "COUNTRY_DESCRIPTION": "fad",
+    "CREATED_TIME": "2018-02-08T06:15:03.513",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:12.5",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 12:51:20 AM===================================================
+URL					 = http://localhost:45086/api/Province/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 7,
+    "COUNTRY_ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "PROVINCE_NAME": "fadsfa",
+    "PROVINCE_CODE": "adfa",
+    "PROVINCE_DESCRIPTION": "adfadf",
+    "CREATED_TIME": "2018-02-08T06:16:47.743",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:17:05.437",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 12:51:23 AM===================================================
+URL					 = http://localhost:45086/api/Country/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 22,
+    "COUNTRY_NAME": "Singapore",
+    "COUNTRY_CODE": "12",
+    "COUNTRY_DESCRIPTION": "Singapore",
+    "CREATED_TIME": "2018-02-08T05:52:02.58",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-09T06:31:07.307",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 23,
+    "COUNTRY_NAME": "Indonesia",
+    "COUNTRY_CODE": "3",
+    "COUNTRY_DESCRIPTION": "Indonesia",
+    "CREATED_TIME": "2018-02-08T05:59:27.36",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:03:20.177",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "COUNTRY_CODE": "ad",
+    "COUNTRY_DESCRIPTION": "adfad",
+    "CREATED_TIME": "2018-02-08T06:14:20.91",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:02.12",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 25,
+    "COUNTRY_NAME": "Bruney Darussalam",
+    "COUNTRY_CODE": "ads",
+    "COUNTRY_DESCRIPTION": "fad",
+    "CREATED_TIME": "2018-02-08T06:15:03.513",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:12.5",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 12:51:26 AM===================================================
+URL					 = http://localhost:45086/api/Province/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 7,
+    "COUNTRY_ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "PROVINCE_NAME": "fadsfa",
+    "PROVINCE_CODE": "adfa",
+    "PROVINCE_DESCRIPTION": "adfadf",
+    "CREATED_TIME": "2018-02-08T06:16:47.743",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:17:05.437",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 12:52:06 AM===================================================
+URL					 = http://localhost:45086/api/District/GridBind
+Request					 = 
+Respon					 = {
+  "Status": -1,
+  "MessageText": "Object reference not set to an instance of an object.",
+  "IsSuccess": false
+}
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 12:52:12 AM===================================================
+URL					 = http://localhost:45086/api/City/GridBind
+Request					 = 
+Respon					 = []
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 12:52:13 AM===================================================
+URL					 = http://localhost:45086/api/Country/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 22,
+    "COUNTRY_NAME": "Singapore",
+    "COUNTRY_CODE": "12",
+    "COUNTRY_DESCRIPTION": "Singapore",
+    "CREATED_TIME": "2018-02-08T05:52:02.58",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-09T06:31:07.307",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 23,
+    "COUNTRY_NAME": "Indonesia",
+    "COUNTRY_CODE": "3",
+    "COUNTRY_DESCRIPTION": "Indonesia",
+    "CREATED_TIME": "2018-02-08T05:59:27.36",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:03:20.177",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "COUNTRY_CODE": "ad",
+    "COUNTRY_DESCRIPTION": "adfad",
+    "CREATED_TIME": "2018-02-08T06:14:20.91",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:02.12",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 25,
+    "COUNTRY_NAME": "Bruney Darussalam",
+    "COUNTRY_CODE": "ads",
+    "COUNTRY_DESCRIPTION": "fad",
+    "CREATED_TIME": "2018-02-08T06:15:03.513",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:12.5",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 12:52:19 AM===================================================
+URL					 = http://localhost:45086/api/Province/GridBind
+Request					 = {}
+Respon					 = [
+  {
+    "ID": 7,
+    "COUNTRY_ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "PROVINCE_NAME": "fadsfa",
+    "PROVINCE_CODE": "adfa",
+    "PROVINCE_DESCRIPTION": "adfadf",
+    "CREATED_TIME": "2018-02-08T06:16:47.743",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:17:05.437",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 12:52:25 AM===================================================
+URL					 = http://localhost:45086/api/Province/GridBind
+Request					 = {}
+Respon					 = [
+  {
+    "ID": 7,
+    "COUNTRY_ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "PROVINCE_NAME": "fadsfa",
+    "PROVINCE_CODE": "adfa",
+    "PROVINCE_DESCRIPTION": "adfadf",
+    "CREATED_TIME": "2018-02-08T06:16:47.743",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:17:05.437",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 12:56:00 AM===================================================
+URL					 = http://localhost:45086/api/Province/GridBind
+Request					 = {}
+Respon					 = [
+  {
+    "ID": 7,
+    "COUNTRY_ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "PROVINCE_NAME": "fadsfa",
+    "PROVINCE_CODE": "adfa",
+    "PROVINCE_DESCRIPTION": "adfadf",
+    "CREATED_TIME": "2018-02-08T06:16:47.743",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:17:05.437",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 1:12:33 AM===================================================
+URL					 = 
+Request					 = 
+Respon					 = 
+Message					 = Object reference not set to an instance of an object.
+Stack					 =    at Persada.Fr.CommonFunction.ParsingObject.RequestData(Object param, String controller, String httpMethod) in D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.CommonFunction\ParsingObject.cs:line 41
+=========================================================================================================================
+===================================================2/10/2018 1:13:16 AM===================================================
+URL					 = 
+Request					 = 
+Respon					 = 
+Message					 = Object reference not set to an instance of an object.
+Stack					 =    at Persada.Fr.CommonFunction.ParsingObject.RequestData(Object param, String controller, String httpMethod) in D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.CommonFunction\ParsingObject.cs:line 41
+=========================================================================================================================
+===================================================2/10/2018 1:31:57 AM===================================================
+URL					 = 
+Request					 = 
+Respon					 = 
+Message					 = Object reference not set to an instance of an object.
+Stack					 =    at Persada.Fr.CommonFunction.ParsingObject.RequestData(Object param, String controller, String method, String httpMethod) in D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.CommonFunction\ParsingObject.cs:line 38
+=========================================================================================================================
+===================================================2/10/2018 1:33:58 AM===================================================
+URL					 = http://localhost:45086/api/Country/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 22,
+    "COUNTRY_NAME": "Singapore",
+    "COUNTRY_CODE": "12",
+    "COUNTRY_DESCRIPTION": "Singapore",
+    "CREATED_TIME": "2018-02-08T05:52:02.58",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-09T06:31:07.307",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 23,
+    "COUNTRY_NAME": "Indonesia",
+    "COUNTRY_CODE": "3",
+    "COUNTRY_DESCRIPTION": "Indonesia",
+    "CREATED_TIME": "2018-02-08T05:59:27.36",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:03:20.177",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "COUNTRY_CODE": "ad",
+    "COUNTRY_DESCRIPTION": "adfad",
+    "CREATED_TIME": "2018-02-08T06:14:20.91",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:02.12",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 25,
+    "COUNTRY_NAME": "Bruney Darussalam",
+    "COUNTRY_CODE": "ads",
+    "COUNTRY_DESCRIPTION": "fad",
+    "CREATED_TIME": "2018-02-08T06:15:03.513",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:12.5",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 1:34:12 AM===================================================
+URL					 = http://localhost:45086/api/Country/Add
+Request					 = {"ID":0,"COUNTRY_NAME":"asd","COUNTRY_CODE":"asd","COUNTRY_DESCRIPTION":"asd","CREATED_TIME":"\/Date(1518201249276)\/","CREATED_BY":"hamkair","ROW_STATUS":0}
+Respon					 = {
+  "Status": 0,
+  "MessageText": null,
+  "IsSuccess": true
+}
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 1:34:20 AM===================================================
+URL					 = http://localhost:45086/api/Country/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 22,
+    "COUNTRY_NAME": "Singapore",
+    "COUNTRY_CODE": "12",
+    "COUNTRY_DESCRIPTION": "Singapore",
+    "CREATED_TIME": "2018-02-08T05:52:02.58",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-09T06:31:07.307",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 23,
+    "COUNTRY_NAME": "Indonesia",
+    "COUNTRY_CODE": "3",
+    "COUNTRY_DESCRIPTION": "Indonesia",
+    "CREATED_TIME": "2018-02-08T05:59:27.36",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:03:20.177",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "COUNTRY_CODE": "ad",
+    "COUNTRY_DESCRIPTION": "adfad",
+    "CREATED_TIME": "2018-02-08T06:14:20.91",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:02.12",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 25,
+    "COUNTRY_NAME": "Bruney Darussalam",
+    "COUNTRY_CODE": "ads",
+    "COUNTRY_DESCRIPTION": "fad",
+    "CREATED_TIME": "2018-02-08T06:15:03.513",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:12.5",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 27,
+    "COUNTRY_NAME": "asd",
+    "COUNTRY_CODE": "asd",
+    "COUNTRY_DESCRIPTION": "asd",
+    "CREATED_TIME": "2018-02-09T18:34:09.277",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 1:34:27 AM===================================================
+URL					 = http://localhost:45086/api/Country/RetrieveData
+Request					 = 27
+Respon					 = {
+  "ID": 27,
+  "COUNTRY_NAME": "asd",
+  "COUNTRY_CODE": "asd",
+  "COUNTRY_DESCRIPTION": "asd",
+  "CREATED_TIME": "2018-02-09T18:34:09.277",
+  "CREATED_BY": "hamkair",
+  "LAST_MODIFIED_TIME": null,
+  "LAST_MODIFIED_BY": null,
+  "ROW_STATUS": 0
+}
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 1:34:32 AM===================================================
+URL					 = http://localhost:45086/api/Country/Edit
+Request					 = {"ID":27,"COUNTRY_NAME":"asd","COUNTRY_CODE":"asd","COUNTRY_DESCRIPTION":"asd","CREATED_TIME":"\/Date(-62135596800000)\/","LAST_MODIFIED_TIME":"\/Date(1518201270391)\/","LAST_MODIFIED_BY":"hamkair","ROW_STATUS":0}
+Respon					 = {
+  "Status": 0,
+  "MessageText": null,
+  "IsSuccess": true
+}
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 1:34:34 AM===================================================
+URL					 = http://localhost:45086/api/Country/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 22,
+    "COUNTRY_NAME": "Singapore",
+    "COUNTRY_CODE": "12",
+    "COUNTRY_DESCRIPTION": "Singapore",
+    "CREATED_TIME": "2018-02-08T05:52:02.58",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-09T06:31:07.307",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 23,
+    "COUNTRY_NAME": "Indonesia",
+    "COUNTRY_CODE": "3",
+    "COUNTRY_DESCRIPTION": "Indonesia",
+    "CREATED_TIME": "2018-02-08T05:59:27.36",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:03:20.177",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "COUNTRY_CODE": "ad",
+    "COUNTRY_DESCRIPTION": "adfad",
+    "CREATED_TIME": "2018-02-08T06:14:20.91",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:02.12",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 25,
+    "COUNTRY_NAME": "Bruney Darussalam",
+    "COUNTRY_CODE": "ads",
+    "COUNTRY_DESCRIPTION": "fad",
+    "CREATED_TIME": "2018-02-08T06:15:03.513",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:12.5",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 27,
+    "COUNTRY_NAME": "asd",
+    "COUNTRY_CODE": "asd",
+    "COUNTRY_DESCRIPTION": "asd",
+    "CREATED_TIME": "2018-02-09T18:34:09.277",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-09T18:34:30.39",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 1:34:53 AM===================================================
+URL					 = http://localhost:45086/api/Country/RetrieveData
+Request					 = 27
+Respon					 = {
+  "ID": 27,
+  "COUNTRY_NAME": "asd",
+  "COUNTRY_CODE": "asd",
+  "COUNTRY_DESCRIPTION": "asd",
+  "CREATED_TIME": "2018-02-09T18:34:09.277",
+  "CREATED_BY": "hamkair",
+  "LAST_MODIFIED_TIME": "2018-02-09T18:34:30.39",
+  "LAST_MODIFIED_BY": "hamkair",
+  "ROW_STATUS": 0
+}
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 1:34:54 AM===================================================
+URL					 = 
+Request					 = 
+Respon					 = 
+Message					 = Object reference not set to an instance of an object.
+Stack					 =    at Persada.Fr.CommonFunction.ParsingObject.RequestData(Object param, String controller, String method, String httpMethod) in D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.CommonFunction\ParsingObject.cs:line 42
+=========================================================================================================================
+===================================================2/10/2018 1:38:47 AM===================================================
+URL					 = http://localhost:45086/api/Country/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 22,
+    "COUNTRY_NAME": "Singapore",
+    "COUNTRY_CODE": "12",
+    "COUNTRY_DESCRIPTION": "Singapore",
+    "CREATED_TIME": "2018-02-08T05:52:02.58",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-09T06:31:07.307",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 23,
+    "COUNTRY_NAME": "Indonesia",
+    "COUNTRY_CODE": "3",
+    "COUNTRY_DESCRIPTION": "Indonesia",
+    "CREATED_TIME": "2018-02-08T05:59:27.36",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:03:20.177",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "COUNTRY_CODE": "ad",
+    "COUNTRY_DESCRIPTION": "adfad",
+    "CREATED_TIME": "2018-02-08T06:14:20.91",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:02.12",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 25,
+    "COUNTRY_NAME": "Bruney Darussalam",
+    "COUNTRY_CODE": "ads",
+    "COUNTRY_DESCRIPTION": "fad",
+    "CREATED_TIME": "2018-02-08T06:15:03.513",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:12.5",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 27,
+    "COUNTRY_NAME": "asd",
+    "COUNTRY_CODE": "asd",
+    "COUNTRY_DESCRIPTION": "asd",
+    "CREATED_TIME": "2018-02-09T18:34:09.277",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-09T18:34:30.39",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 1:38:51 AM===================================================
+URL					 = http://localhost:45086/api/Country/RetrieveData
+Request					 = 27
+Respon					 = {
+  "ID": 27,
+  "COUNTRY_NAME": "asd",
+  "COUNTRY_CODE": "asd",
+  "COUNTRY_DESCRIPTION": "asd",
+  "CREATED_TIME": "2018-02-09T18:34:09.277",
+  "CREATED_BY": "hamkair",
+  "LAST_MODIFIED_TIME": "2018-02-09T18:34:30.39",
+  "LAST_MODIFIED_BY": "hamkair",
+  "ROW_STATUS": 0
+}
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 1:38:54 AM===================================================
+URL					 = http://localhost:45086/api/Country/Delete
+Request					 = 27
+Respon					 = {
+  "Status": 0,
+  "MessageText": null,
+  "IsSuccess": true
+}
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 1:38:54 AM===================================================
+URL					 = http://localhost:45086/api/Country/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 22,
+    "COUNTRY_NAME": "Singapore",
+    "COUNTRY_CODE": "12",
+    "COUNTRY_DESCRIPTION": "Singapore",
+    "CREATED_TIME": "2018-02-08T05:52:02.58",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-09T06:31:07.307",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 23,
+    "COUNTRY_NAME": "Indonesia",
+    "COUNTRY_CODE": "3",
+    "COUNTRY_DESCRIPTION": "Indonesia",
+    "CREATED_TIME": "2018-02-08T05:59:27.36",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:03:20.177",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "COUNTRY_CODE": "ad",
+    "COUNTRY_DESCRIPTION": "adfad",
+    "CREATED_TIME": "2018-02-08T06:14:20.91",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:02.12",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 25,
+    "COUNTRY_NAME": "Bruney Darussalam",
+    "COUNTRY_CODE": "ads",
+    "COUNTRY_DESCRIPTION": "fad",
+    "CREATED_TIME": "2018-02-08T06:15:03.513",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:12.5",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 1:38:58 AM===================================================
+URL					 = http://localhost:45086/api/Country/RetrieveData
+Request					 = 25
+Respon					 = {
+  "ID": 25,
+  "COUNTRY_NAME": "Bruney Darussalam",
+  "COUNTRY_CODE": "ads",
+  "COUNTRY_DESCRIPTION": "fad",
+  "CREATED_TIME": "2018-02-08T06:15:03.513",
+  "CREATED_BY": "hamkair",
+  "LAST_MODIFIED_TIME": "2018-02-08T06:49:12.5",
+  "LAST_MODIFIED_BY": "System",
+  "ROW_STATUS": 0
+}
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 1:39:01 AM===================================================
+URL					 = http://localhost:45086/api/Country/RetrieveData
+Request					 = 22
+Respon					 = {
+  "ID": 22,
+  "COUNTRY_NAME": "Singapore",
+  "COUNTRY_CODE": "12",
+  "COUNTRY_DESCRIPTION": "Singapore",
+  "CREATED_TIME": "2018-02-08T05:52:02.58",
+  "CREATED_BY": "hamkair",
+  "LAST_MODIFIED_TIME": "2018-02-09T06:31:07.307",
+  "LAST_MODIFIED_BY": "hamkair",
+  "ROW_STATUS": 0
+}
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 1:39:03 AM===================================================
+URL					 = http://localhost:45086/api/Country/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 22,
+    "COUNTRY_NAME": "Singapore",
+    "COUNTRY_CODE": "12",
+    "COUNTRY_DESCRIPTION": "Singapore",
+    "CREATED_TIME": "2018-02-08T05:52:02.58",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-09T06:31:07.307",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 23,
+    "COUNTRY_NAME": "Indonesia",
+    "COUNTRY_CODE": "3",
+    "COUNTRY_DESCRIPTION": "Indonesia",
+    "CREATED_TIME": "2018-02-08T05:59:27.36",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:03:20.177",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "COUNTRY_CODE": "ad",
+    "COUNTRY_DESCRIPTION": "adfad",
+    "CREATED_TIME": "2018-02-08T06:14:20.91",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:02.12",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 25,
+    "COUNTRY_NAME": "Bruney Darussalam",
+    "COUNTRY_CODE": "ads",
+    "COUNTRY_DESCRIPTION": "fad",
+    "CREATED_TIME": "2018-02-08T06:15:03.513",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:12.5",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 1:39:05 AM===================================================
+URL					 = http://localhost:45086/api/Province/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 7,
+    "COUNTRY_ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "PROVINCE_NAME": "fadsfa",
+    "PROVINCE_CODE": "adfa",
+    "PROVINCE_DESCRIPTION": "adfadf",
+    "CREATED_TIME": "2018-02-08T06:16:47.743",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:17:05.437",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 1:39:10 AM===================================================
+URL					 = http://localhost:45086/api/Country/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 22,
+    "COUNTRY_NAME": "Singapore",
+    "COUNTRY_CODE": "12",
+    "COUNTRY_DESCRIPTION": "Singapore",
+    "CREATED_TIME": "2018-02-08T05:52:02.58",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-09T06:31:07.307",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 23,
+    "COUNTRY_NAME": "Indonesia",
+    "COUNTRY_CODE": "3",
+    "COUNTRY_DESCRIPTION": "Indonesia",
+    "CREATED_TIME": "2018-02-08T05:59:27.36",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:03:20.177",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "COUNTRY_CODE": "ad",
+    "COUNTRY_DESCRIPTION": "adfad",
+    "CREATED_TIME": "2018-02-08T06:14:20.91",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:02.12",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 25,
+    "COUNTRY_NAME": "Bruney Darussalam",
+    "COUNTRY_CODE": "ads",
+    "COUNTRY_DESCRIPTION": "fad",
+    "CREATED_TIME": "2018-02-08T06:15:03.513",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:12.5",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 1:39:19 AM===================================================
+URL					 = http://localhost:45086/api/Province/Add
+Request					 = {"ID":0,"COUNTRY_ID":22,"PROVINCE_NAME":"33","PROVINCE_CODE":"33","PROVINCE_DESCRIPTION":"33","CREATED_TIME":"\/Date(1518201559018)\/","CREATED_BY":"hamkair","ROW_STATUS":0}
+Respon					 = {
+  "Status": 0,
+  "MessageText": null,
+  "IsSuccess": true
+}
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 1:39:19 AM===================================================
+URL					 = http://localhost:45086/api/Province/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 7,
+    "COUNTRY_ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "PROVINCE_NAME": "fadsfa",
+    "PROVINCE_CODE": "adfa",
+    "PROVINCE_DESCRIPTION": "adfadf",
+    "CREATED_TIME": "2018-02-08T06:16:47.743",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:17:05.437",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 8,
+    "COUNTRY_ID": 22,
+    "COUNTRY_NAME": "Singapore",
+    "PROVINCE_NAME": "33",
+    "PROVINCE_CODE": "33",
+    "PROVINCE_DESCRIPTION": "33",
+    "CREATED_TIME": "2018-02-09T18:39:19.017",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 1:39:21 AM===================================================
+URL					 = http://localhost:45086/api/Province/RetrieveData
+Request					 = 8
+Respon					 = {
+  "ID": 8,
+  "COUNTRY_ID": 22,
+  "COUNTRY_NAME": "Singapore",
+  "PROVINCE_NAME": "33",
+  "PROVINCE_CODE": "33",
+  "PROVINCE_DESCRIPTION": "33",
+  "CREATED_TIME": "2018-02-09T18:39:19.017",
+  "CREATED_BY": "hamkair",
+  "LAST_MODIFIED_TIME": null,
+  "LAST_MODIFIED_BY": null,
+  "ROW_STATUS": 0
+}
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 1:39:24 AM===================================================
+URL					 = http://localhost:45086/api/Province/RetrieveData
+Request					 = 8
+Respon					 = {
+  "ID": 8,
+  "COUNTRY_ID": 22,
+  "COUNTRY_NAME": "Singapore",
+  "PROVINCE_NAME": "33",
+  "PROVINCE_CODE": "33",
+  "PROVINCE_DESCRIPTION": "33",
+  "CREATED_TIME": "2018-02-09T18:39:19.017",
+  "CREATED_BY": "hamkair",
+  "LAST_MODIFIED_TIME": null,
+  "LAST_MODIFIED_BY": null,
+  "ROW_STATUS": 0
+}
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 1:39:24 AM===================================================
+URL					 = http://localhost:45086/api/Country/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 22,
+    "COUNTRY_NAME": "Singapore",
+    "COUNTRY_CODE": "12",
+    "COUNTRY_DESCRIPTION": "Singapore",
+    "CREATED_TIME": "2018-02-08T05:52:02.58",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-09T06:31:07.307",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 23,
+    "COUNTRY_NAME": "Indonesia",
+    "COUNTRY_CODE": "3",
+    "COUNTRY_DESCRIPTION": "Indonesia",
+    "CREATED_TIME": "2018-02-08T05:59:27.36",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:03:20.177",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "COUNTRY_CODE": "ad",
+    "COUNTRY_DESCRIPTION": "adfad",
+    "CREATED_TIME": "2018-02-08T06:14:20.91",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:02.12",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 25,
+    "COUNTRY_NAME": "Bruney Darussalam",
+    "COUNTRY_CODE": "ads",
+    "COUNTRY_DESCRIPTION": "fad",
+    "CREATED_TIME": "2018-02-08T06:15:03.513",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:12.5",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 1:39:27 AM===================================================
+URL					 = http://localhost:45086/api/Province/Edit
+Request					 = {"ID":8,"COUNTRY_ID":22,"PROVINCE_NAME":"33","PROVINCE_CODE":"33","PROVINCE_DESCRIPTION":"334","CREATED_TIME":"\/Date(-62135596800000)\/","LAST_MODIFIED_TIME":"\/Date(1518201567629)\/","LAST_MODIFIED_BY":"hamkair","ROW_STATUS":0}
+Respon					 = {
+  "Status": 0,
+  "MessageText": null,
+  "IsSuccess": true
+}
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 1:39:27 AM===================================================
+URL					 = http://localhost:45086/api/Province/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 7,
+    "COUNTRY_ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "PROVINCE_NAME": "fadsfa",
+    "PROVINCE_CODE": "adfa",
+    "PROVINCE_DESCRIPTION": "adfadf",
+    "CREATED_TIME": "2018-02-08T06:16:47.743",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:17:05.437",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 8,
+    "COUNTRY_ID": 22,
+    "COUNTRY_NAME": "Singapore",
+    "PROVINCE_NAME": "33",
+    "PROVINCE_CODE": "33",
+    "PROVINCE_DESCRIPTION": "334",
+    "CREATED_TIME": "2018-02-09T18:39:19.017",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-09T18:39:27.63",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 1:39:30 AM===================================================
+URL					 = http://localhost:45086/api/Province/RetrieveData
+Request					 = 8
+Respon					 = {
+  "ID": 8,
+  "COUNTRY_ID": 22,
+  "COUNTRY_NAME": "Singapore",
+  "PROVINCE_NAME": "33",
+  "PROVINCE_CODE": "33",
+  "PROVINCE_DESCRIPTION": "334",
+  "CREATED_TIME": "2018-02-09T18:39:19.017",
+  "CREATED_BY": "hamkair",
+  "LAST_MODIFIED_TIME": "2018-02-09T18:39:27.63",
+  "LAST_MODIFIED_BY": "hamkair",
+  "ROW_STATUS": 0
+}
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 1:39:31 AM===================================================
+URL					 = http://localhost:45086/api/Province/Delete
+Request					 = 8
+Respon					 = {
+  "Status": 0,
+  "MessageText": null,
+  "IsSuccess": true
+}
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 1:39:31 AM===================================================
+URL					 = http://localhost:45086/api/Province/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 7,
+    "COUNTRY_ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "PROVINCE_NAME": "fadsfa",
+    "PROVINCE_CODE": "adfa",
+    "PROVINCE_DESCRIPTION": "adfadf",
+    "CREATED_TIME": "2018-02-08T06:16:47.743",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:17:05.437",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 1:39:34 AM===================================================
+URL					 = http://localhost:45086/api/City/GridBind
+Request					 = 
+Respon					 = []
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 1:39:39 AM===================================================
+URL					 = http://localhost:45086/api/Country/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 22,
+    "COUNTRY_NAME": "Singapore",
+    "COUNTRY_CODE": "12",
+    "COUNTRY_DESCRIPTION": "Singapore",
+    "CREATED_TIME": "2018-02-08T05:52:02.58",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-09T06:31:07.307",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 23,
+    "COUNTRY_NAME": "Indonesia",
+    "COUNTRY_CODE": "3",
+    "COUNTRY_DESCRIPTION": "Indonesia",
+    "CREATED_TIME": "2018-02-08T05:59:27.36",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:03:20.177",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "COUNTRY_CODE": "ad",
+    "COUNTRY_DESCRIPTION": "adfad",
+    "CREATED_TIME": "2018-02-08T06:14:20.91",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:02.12",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 25,
+    "COUNTRY_NAME": "Bruney Darussalam",
+    "COUNTRY_CODE": "ads",
+    "COUNTRY_DESCRIPTION": "fad",
+    "CREATED_TIME": "2018-02-08T06:15:03.513",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:12.5",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 1:39:42 AM===================================================
+URL					 = http://localhost:45086/api/Province/RetrieveData
+Request					 = 22
+Respon					 = {
+  "ID": 0,
+  "COUNTRY_ID": 0,
+  "COUNTRY_NAME": null,
+  "PROVINCE_NAME": null,
+  "PROVINCE_CODE": null,
+  "PROVINCE_DESCRIPTION": null,
+  "CREATED_TIME": "0001-01-01T00:00:00",
+  "CREATED_BY": null,
+  "LAST_MODIFIED_TIME": null,
+  "LAST_MODIFIED_BY": null,
+  "ROW_STATUS": 0
+}
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 1:43:38 AM===================================================
+URL					 = http://localhost:45086/api/Country/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 22,
+    "COUNTRY_NAME": "Singapore",
+    "COUNTRY_CODE": "12",
+    "COUNTRY_DESCRIPTION": "Singapore",
+    "CREATED_TIME": "2018-02-08T05:52:02.58",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-09T06:31:07.307",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 23,
+    "COUNTRY_NAME": "Indonesia",
+    "COUNTRY_CODE": "3",
+    "COUNTRY_DESCRIPTION": "Indonesia",
+    "CREATED_TIME": "2018-02-08T05:59:27.36",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:03:20.177",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "COUNTRY_CODE": "ad",
+    "COUNTRY_DESCRIPTION": "adfad",
+    "CREATED_TIME": "2018-02-08T06:14:20.91",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:02.12",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 25,
+    "COUNTRY_NAME": "Bruney Darussalam",
+    "COUNTRY_CODE": "ads",
+    "COUNTRY_DESCRIPTION": "fad",
+    "CREATED_TIME": "2018-02-08T06:15:03.513",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:12.5",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 1:43:40 AM===================================================
+URL					 = http://localhost:45086/api/City/GridBind
+Request					 = 
+Respon					 = []
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 1:43:42 AM===================================================
+URL					 = http://localhost:45086/api/Country/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 22,
+    "COUNTRY_NAME": "Singapore",
+    "COUNTRY_CODE": "12",
+    "COUNTRY_DESCRIPTION": "Singapore",
+    "CREATED_TIME": "2018-02-08T05:52:02.58",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-09T06:31:07.307",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 23,
+    "COUNTRY_NAME": "Indonesia",
+    "COUNTRY_CODE": "3",
+    "COUNTRY_DESCRIPTION": "Indonesia",
+    "CREATED_TIME": "2018-02-08T05:59:27.36",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:03:20.177",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "COUNTRY_CODE": "ad",
+    "COUNTRY_DESCRIPTION": "adfad",
+    "CREATED_TIME": "2018-02-08T06:14:20.91",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:02.12",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 25,
+    "COUNTRY_NAME": "Bruney Darussalam",
+    "COUNTRY_CODE": "ads",
+    "COUNTRY_DESCRIPTION": "fad",
+    "CREATED_TIME": "2018-02-08T06:15:03.513",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:12.5",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 1:43:46 AM===================================================
+URL					 = http://localhost:45086/api/Province/RetrieveData
+Request					 = 22
+Respon					 = {
+  "ID": 0,
+  "COUNTRY_ID": 0,
+  "COUNTRY_NAME": null,
+  "PROVINCE_NAME": null,
+  "PROVINCE_CODE": null,
+  "PROVINCE_DESCRIPTION": null,
+  "CREATED_TIME": "0001-01-01T00:00:00",
+  "CREATED_BY": null,
+  "LAST_MODIFIED_TIME": null,
+  "LAST_MODIFIED_BY": null,
+  "ROW_STATUS": 0
+}
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 1:45:22 AM===================================================
+URL					 = http://localhost:45086/api/Province/RetrieveData
+Request					 = 24
+Respon					 = {
+  "ID": 0,
+  "COUNTRY_ID": 0,
+  "COUNTRY_NAME": null,
+  "PROVINCE_NAME": null,
+  "PROVINCE_CODE": null,
+  "PROVINCE_DESCRIPTION": null,
+  "CREATED_TIME": "0001-01-01T00:00:00",
+  "CREATED_BY": null,
+  "LAST_MODIFIED_TIME": null,
+  "LAST_MODIFIED_BY": null,
+  "ROW_STATUS": 0
+}
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 1:45:54 AM===================================================
+URL					 = http://localhost:45086/api/Province/RetrieveData
+Request					 = 25
+Respon					 = {
+  "ID": 0,
+  "COUNTRY_ID": 0,
+  "COUNTRY_NAME": null,
+  "PROVINCE_NAME": null,
+  "PROVINCE_CODE": null,
+  "PROVINCE_DESCRIPTION": null,
+  "CREATED_TIME": "0001-01-01T00:00:00",
+  "CREATED_BY": null,
+  "LAST_MODIFIED_TIME": null,
+  "LAST_MODIFIED_BY": null,
+  "ROW_STATUS": 0
+}
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 1:49:51 AM===================================================
+URL					 = http://localhost:45086/api/City/GridBind
+Request					 = 
+Respon					 = []
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 1:49:53 AM===================================================
+URL					 = http://localhost:45086/api/Country/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 22,
+    "COUNTRY_NAME": "Singapore",
+    "COUNTRY_CODE": "12",
+    "COUNTRY_DESCRIPTION": "Singapore",
+    "CREATED_TIME": "2018-02-08T05:52:02.58",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-09T06:31:07.307",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 23,
+    "COUNTRY_NAME": "Indonesia",
+    "COUNTRY_CODE": "3",
+    "COUNTRY_DESCRIPTION": "Indonesia",
+    "CREATED_TIME": "2018-02-08T05:59:27.36",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:03:20.177",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "COUNTRY_CODE": "ad",
+    "COUNTRY_DESCRIPTION": "adfad",
+    "CREATED_TIME": "2018-02-08T06:14:20.91",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:02.12",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 25,
+    "COUNTRY_NAME": "Bruney Darussalam",
+    "COUNTRY_CODE": "ads",
+    "COUNTRY_DESCRIPTION": "fad",
+    "CREATED_TIME": "2018-02-08T06:15:03.513",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:12.5",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 1:49:58 AM===================================================
+URL					 = 
+Request					 = 
+Respon					 = 
+Message					 = Object reference not set to an instance of an object.
+Stack					 =    at Persada.Fr.CommonFunction.ParsingObject.RequestData(Object param, String controller, String method, String httpMethod) in D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.CommonFunction\ParsingObject.cs:line 42
+=========================================================================================================================
+===================================================2/10/2018 1:52:47 AM===================================================
+URL					 = 
+Request					 = 
+Respon					 = 
+Message					 = Object reference not set to an instance of an object.
+Stack					 =    at Persada.Fr.CommonFunction.ParsingObject.RequestData(Object param, String controller, String method, String httpMethod) in D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.CommonFunction\ParsingObject.cs:line 42
+=========================================================================================================================
+===================================================2/10/2018 1:54:37 AM===================================================
+URL					 = http://localhost:45086/api/City/GridBind
+Request					 = 
+Respon					 = []
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 1:54:46 AM===================================================
+URL					 = http://localhost:45086/api/Country/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 22,
+    "COUNTRY_NAME": "Singapore",
+    "COUNTRY_CODE": "12",
+    "COUNTRY_DESCRIPTION": "Singapore",
+    "CREATED_TIME": "2018-02-08T05:52:02.58",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-09T06:31:07.307",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 23,
+    "COUNTRY_NAME": "Indonesia",
+    "COUNTRY_CODE": "3",
+    "COUNTRY_DESCRIPTION": "Indonesia",
+    "CREATED_TIME": "2018-02-08T05:59:27.36",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:03:20.177",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "COUNTRY_CODE": "ad",
+    "COUNTRY_DESCRIPTION": "adfad",
+    "CREATED_TIME": "2018-02-08T06:14:20.91",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:02.12",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 25,
+    "COUNTRY_NAME": "Bruney Darussalam",
+    "COUNTRY_CODE": "ads",
+    "COUNTRY_DESCRIPTION": "fad",
+    "CREATED_TIME": "2018-02-08T06:15:03.513",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:12.5",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 1:55:00 AM===================================================
+URL					 = http://localhost:45086/api/Province/GetProvinceByCountryId
+Request					 = 24
+Respon					 = [
+  {
+    "ID": 7,
+    "COUNTRY_ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "PROVINCE_NAME": "fadsfa",
+    "PROVINCE_CODE": "adfa",
+    "PROVINCE_DESCRIPTION": "adfadf",
+    "CREATED_TIME": "2018-02-08T06:16:47.743",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:17:05.437",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 1:55:31 AM===================================================
+URL					 = http://localhost:45086/api/Province/GetProvinceByCountryId
+Request					 = 22
+Respon					 = []
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 1:55:46 AM===================================================
+URL					 = http://localhost:45086/api/Province/GetProvinceByCountryId
+Request					 = 24
+Respon					 = [
+  {
+    "ID": 7,
+    "COUNTRY_ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "PROVINCE_NAME": "fadsfa",
+    "PROVINCE_CODE": "adfa",
+    "PROVINCE_DESCRIPTION": "adfadf",
+    "CREATED_TIME": "2018-02-08T06:16:47.743",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:17:05.437",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 1:55:49 AM===================================================
+URL					 = http://localhost:45086/api/Province/GetProvinceByCountryId
+Request					 = 25
+Respon					 = []
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 1:55:52 AM===================================================
+URL					 = http://localhost:45086/api/Province/GetProvinceByCountryId
+Request					 = 23
+Respon					 = []
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 1:55:54 AM===================================================
+URL					 = http://localhost:45086/api/Province/GetProvinceByCountryId
+Request					 = 0
+Respon					 = []
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 1:55:56 AM===================================================
+URL					 = http://localhost:45086/api/Province/GetProvinceByCountryId
+Request					 = 22
+Respon					 = []
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 1:56:04 AM===================================================
+URL					 = http://localhost:45086/api/Province/GetProvinceByCountryId
+Request					 = 24
+Respon					 = [
+  {
+    "ID": 7,
+    "COUNTRY_ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "PROVINCE_NAME": "fadsfa",
+    "PROVINCE_CODE": "adfa",
+    "PROVINCE_DESCRIPTION": "adfadf",
+    "CREATED_TIME": "2018-02-08T06:16:47.743",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:17:05.437",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 1:56:12 AM===================================================
+URL					 = http://localhost:45086/api/City/Add
+Request					 = {"ID":0,"PROVINCE_ID":7,"CITY_NAME":"sad","CITY_CODE":"sasa","CITY_DESCRIPTION":"asda","CREATED_TIME":"\/Date(1518202572237)\/","CREATED_BY":"hamkair","ROW_STATUS":0}
+Respon					 = {
+  "Status": 0,
+  "MessageText": null,
+  "IsSuccess": true
+}
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 1:56:12 AM===================================================
+URL					 = http://localhost:45086/api/City/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 1,
+    "PROVINCE_ID": 7,
+    "PROVINCE_NAME": "fadsfa",
+    "COUNTRY_NAME": "Malaysia",
+    "CITY_NAME": "sad",
+    "CITY_CODE": "sasa",
+    "CITY_DESCRIPTION": "asda",
+    "CREATED_TIME": "2018-02-09T18:56:12.237",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 1:56:16 AM===================================================
+URL					 = http://localhost:45086/api/City/RetrieveData
+Request					 = 1
+Respon					 = {
+  "ID": 1,
+  "PROVINCE_ID": 7,
+  "PROVINCE_NAME": "fadsfa",
+  "COUNTRY_NAME": "Malaysia",
+  "CITY_NAME": "sad",
+  "CITY_CODE": "sasa",
+  "CITY_DESCRIPTION": "asda",
+  "CREATED_TIME": "2018-02-09T18:56:12.237",
+  "CREATED_BY": "hamkair",
+  "LAST_MODIFIED_TIME": null,
+  "LAST_MODIFIED_BY": null,
+  "ROW_STATUS": 0
+}
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 1:56:16 AM===================================================
+URL					 = http://localhost:45086/api/Country/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 22,
+    "COUNTRY_NAME": "Singapore",
+    "COUNTRY_CODE": "12",
+    "COUNTRY_DESCRIPTION": "Singapore",
+    "CREATED_TIME": "2018-02-08T05:52:02.58",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-09T06:31:07.307",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 23,
+    "COUNTRY_NAME": "Indonesia",
+    "COUNTRY_CODE": "3",
+    "COUNTRY_DESCRIPTION": "Indonesia",
+    "CREATED_TIME": "2018-02-08T05:59:27.36",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:03:20.177",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "COUNTRY_CODE": "ad",
+    "COUNTRY_DESCRIPTION": "adfad",
+    "CREATED_TIME": "2018-02-08T06:14:20.91",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:02.12",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 25,
+    "COUNTRY_NAME": "Bruney Darussalam",
+    "COUNTRY_CODE": "ads",
+    "COUNTRY_DESCRIPTION": "fad",
+    "CREATED_TIME": "2018-02-08T06:15:03.513",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:12.5",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 1:59:56 AM===================================================
+URL					 = http://localhost:45086/api/City/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 1,
+    "PROVINCE_ID": 7,
+    "PROVINCE_NAME": "fadsfa",
+    "COUNTRY_NAME": "Malaysia",
+    "CITY_NAME": "sad",
+    "CITY_CODE": "sasa",
+    "CITY_DESCRIPTION": "asda",
+    "CREATED_TIME": "2018-02-09T18:56:12.237",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:00:06 AM===================================================
+URL					 = http://localhost:45086/api/City/RetrieveData
+Request					 = 1
+Respon					 = {
+  "ID": 1,
+  "PROVINCE_ID": 7,
+  "PROVINCE_NAME": "fadsfa",
+  "COUNTRY_NAME": "Malaysia",
+  "CITY_NAME": "sad",
+  "CITY_CODE": "sasa",
+  "CITY_DESCRIPTION": "asda",
+  "CREATED_TIME": "2018-02-09T18:56:12.237",
+  "CREATED_BY": "hamkair",
+  "LAST_MODIFIED_TIME": null,
+  "LAST_MODIFIED_BY": null,
+  "ROW_STATUS": 0
+}
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:00:06 AM===================================================
+URL					 = http://localhost:45086/api/Province/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 7,
+    "COUNTRY_ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "PROVINCE_NAME": "fadsfa",
+    "PROVINCE_CODE": "adfa",
+    "PROVINCE_DESCRIPTION": "adfadf",
+    "CREATED_TIME": "2018-02-08T06:16:47.743",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:17:05.437",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:12:10 AM===================================================
+URL					 = http://localhost:45086/api/City/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 1,
+    "PROVINCE_ID": 7,
+    "PROVINCE_NAME": "fadsfa",
+    "COUNTRY_ID": 0,
+    "COUNTRY_NAME": "Malaysia",
+    "CITY_NAME": "sad",
+    "CITY_CODE": "sasa",
+    "CITY_DESCRIPTION": "asda",
+    "CREATED_TIME": "2018-02-09T18:56:12.237",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:12:12 AM===================================================
+URL					 = http://localhost:45086/api/Country/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 22,
+    "COUNTRY_NAME": "Singapore",
+    "COUNTRY_CODE": "12",
+    "COUNTRY_DESCRIPTION": "Singapore",
+    "CREATED_TIME": "2018-02-08T05:52:02.58",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-09T06:31:07.307",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 23,
+    "COUNTRY_NAME": "Indonesia",
+    "COUNTRY_CODE": "3",
+    "COUNTRY_DESCRIPTION": "Indonesia",
+    "CREATED_TIME": "2018-02-08T05:59:27.36",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:03:20.177",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "COUNTRY_CODE": "ad",
+    "COUNTRY_DESCRIPTION": "adfad",
+    "CREATED_TIME": "2018-02-08T06:14:20.91",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:02.12",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 25,
+    "COUNTRY_NAME": "Bruney Darussalam",
+    "COUNTRY_CODE": "ads",
+    "COUNTRY_DESCRIPTION": "fad",
+    "CREATED_TIME": "2018-02-08T06:15:03.513",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:12.5",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:12:14 AM===================================================
+URL					 = http://localhost:45086/api/Province/GetProvinceByCountryId
+Request					 = 23
+Respon					 = []
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:12:18 AM===================================================
+URL					 = http://localhost:45086/api/City/RetrieveData
+Request					 = 1
+Respon					 = {
+  "ID": 1,
+  "PROVINCE_ID": 7,
+  "PROVINCE_NAME": "fadsfa",
+  "COUNTRY_ID": 24,
+  "COUNTRY_NAME": "Malaysia",
+  "CITY_NAME": "sad",
+  "CITY_CODE": "sasa",
+  "CITY_DESCRIPTION": "asda",
+  "CREATED_TIME": "2018-02-09T18:56:12.237",
+  "CREATED_BY": "hamkair",
+  "LAST_MODIFIED_TIME": null,
+  "LAST_MODIFIED_BY": null,
+  "ROW_STATUS": 0
+}
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:12:19 AM===================================================
+URL					 = http://localhost:45086/api/Country/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 22,
+    "COUNTRY_NAME": "Singapore",
+    "COUNTRY_CODE": "12",
+    "COUNTRY_DESCRIPTION": "Singapore",
+    "CREATED_TIME": "2018-02-08T05:52:02.58",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-09T06:31:07.307",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 23,
+    "COUNTRY_NAME": "Indonesia",
+    "COUNTRY_CODE": "3",
+    "COUNTRY_DESCRIPTION": "Indonesia",
+    "CREATED_TIME": "2018-02-08T05:59:27.36",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:03:20.177",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "COUNTRY_CODE": "ad",
+    "COUNTRY_DESCRIPTION": "adfad",
+    "CREATED_TIME": "2018-02-08T06:14:20.91",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:02.12",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 25,
+    "COUNTRY_NAME": "Bruney Darussalam",
+    "COUNTRY_CODE": "ads",
+    "COUNTRY_DESCRIPTION": "fad",
+    "CREATED_TIME": "2018-02-08T06:15:03.513",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:12.5",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:12:19 AM===================================================
+URL					 = http://localhost:45086/api/Province/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 7,
+    "COUNTRY_ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "PROVINCE_NAME": "fadsfa",
+    "PROVINCE_CODE": "adfa",
+    "PROVINCE_DESCRIPTION": "adfadf",
+    "CREATED_TIME": "2018-02-08T06:16:47.743",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:17:05.437",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:13:18 AM===================================================
+URL					 = http://localhost:45086/api/City/RetrieveData
+Request					 = 1
+Respon					 = {
+  "ID": 1,
+  "PROVINCE_ID": 7,
+  "PROVINCE_NAME": "fadsfa",
+  "COUNTRY_ID": 24,
+  "COUNTRY_NAME": "Malaysia",
+  "CITY_NAME": "sad",
+  "CITY_CODE": "sasa",
+  "CITY_DESCRIPTION": "asda",
+  "CREATED_TIME": "2018-02-09T18:56:12.237",
+  "CREATED_BY": "hamkair",
+  "LAST_MODIFIED_TIME": null,
+  "LAST_MODIFIED_BY": null,
+  "ROW_STATUS": 0
+}
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:13:18 AM===================================================
+URL					 = http://localhost:45086/api/Country/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 22,
+    "COUNTRY_NAME": "Singapore",
+    "COUNTRY_CODE": "12",
+    "COUNTRY_DESCRIPTION": "Singapore",
+    "CREATED_TIME": "2018-02-08T05:52:02.58",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-09T06:31:07.307",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 23,
+    "COUNTRY_NAME": "Indonesia",
+    "COUNTRY_CODE": "3",
+    "COUNTRY_DESCRIPTION": "Indonesia",
+    "CREATED_TIME": "2018-02-08T05:59:27.36",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:03:20.177",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "COUNTRY_CODE": "ad",
+    "COUNTRY_DESCRIPTION": "adfad",
+    "CREATED_TIME": "2018-02-08T06:14:20.91",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:02.12",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 25,
+    "COUNTRY_NAME": "Bruney Darussalam",
+    "COUNTRY_CODE": "ads",
+    "COUNTRY_DESCRIPTION": "fad",
+    "CREATED_TIME": "2018-02-08T06:15:03.513",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:12.5",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:13:18 AM===================================================
+URL					 = http://localhost:45086/api/Province/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 7,
+    "COUNTRY_ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "PROVINCE_NAME": "fadsfa",
+    "PROVINCE_CODE": "adfa",
+    "PROVINCE_DESCRIPTION": "adfadf",
+    "CREATED_TIME": "2018-02-08T06:16:47.743",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:17:05.437",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:13:55 AM===================================================
+URL					 = http://localhost:45086/api/Province/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 7,
+    "COUNTRY_ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "PROVINCE_NAME": "fadsfa",
+    "PROVINCE_CODE": "adfa",
+    "PROVINCE_DESCRIPTION": "adfadf",
+    "CREATED_TIME": "2018-02-08T06:16:47.743",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:17:05.437",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:14:05 AM===================================================
+URL					 = http://localhost:45086/api/Province/RetrieveData
+Request					 = 7
+Respon					 = {
+  "ID": 7,
+  "COUNTRY_ID": 24,
+  "COUNTRY_NAME": "Malaysia",
+  "PROVINCE_NAME": "fadsfa",
+  "PROVINCE_CODE": "adfa",
+  "PROVINCE_DESCRIPTION": "adfadf",
+  "CREATED_TIME": "2018-02-08T06:16:47.743",
+  "CREATED_BY": "hamkair",
+  "LAST_MODIFIED_TIME": "2018-02-08T06:17:05.437",
+  "LAST_MODIFIED_BY": "hamkair",
+  "ROW_STATUS": 0
+}
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:14:05 AM===================================================
+URL					 = http://localhost:45086/api/Country/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 22,
+    "COUNTRY_NAME": "Singapore",
+    "COUNTRY_CODE": "12",
+    "COUNTRY_DESCRIPTION": "Singapore",
+    "CREATED_TIME": "2018-02-08T05:52:02.58",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-09T06:31:07.307",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 23,
+    "COUNTRY_NAME": "Indonesia",
+    "COUNTRY_CODE": "3",
+    "COUNTRY_DESCRIPTION": "Indonesia",
+    "CREATED_TIME": "2018-02-08T05:59:27.36",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:03:20.177",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "COUNTRY_CODE": "ad",
+    "COUNTRY_DESCRIPTION": "adfad",
+    "CREATED_TIME": "2018-02-08T06:14:20.91",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:02.12",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 25,
+    "COUNTRY_NAME": "Bruney Darussalam",
+    "COUNTRY_CODE": "ads",
+    "COUNTRY_DESCRIPTION": "fad",
+    "CREATED_TIME": "2018-02-08T06:15:03.513",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:12.5",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:14:42 AM===================================================
+URL					 = http://localhost:45086/api/Province/RetrieveData
+Request					 = 7
+Respon					 = {
+  "ID": 7,
+  "COUNTRY_ID": 24,
+  "COUNTRY_NAME": "Malaysia",
+  "PROVINCE_NAME": "fadsfa",
+  "PROVINCE_CODE": "adfa",
+  "PROVINCE_DESCRIPTION": "adfadf",
+  "CREATED_TIME": "2018-02-08T06:16:47.743",
+  "CREATED_BY": "hamkair",
+  "LAST_MODIFIED_TIME": "2018-02-08T06:17:05.437",
+  "LAST_MODIFIED_BY": "hamkair",
+  "ROW_STATUS": 0
+}
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:14:42 AM===================================================
+URL					 = http://localhost:45086/api/Country/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 22,
+    "COUNTRY_NAME": "Singapore",
+    "COUNTRY_CODE": "12",
+    "COUNTRY_DESCRIPTION": "Singapore",
+    "CREATED_TIME": "2018-02-08T05:52:02.58",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-09T06:31:07.307",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 23,
+    "COUNTRY_NAME": "Indonesia",
+    "COUNTRY_CODE": "3",
+    "COUNTRY_DESCRIPTION": "Indonesia",
+    "CREATED_TIME": "2018-02-08T05:59:27.36",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:03:20.177",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "COUNTRY_CODE": "ad",
+    "COUNTRY_DESCRIPTION": "adfad",
+    "CREATED_TIME": "2018-02-08T06:14:20.91",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:02.12",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 25,
+    "COUNTRY_NAME": "Bruney Darussalam",
+    "COUNTRY_CODE": "ads",
+    "COUNTRY_DESCRIPTION": "fad",
+    "CREATED_TIME": "2018-02-08T06:15:03.513",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:12.5",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:14:54 AM===================================================
+URL					 = http://localhost:45086/api/Province/RetrieveData
+Request					 = 7
+Respon					 = {
+  "ID": 7,
+  "COUNTRY_ID": 24,
+  "COUNTRY_NAME": "Malaysia",
+  "PROVINCE_NAME": "fadsfa",
+  "PROVINCE_CODE": "adfa",
+  "PROVINCE_DESCRIPTION": "adfadf",
+  "CREATED_TIME": "2018-02-08T06:16:47.743",
+  "CREATED_BY": "hamkair",
+  "LAST_MODIFIED_TIME": "2018-02-08T06:17:05.437",
+  "LAST_MODIFIED_BY": "hamkair",
+  "ROW_STATUS": 0
+}
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:14:54 AM===================================================
+URL					 = http://localhost:45086/api/Country/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 22,
+    "COUNTRY_NAME": "Singapore",
+    "COUNTRY_CODE": "12",
+    "COUNTRY_DESCRIPTION": "Singapore",
+    "CREATED_TIME": "2018-02-08T05:52:02.58",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-09T06:31:07.307",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 23,
+    "COUNTRY_NAME": "Indonesia",
+    "COUNTRY_CODE": "3",
+    "COUNTRY_DESCRIPTION": "Indonesia",
+    "CREATED_TIME": "2018-02-08T05:59:27.36",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:03:20.177",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "COUNTRY_CODE": "ad",
+    "COUNTRY_DESCRIPTION": "adfad",
+    "CREATED_TIME": "2018-02-08T06:14:20.91",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:02.12",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 25,
+    "COUNTRY_NAME": "Bruney Darussalam",
+    "COUNTRY_CODE": "ads",
+    "COUNTRY_DESCRIPTION": "fad",
+    "CREATED_TIME": "2018-02-08T06:15:03.513",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:12.5",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:15:03 AM===================================================
+URL					 = http://localhost:45086/api/Province/RetrieveData
+Request					 = 7
+Respon					 = {
+  "ID": 7,
+  "COUNTRY_ID": 24,
+  "COUNTRY_NAME": "Malaysia",
+  "PROVINCE_NAME": "fadsfa",
+  "PROVINCE_CODE": "adfa",
+  "PROVINCE_DESCRIPTION": "adfadf",
+  "CREATED_TIME": "2018-02-08T06:16:47.743",
+  "CREATED_BY": "hamkair",
+  "LAST_MODIFIED_TIME": "2018-02-08T06:17:05.437",
+  "LAST_MODIFIED_BY": "hamkair",
+  "ROW_STATUS": 0
+}
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:15:03 AM===================================================
+URL					 = http://localhost:45086/api/Country/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 22,
+    "COUNTRY_NAME": "Singapore",
+    "COUNTRY_CODE": "12",
+    "COUNTRY_DESCRIPTION": "Singapore",
+    "CREATED_TIME": "2018-02-08T05:52:02.58",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-09T06:31:07.307",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 23,
+    "COUNTRY_NAME": "Indonesia",
+    "COUNTRY_CODE": "3",
+    "COUNTRY_DESCRIPTION": "Indonesia",
+    "CREATED_TIME": "2018-02-08T05:59:27.36",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:03:20.177",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "COUNTRY_CODE": "ad",
+    "COUNTRY_DESCRIPTION": "adfad",
+    "CREATED_TIME": "2018-02-08T06:14:20.91",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:02.12",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 25,
+    "COUNTRY_NAME": "Bruney Darussalam",
+    "COUNTRY_CODE": "ads",
+    "COUNTRY_DESCRIPTION": "fad",
+    "CREATED_TIME": "2018-02-08T06:15:03.513",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:12.5",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:15:06 AM===================================================
+URL					 = http://localhost:45086/api/City/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 1,
+    "PROVINCE_ID": 7,
+    "PROVINCE_NAME": "fadsfa",
+    "COUNTRY_ID": 0,
+    "COUNTRY_NAME": "Malaysia",
+    "CITY_NAME": "sad",
+    "CITY_CODE": "sasa",
+    "CITY_DESCRIPTION": "asda",
+    "CREATED_TIME": "2018-02-09T18:56:12.237",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:15:14 AM===================================================
+URL					 = http://localhost:45086/api/City/RetrieveData
+Request					 = 1
+Respon					 = {
+  "ID": 1,
+  "PROVINCE_ID": 7,
+  "PROVINCE_NAME": "fadsfa",
+  "COUNTRY_ID": 24,
+  "COUNTRY_NAME": "Malaysia",
+  "CITY_NAME": "sad",
+  "CITY_CODE": "sasa",
+  "CITY_DESCRIPTION": "asda",
+  "CREATED_TIME": "2018-02-09T18:56:12.237",
+  "CREATED_BY": "hamkair",
+  "LAST_MODIFIED_TIME": null,
+  "LAST_MODIFIED_BY": null,
+  "ROW_STATUS": 0
+}
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:15:15 AM===================================================
+URL					 = http://localhost:45086/api/Country/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 22,
+    "COUNTRY_NAME": "Singapore",
+    "COUNTRY_CODE": "12",
+    "COUNTRY_DESCRIPTION": "Singapore",
+    "CREATED_TIME": "2018-02-08T05:52:02.58",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-09T06:31:07.307",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 23,
+    "COUNTRY_NAME": "Indonesia",
+    "COUNTRY_CODE": "3",
+    "COUNTRY_DESCRIPTION": "Indonesia",
+    "CREATED_TIME": "2018-02-08T05:59:27.36",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:03:20.177",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "COUNTRY_CODE": "ad",
+    "COUNTRY_DESCRIPTION": "adfad",
+    "CREATED_TIME": "2018-02-08T06:14:20.91",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:02.12",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 25,
+    "COUNTRY_NAME": "Bruney Darussalam",
+    "COUNTRY_CODE": "ads",
+    "COUNTRY_DESCRIPTION": "fad",
+    "CREATED_TIME": "2018-02-08T06:15:03.513",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:12.5",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:15:22 AM===================================================
+URL					 = http://localhost:45086/api/Province/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 7,
+    "COUNTRY_ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "PROVINCE_NAME": "fadsfa",
+    "PROVINCE_CODE": "adfa",
+    "PROVINCE_DESCRIPTION": "adfadf",
+    "CREATED_TIME": "2018-02-08T06:16:47.743",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:17:05.437",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:17:34 AM===================================================
+URL					 = http://localhost:45086/api/City/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 1,
+    "PROVINCE_ID": 7,
+    "PROVINCE_NAME": "fadsfa",
+    "COUNTRY_ID": 0,
+    "COUNTRY_NAME": "Malaysia",
+    "CITY_NAME": "sad",
+    "CITY_CODE": "sasa",
+    "CITY_DESCRIPTION": "asda",
+    "CREATED_TIME": "2018-02-09T18:56:12.237",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:17:40 AM===================================================
+URL					 = http://localhost:45086/api/City/RetrieveData
+Request					 = 1
+Respon					 = {
+  "ID": 1,
+  "PROVINCE_ID": 7,
+  "PROVINCE_NAME": "fadsfa",
+  "COUNTRY_ID": 24,
+  "COUNTRY_NAME": "Malaysia",
+  "CITY_NAME": "sad",
+  "CITY_CODE": "sasa",
+  "CITY_DESCRIPTION": "asda",
+  "CREATED_TIME": "2018-02-09T18:56:12.237",
+  "CREATED_BY": "hamkair",
+  "LAST_MODIFIED_TIME": null,
+  "LAST_MODIFIED_BY": null,
+  "ROW_STATUS": 0
+}
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:17:40 AM===================================================
+URL					 = http://localhost:45086/api/Country/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 22,
+    "COUNTRY_NAME": "Singapore",
+    "COUNTRY_CODE": "12",
+    "COUNTRY_DESCRIPTION": "Singapore",
+    "CREATED_TIME": "2018-02-08T05:52:02.58",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-09T06:31:07.307",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 23,
+    "COUNTRY_NAME": "Indonesia",
+    "COUNTRY_CODE": "3",
+    "COUNTRY_DESCRIPTION": "Indonesia",
+    "CREATED_TIME": "2018-02-08T05:59:27.36",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:03:20.177",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "COUNTRY_CODE": "ad",
+    "COUNTRY_DESCRIPTION": "adfad",
+    "CREATED_TIME": "2018-02-08T06:14:20.91",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:02.12",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 25,
+    "COUNTRY_NAME": "Bruney Darussalam",
+    "COUNTRY_CODE": "ads",
+    "COUNTRY_DESCRIPTION": "fad",
+    "CREATED_TIME": "2018-02-08T06:15:03.513",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:12.5",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:17:40 AM===================================================
+URL					 = http://localhost:45086/api/Province/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 7,
+    "COUNTRY_ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "PROVINCE_NAME": "fadsfa",
+    "PROVINCE_CODE": "adfa",
+    "PROVINCE_DESCRIPTION": "adfadf",
+    "CREATED_TIME": "2018-02-08T06:16:47.743",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:17:05.437",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:17:56 AM===================================================
+URL					 = http://localhost:45086/api/Province/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 7,
+    "COUNTRY_ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "PROVINCE_NAME": "fadsfa",
+    "PROVINCE_CODE": "adfa",
+    "PROVINCE_DESCRIPTION": "adfadf",
+    "CREATED_TIME": "2018-02-08T06:16:47.743",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:17:05.437",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:18:01 AM===================================================
+URL					 = http://localhost:45086/api/Province/RetrieveData
+Request					 = 7
+Respon					 = {
+  "ID": 7,
+  "COUNTRY_ID": 24,
+  "COUNTRY_NAME": "Malaysia",
+  "PROVINCE_NAME": "fadsfa",
+  "PROVINCE_CODE": "adfa",
+  "PROVINCE_DESCRIPTION": "adfadf",
+  "CREATED_TIME": "2018-02-08T06:16:47.743",
+  "CREATED_BY": "hamkair",
+  "LAST_MODIFIED_TIME": "2018-02-08T06:17:05.437",
+  "LAST_MODIFIED_BY": "hamkair",
+  "ROW_STATUS": 0
+}
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:18:01 AM===================================================
+URL					 = http://localhost:45086/api/Country/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 22,
+    "COUNTRY_NAME": "Singapore",
+    "COUNTRY_CODE": "12",
+    "COUNTRY_DESCRIPTION": "Singapore",
+    "CREATED_TIME": "2018-02-08T05:52:02.58",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-09T06:31:07.307",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 23,
+    "COUNTRY_NAME": "Indonesia",
+    "COUNTRY_CODE": "3",
+    "COUNTRY_DESCRIPTION": "Indonesia",
+    "CREATED_TIME": "2018-02-08T05:59:27.36",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:03:20.177",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "COUNTRY_CODE": "ad",
+    "COUNTRY_DESCRIPTION": "adfad",
+    "CREATED_TIME": "2018-02-08T06:14:20.91",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:02.12",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 25,
+    "COUNTRY_NAME": "Bruney Darussalam",
+    "COUNTRY_CODE": "ads",
+    "COUNTRY_DESCRIPTION": "fad",
+    "CREATED_TIME": "2018-02-08T06:15:03.513",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:12.5",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:18:17 AM===================================================
+URL					 = http://localhost:45086/api/City/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 1,
+    "PROVINCE_ID": 7,
+    "PROVINCE_NAME": "fadsfa",
+    "COUNTRY_ID": 0,
+    "COUNTRY_NAME": "Malaysia",
+    "CITY_NAME": "sad",
+    "CITY_CODE": "sasa",
+    "CITY_DESCRIPTION": "asda",
+    "CREATED_TIME": "2018-02-09T18:56:12.237",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:18:23 AM===================================================
+URL					 = http://localhost:45086/api/City/RetrieveData
+Request					 = 1
+Respon					 = {
+  "ID": 1,
+  "PROVINCE_ID": 7,
+  "PROVINCE_NAME": "fadsfa",
+  "COUNTRY_ID": 24,
+  "COUNTRY_NAME": "Malaysia",
+  "CITY_NAME": "sad",
+  "CITY_CODE": "sasa",
+  "CITY_DESCRIPTION": "asda",
+  "CREATED_TIME": "2018-02-09T18:56:12.237",
+  "CREATED_BY": "hamkair",
+  "LAST_MODIFIED_TIME": null,
+  "LAST_MODIFIED_BY": null,
+  "ROW_STATUS": 0
+}
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:18:23 AM===================================================
+URL					 = http://localhost:45086/api/Country/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 22,
+    "COUNTRY_NAME": "Singapore",
+    "COUNTRY_CODE": "12",
+    "COUNTRY_DESCRIPTION": "Singapore",
+    "CREATED_TIME": "2018-02-08T05:52:02.58",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-09T06:31:07.307",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 23,
+    "COUNTRY_NAME": "Indonesia",
+    "COUNTRY_CODE": "3",
+    "COUNTRY_DESCRIPTION": "Indonesia",
+    "CREATED_TIME": "2018-02-08T05:59:27.36",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:03:20.177",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "COUNTRY_CODE": "ad",
+    "COUNTRY_DESCRIPTION": "adfad",
+    "CREATED_TIME": "2018-02-08T06:14:20.91",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:02.12",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 25,
+    "COUNTRY_NAME": "Bruney Darussalam",
+    "COUNTRY_CODE": "ads",
+    "COUNTRY_DESCRIPTION": "fad",
+    "CREATED_TIME": "2018-02-08T06:15:03.513",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:12.5",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:18:23 AM===================================================
+URL					 = http://localhost:45086/api/Province/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 7,
+    "COUNTRY_ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "PROVINCE_NAME": "fadsfa",
+    "PROVINCE_CODE": "adfa",
+    "PROVINCE_DESCRIPTION": "adfadf",
+    "CREATED_TIME": "2018-02-08T06:16:47.743",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:17:05.437",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:18:29 AM===================================================
+URL					 = http://localhost:45086/api/City/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 1,
+    "PROVINCE_ID": 7,
+    "PROVINCE_NAME": "fadsfa",
+    "COUNTRY_ID": 0,
+    "COUNTRY_NAME": "Malaysia",
+    "CITY_NAME": "sad",
+    "CITY_CODE": "sasa",
+    "CITY_DESCRIPTION": "asda",
+    "CREATED_TIME": "2018-02-09T18:56:12.237",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:18:30 AM===================================================
+URL					 = http://localhost:45086/api/Country/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 22,
+    "COUNTRY_NAME": "Singapore",
+    "COUNTRY_CODE": "12",
+    "COUNTRY_DESCRIPTION": "Singapore",
+    "CREATED_TIME": "2018-02-08T05:52:02.58",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-09T06:31:07.307",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 23,
+    "COUNTRY_NAME": "Indonesia",
+    "COUNTRY_CODE": "3",
+    "COUNTRY_DESCRIPTION": "Indonesia",
+    "CREATED_TIME": "2018-02-08T05:59:27.36",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:03:20.177",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "COUNTRY_CODE": "ad",
+    "COUNTRY_DESCRIPTION": "adfad",
+    "CREATED_TIME": "2018-02-08T06:14:20.91",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:02.12",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 25,
+    "COUNTRY_NAME": "Bruney Darussalam",
+    "COUNTRY_CODE": "ads",
+    "COUNTRY_DESCRIPTION": "fad",
+    "CREATED_TIME": "2018-02-08T06:15:03.513",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:12.5",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:18:33 AM===================================================
+URL					 = http://localhost:45086/api/Province/GetProvinceByCountryId
+Request					 = 22
+Respon					 = []
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:18:36 AM===================================================
+URL					 = http://localhost:45086/api/Province/GetProvinceByCountryId
+Request					 = 24
+Respon					 = [
+  {
+    "ID": 7,
+    "COUNTRY_ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "PROVINCE_NAME": "fadsfa",
+    "PROVINCE_CODE": "adfa",
+    "PROVINCE_DESCRIPTION": "adfadf",
+    "CREATED_TIME": "2018-02-08T06:16:47.743",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:17:05.437",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:19:18 AM===================================================
+URL					 = http://localhost:45086/api/Country/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 22,
+    "COUNTRY_NAME": "Singapore",
+    "COUNTRY_CODE": "12",
+    "COUNTRY_DESCRIPTION": "Singapore",
+    "CREATED_TIME": "2018-02-08T05:52:02.58",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-09T06:31:07.307",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 23,
+    "COUNTRY_NAME": "Indonesia",
+    "COUNTRY_CODE": "3",
+    "COUNTRY_DESCRIPTION": "Indonesia",
+    "CREATED_TIME": "2018-02-08T05:59:27.36",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:03:20.177",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "COUNTRY_CODE": "ad",
+    "COUNTRY_DESCRIPTION": "adfad",
+    "CREATED_TIME": "2018-02-08T06:14:20.91",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:02.12",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 25,
+    "COUNTRY_NAME": "Bruney Darussalam",
+    "COUNTRY_CODE": "ads",
+    "COUNTRY_DESCRIPTION": "fad",
+    "CREATED_TIME": "2018-02-08T06:15:03.513",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:12.5",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:19:21 AM===================================================
+URL					 = http://localhost:45086/api/City/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 1,
+    "PROVINCE_ID": 7,
+    "PROVINCE_NAME": "fadsfa",
+    "COUNTRY_ID": 0,
+    "COUNTRY_NAME": "Malaysia",
+    "CITY_NAME": "sad",
+    "CITY_CODE": "sasa",
+    "CITY_DESCRIPTION": "asda",
+    "CREATED_TIME": "2018-02-09T18:56:12.237",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:19:23 AM===================================================
+URL					 = http://localhost:45086/api/City/RetrieveData
+Request					 = 1
+Respon					 = {
+  "ID": 1,
+  "PROVINCE_ID": 7,
+  "PROVINCE_NAME": "fadsfa",
+  "COUNTRY_ID": 24,
+  "COUNTRY_NAME": "Malaysia",
+  "CITY_NAME": "sad",
+  "CITY_CODE": "sasa",
+  "CITY_DESCRIPTION": "asda",
+  "CREATED_TIME": "2018-02-09T18:56:12.237",
+  "CREATED_BY": "hamkair",
+  "LAST_MODIFIED_TIME": null,
+  "LAST_MODIFIED_BY": null,
+  "ROW_STATUS": 0
+}
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:19:23 AM===================================================
+URL					 = http://localhost:45086/api/Country/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 22,
+    "COUNTRY_NAME": "Singapore",
+    "COUNTRY_CODE": "12",
+    "COUNTRY_DESCRIPTION": "Singapore",
+    "CREATED_TIME": "2018-02-08T05:52:02.58",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-09T06:31:07.307",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 23,
+    "COUNTRY_NAME": "Indonesia",
+    "COUNTRY_CODE": "3",
+    "COUNTRY_DESCRIPTION": "Indonesia",
+    "CREATED_TIME": "2018-02-08T05:59:27.36",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:03:20.177",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "COUNTRY_CODE": "ad",
+    "COUNTRY_DESCRIPTION": "adfad",
+    "CREATED_TIME": "2018-02-08T06:14:20.91",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:02.12",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 25,
+    "COUNTRY_NAME": "Bruney Darussalam",
+    "COUNTRY_CODE": "ads",
+    "COUNTRY_DESCRIPTION": "fad",
+    "CREATED_TIME": "2018-02-08T06:15:03.513",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:12.5",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:19:23 AM===================================================
+URL					 = http://localhost:45086/api/Province/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 7,
+    "COUNTRY_ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "PROVINCE_NAME": "fadsfa",
+    "PROVINCE_CODE": "adfa",
+    "PROVINCE_DESCRIPTION": "adfadf",
+    "CREATED_TIME": "2018-02-08T06:16:47.743",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:17:05.437",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:19:28 AM===================================================
+URL					 = http://localhost:45086/api/Province/GetProvinceByCountryId
+Request					 = 25
+Respon					 = []
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:19:30 AM===================================================
+URL					 = http://localhost:45086/api/Province/GetProvinceByCountryId
+Request					 = 24
+Respon					 = [
+  {
+    "ID": 7,
+    "COUNTRY_ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "PROVINCE_NAME": "fadsfa",
+    "PROVINCE_CODE": "adfa",
+    "PROVINCE_DESCRIPTION": "adfadf",
+    "CREATED_TIME": "2018-02-08T06:16:47.743",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:17:05.437",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:19:35 AM===================================================
+URL					 = http://localhost:45086/api/City/Edit
+Request					 = {"ID":1,"PROVINCE_ID":7,"COUNTRY_ID":24,"CITY_NAME":"sad","CITY_CODE":"sasa","CITY_DESCRIPTION":"asda","CREATED_TIME":"\/Date(-62135596800000)\/","LAST_MODIFIED_TIME":"\/Date(1518203975500)\/","LAST_MODIFIED_BY":"hamkair","ROW_STATUS":0}
+Respon					 = {
+  "Status": 0,
+  "MessageText": null,
+  "IsSuccess": true
+}
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:19:35 AM===================================================
+URL					 = http://localhost:45086/api/City/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 1,
+    "PROVINCE_ID": 7,
+    "PROVINCE_NAME": "fadsfa",
+    "COUNTRY_ID": 0,
+    "COUNTRY_NAME": "Malaysia",
+    "CITY_NAME": "sad",
+    "CITY_CODE": "sasa",
+    "CITY_DESCRIPTION": "asda",
+    "CREATED_TIME": "2018-02-09T18:56:12.237",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-09T19:19:35.5",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:19:41 AM===================================================
+URL					 = http://localhost:45086/api/City/RetrieveData
+Request					 = 1
+Respon					 = {
+  "ID": 1,
+  "PROVINCE_ID": 7,
+  "PROVINCE_NAME": "fadsfa",
+  "COUNTRY_ID": 24,
+  "COUNTRY_NAME": "Malaysia",
+  "CITY_NAME": "sad",
+  "CITY_CODE": "sasa",
+  "CITY_DESCRIPTION": "asda",
+  "CREATED_TIME": "2018-02-09T18:56:12.237",
+  "CREATED_BY": "hamkair",
+  "LAST_MODIFIED_TIME": "2018-02-09T19:19:35.5",
+  "LAST_MODIFIED_BY": "hamkair",
+  "ROW_STATUS": 0
+}
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:19:41 AM===================================================
+URL					 = http://localhost:45086/api/Country/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 22,
+    "COUNTRY_NAME": "Singapore",
+    "COUNTRY_CODE": "12",
+    "COUNTRY_DESCRIPTION": "Singapore",
+    "CREATED_TIME": "2018-02-08T05:52:02.58",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-09T06:31:07.307",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 23,
+    "COUNTRY_NAME": "Indonesia",
+    "COUNTRY_CODE": "3",
+    "COUNTRY_DESCRIPTION": "Indonesia",
+    "CREATED_TIME": "2018-02-08T05:59:27.36",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:03:20.177",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "COUNTRY_CODE": "ad",
+    "COUNTRY_DESCRIPTION": "adfad",
+    "CREATED_TIME": "2018-02-08T06:14:20.91",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:02.12",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 25,
+    "COUNTRY_NAME": "Bruney Darussalam",
+    "COUNTRY_CODE": "ads",
+    "COUNTRY_DESCRIPTION": "fad",
+    "CREATED_TIME": "2018-02-08T06:15:03.513",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:12.5",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:19:41 AM===================================================
+URL					 = http://localhost:45086/api/Province/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 7,
+    "COUNTRY_ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "PROVINCE_NAME": "fadsfa",
+    "PROVINCE_CODE": "adfa",
+    "PROVINCE_DESCRIPTION": "adfadf",
+    "CREATED_TIME": "2018-02-08T06:16:47.743",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:17:05.437",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:19:44 AM===================================================
+URL					 = http://localhost:45086/api/Province/GetProvinceByCountryId
+Request					 = 25
+Respon					 = []
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:19:45 AM===================================================
+URL					 = http://localhost:45086/api/City/Edit
+Request					 = {"ID":1,"PROVINCE_ID":0,"COUNTRY_ID":25,"CITY_NAME":"sad","CITY_CODE":"sasa","CITY_DESCRIPTION":"asda","CREATED_TIME":"\/Date(-62135596800000)\/","LAST_MODIFIED_TIME":"\/Date(1518203985512)\/","LAST_MODIFIED_BY":"hamkair","ROW_STATUS":0}
+Respon					 = {
+  "Status": -1,
+  "MessageText": "Simpan Data Gagal.",
+  "IsSuccess": false
+}
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:19:45 AM===================================================
+URL					 = http://localhost:45086/api/City/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 1,
+    "PROVINCE_ID": 7,
+    "PROVINCE_NAME": "fadsfa",
+    "COUNTRY_ID": 0,
+    "COUNTRY_NAME": "Malaysia",
+    "CITY_NAME": "sad",
+    "CITY_CODE": "sasa",
+    "CITY_DESCRIPTION": "asda",
+    "CREATED_TIME": "2018-02-09T18:56:12.237",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-09T19:19:35.5",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:19:53 AM===================================================
+URL					 = http://localhost:45086/api/City/RetrieveData
+Request					 = 1
+Respon					 = {
+  "ID": 1,
+  "PROVINCE_ID": 7,
+  "PROVINCE_NAME": "fadsfa",
+  "COUNTRY_ID": 24,
+  "COUNTRY_NAME": "Malaysia",
+  "CITY_NAME": "sad",
+  "CITY_CODE": "sasa",
+  "CITY_DESCRIPTION": "asda",
+  "CREATED_TIME": "2018-02-09T18:56:12.237",
+  "CREATED_BY": "hamkair",
+  "LAST_MODIFIED_TIME": "2018-02-09T19:19:35.5",
+  "LAST_MODIFIED_BY": "hamkair",
+  "ROW_STATUS": 0
+}
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:19:55 AM===================================================
+URL					 = http://localhost:45086/api/City/Delete
+Request					 = 1
+Respon					 = {
+  "Status": 0,
+  "MessageText": null,
+  "IsSuccess": true
+}
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:19:55 AM===================================================
+URL					 = http://localhost:45086/api/City/GridBind
+Request					 = 
+Respon					 = []
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:19:57 AM===================================================
+URL					 = http://localhost:45086/api/Country/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 22,
+    "COUNTRY_NAME": "Singapore",
+    "COUNTRY_CODE": "12",
+    "COUNTRY_DESCRIPTION": "Singapore",
+    "CREATED_TIME": "2018-02-08T05:52:02.58",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-09T06:31:07.307",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 23,
+    "COUNTRY_NAME": "Indonesia",
+    "COUNTRY_CODE": "3",
+    "COUNTRY_DESCRIPTION": "Indonesia",
+    "CREATED_TIME": "2018-02-08T05:59:27.36",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:03:20.177",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "COUNTRY_CODE": "ad",
+    "COUNTRY_DESCRIPTION": "adfad",
+    "CREATED_TIME": "2018-02-08T06:14:20.91",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:02.12",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 25,
+    "COUNTRY_NAME": "Bruney Darussalam",
+    "COUNTRY_CODE": "ads",
+    "COUNTRY_DESCRIPTION": "fad",
+    "CREATED_TIME": "2018-02-08T06:15:03.513",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:12.5",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:19:59 AM===================================================
+URL					 = http://localhost:45086/api/Province/GetProvinceByCountryId
+Request					 = 23
+Respon					 = []
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:20:04 AM===================================================
+URL					 = http://localhost:45086/api/Province/GetProvinceByCountryId
+Request					 = 24
+Respon					 = [
+  {
+    "ID": 7,
+    "COUNTRY_ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "PROVINCE_NAME": "fadsfa",
+    "PROVINCE_CODE": "adfa",
+    "PROVINCE_DESCRIPTION": "adfadf",
+    "CREATED_TIME": "2018-02-08T06:16:47.743",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:17:05.437",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:26:00 AM===================================================
+URL					 = http://localhost:45086/api/City/GridBind
+Request					 = 
+Respon					 = []
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:26:02 AM===================================================
+URL					 = http://localhost:45086/api/Country/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 22,
+    "COUNTRY_NAME": "Singapore",
+    "COUNTRY_CODE": "12",
+    "COUNTRY_DESCRIPTION": "Singapore",
+    "CREATED_TIME": "2018-02-08T05:52:02.58",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-09T06:31:07.307",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 23,
+    "COUNTRY_NAME": "Indonesia",
+    "COUNTRY_CODE": "3",
+    "COUNTRY_DESCRIPTION": "Indonesia",
+    "CREATED_TIME": "2018-02-08T05:59:27.36",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:03:20.177",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "COUNTRY_CODE": "ad",
+    "COUNTRY_DESCRIPTION": "adfad",
+    "CREATED_TIME": "2018-02-08T06:14:20.91",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:02.12",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 25,
+    "COUNTRY_NAME": "Bruney Darussalam",
+    "COUNTRY_CODE": "ads",
+    "COUNTRY_DESCRIPTION": "fad",
+    "CREATED_TIME": "2018-02-08T06:15:03.513",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:12.5",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:27:02 AM===================================================
+URL					 = http://localhost:45086/api/Country/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 22,
+    "COUNTRY_NAME": "Singapore",
+    "COUNTRY_CODE": "12",
+    "COUNTRY_DESCRIPTION": "Singapore",
+    "CREATED_TIME": "2018-02-08T05:52:02.58",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-09T06:31:07.307",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 23,
+    "COUNTRY_NAME": "Indonesia",
+    "COUNTRY_CODE": "3",
+    "COUNTRY_DESCRIPTION": "Indonesia",
+    "CREATED_TIME": "2018-02-08T05:59:27.36",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:03:20.177",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "COUNTRY_CODE": "ad",
+    "COUNTRY_DESCRIPTION": "adfad",
+    "CREATED_TIME": "2018-02-08T06:14:20.91",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:02.12",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 25,
+    "COUNTRY_NAME": "Bruney Darussalam",
+    "COUNTRY_CODE": "ads",
+    "COUNTRY_DESCRIPTION": "fad",
+    "CREATED_TIME": "2018-02-08T06:15:03.513",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:12.5",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:27:19 AM===================================================
+URL					 = http://localhost:45086/api/Province/GetProvinceByCountryId
+Request					 = 23
+Respon					 = []
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:27:22 AM===================================================
+URL					 = http://localhost:45086/api/Province/GetProvinceByCountryId
+Request					 = 24
+Respon					 = [
+  {
+    "ID": 7,
+    "COUNTRY_ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "PROVINCE_NAME": "fadsfa",
+    "PROVINCE_CODE": "adfa",
+    "PROVINCE_DESCRIPTION": "adfadf",
+    "CREATED_TIME": "2018-02-08T06:16:47.743",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:17:05.437",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:27:31 AM===================================================
+URL					 = http://localhost:45086/api/City/Add
+Request					 = {"ID":0,"PROVINCE_ID":7,"COUNTRY_ID":24,"CITY_NAME":"ADSF","CITY_CODE":"SADF","CITY_DESCRIPTION":"ADF","CREATED_TIME":"\/Date(1518204451277)\/","CREATED_BY":"hamkair","ROW_STATUS":0}
+Respon					 = {
+  "Status": 0,
+  "MessageText": null,
+  "IsSuccess": true
+}
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:27:31 AM===================================================
+URL					 = http://localhost:45086/api/City/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 2,
+    "PROVINCE_ID": 7,
+    "PROVINCE_NAME": "fadsfa",
+    "COUNTRY_ID": 0,
+    "COUNTRY_NAME": "Malaysia",
+    "CITY_NAME": "ADSF",
+    "CITY_CODE": "SADF",
+    "CITY_DESCRIPTION": "ADF",
+    "CREATED_TIME": "2018-02-09T19:27:31.277",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:28:17 AM===================================================
+URL					 = http://localhost:45086/api/City/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 2,
+    "PROVINCE_ID": 7,
+    "PROVINCE_NAME": "fadsfa",
+    "COUNTRY_ID": 0,
+    "COUNTRY_NAME": "Malaysia",
+    "CITY_NAME": "ADSF",
+    "CITY_CODE": "SADF",
+    "CITY_DESCRIPTION": "ADF",
+    "CREATED_TIME": "2018-02-09T19:27:31.277",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:28:22 AM===================================================
+URL					 = http://localhost:45086/api/Country/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 22,
+    "COUNTRY_NAME": "Singapore",
+    "COUNTRY_CODE": "12",
+    "COUNTRY_DESCRIPTION": "Singapore",
+    "CREATED_TIME": "2018-02-08T05:52:02.58",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-09T06:31:07.307",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 23,
+    "COUNTRY_NAME": "Indonesia",
+    "COUNTRY_CODE": "3",
+    "COUNTRY_DESCRIPTION": "Indonesia",
+    "CREATED_TIME": "2018-02-08T05:59:27.36",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:03:20.177",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "COUNTRY_CODE": "ad",
+    "COUNTRY_DESCRIPTION": "adfad",
+    "CREATED_TIME": "2018-02-08T06:14:20.91",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:02.12",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 25,
+    "COUNTRY_NAME": "Bruney Darussalam",
+    "COUNTRY_CODE": "ads",
+    "COUNTRY_DESCRIPTION": "fad",
+    "CREATED_TIME": "2018-02-08T06:15:03.513",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:12.5",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:30:03 AM===================================================
+URL					 = http://localhost:45086/api/Province/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 7,
+    "COUNTRY_ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "PROVINCE_NAME": "fadsfa",
+    "PROVINCE_CODE": "adfa",
+    "PROVINCE_DESCRIPTION": "adfadf",
+    "CREATED_TIME": "2018-02-08T06:16:47.743",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:17:05.437",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:30:05 AM===================================================
+URL					 = http://localhost:45086/api/City/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 2,
+    "PROVINCE_ID": 7,
+    "PROVINCE_NAME": "fadsfa",
+    "COUNTRY_ID": 0,
+    "COUNTRY_NAME": "Malaysia",
+    "CITY_NAME": "ADSF",
+    "CITY_CODE": "SADF",
+    "CITY_DESCRIPTION": "ADF",
+    "CREATED_TIME": "2018-02-09T19:27:31.277",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:30:07 AM===================================================
+URL					 = http://localhost:45086/api/Country/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 22,
+    "COUNTRY_NAME": "Singapore",
+    "COUNTRY_CODE": "12",
+    "COUNTRY_DESCRIPTION": "Singapore",
+    "CREATED_TIME": "2018-02-08T05:52:02.58",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-09T06:31:07.307",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 23,
+    "COUNTRY_NAME": "Indonesia",
+    "COUNTRY_CODE": "3",
+    "COUNTRY_DESCRIPTION": "Indonesia",
+    "CREATED_TIME": "2018-02-08T05:59:27.36",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:03:20.177",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "COUNTRY_CODE": "ad",
+    "COUNTRY_DESCRIPTION": "adfad",
+    "CREATED_TIME": "2018-02-08T06:14:20.91",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:02.12",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 25,
+    "COUNTRY_NAME": "Bruney Darussalam",
+    "COUNTRY_CODE": "ads",
+    "COUNTRY_DESCRIPTION": "fad",
+    "CREATED_TIME": "2018-02-08T06:15:03.513",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:12.5",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:32:42 AM===================================================
+URL					 = http://localhost:45086/api/Province/GetProvinceByCountryId
+Request					 = 23
+Respon					 = []
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:32:44 AM===================================================
+URL					 = http://localhost:45086/api/Province/GetProvinceByCountryId
+Request					 = 24
+Respon					 = [
+  {
+    "ID": 7,
+    "COUNTRY_ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "PROVINCE_NAME": "fadsfa",
+    "PROVINCE_CODE": "adfa",
+    "PROVINCE_DESCRIPTION": "adfadf",
+    "CREATED_TIME": "2018-02-08T06:16:47.743",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:17:05.437",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:32:45 AM===================================================
+URL					 = http://localhost:45086/api/Province/GetProvinceByCountryId
+Request					 = 25
+Respon					 = []
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:32:48 AM===================================================
+URL					 = http://localhost:45086/api/Province/GetProvinceByCountryId
+Request					 = 23
+Respon					 = []
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:33:15 AM===================================================
+URL					 = http://localhost:45086/api/Village/GridBind
+Request					 = 
+Respon					 = []
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 2:33:18 AM===================================================
+URL					 = http://localhost:45086/api/District/GridBind
+Request					 = 
+Respon					 = {
+  "Status": -1,
+  "MessageText": "Object reference not set to an instance of an object.",
+  "IsSuccess": false
+}
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 4:47:38 PM===================================================
+URL					 = http://localhost:45086/api/Country/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 22,
+    "COUNTRY_NAME": "Singapore",
+    "COUNTRY_CODE": "12",
+    "COUNTRY_DESCRIPTION": "Singapore",
+    "CREATED_TIME": "2018-02-08T05:52:02.58",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-09T06:31:07.307",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 23,
+    "COUNTRY_NAME": "Indonesia",
+    "COUNTRY_CODE": "3",
+    "COUNTRY_DESCRIPTION": "Indonesia",
+    "CREATED_TIME": "2018-02-08T05:59:27.36",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:03:20.177",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "COUNTRY_CODE": "ad",
+    "COUNTRY_DESCRIPTION": "adfad",
+    "CREATED_TIME": "2018-02-08T06:14:20.91",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:02.12",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 25,
+    "COUNTRY_NAME": "Bruney Darussalam",
+    "COUNTRY_CODE": "ads",
+    "COUNTRY_DESCRIPTION": "fad",
+    "CREATED_TIME": "2018-02-08T06:15:03.513",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:12.5",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 4:56:45 PM===================================================
+URL					 = http://localhost:45086/api/Country/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 22,
+    "COUNTRY_NAME": "Singapore",
+    "COUNTRY_CODE": "12",
+    "COUNTRY_DESCRIPTION": "Singapore",
+    "CREATED_TIME": "2018-02-08T05:52:02.58",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-09T06:31:07.307",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 23,
+    "COUNTRY_NAME": "Indonesia",
+    "COUNTRY_CODE": "3",
+    "COUNTRY_DESCRIPTION": "Indonesia",
+    "CREATED_TIME": "2018-02-08T05:59:27.36",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:03:20.177",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "COUNTRY_CODE": "ad",
+    "COUNTRY_DESCRIPTION": "adfad",
+    "CREATED_TIME": "2018-02-08T06:14:20.91",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:02.12",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 25,
+    "COUNTRY_NAME": "Bruney Darussalam",
+    "COUNTRY_CODE": "ads",
+    "COUNTRY_DESCRIPTION": "fad",
+    "CREATED_TIME": "2018-02-08T06:15:03.513",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:12.5",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 4:57:05 PM===================================================
+URL					 = http://localhost:45086/api/Country/RetrieveData
+Request					 = 22
+Respon					 = {
+  "ID": 22,
+  "COUNTRY_NAME": "Singapore",
+  "COUNTRY_CODE": "12",
+  "COUNTRY_DESCRIPTION": "Singapore",
+  "CREATED_TIME": "2018-02-08T05:52:02.58",
+  "CREATED_BY": "hamkair",
+  "LAST_MODIFIED_TIME": "2018-02-09T06:31:07.307",
+  "LAST_MODIFIED_BY": "hamkair",
+  "ROW_STATUS": 0
+}
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 5:14:11 PM===================================================
+URL					 = http://localhost:45086/api/Country/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 22,
+    "COUNTRY_NAME": "Singapore",
+    "COUNTRY_CODE": "12",
+    "COUNTRY_DESCRIPTION": "Singapore",
+    "CREATED_TIME": "2018-02-08T05:52:02.58",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-09T06:31:07.307",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 23,
+    "COUNTRY_NAME": "Indonesia",
+    "COUNTRY_CODE": "3",
+    "COUNTRY_DESCRIPTION": "Indonesia",
+    "CREATED_TIME": "2018-02-08T05:59:27.36",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:03:20.177",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "COUNTRY_CODE": "ad",
+    "COUNTRY_DESCRIPTION": "adfad",
+    "CREATED_TIME": "2018-02-08T06:14:20.91",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:02.12",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 25,
+    "COUNTRY_NAME": "Bruney Darussalam",
+    "COUNTRY_CODE": "ads",
+    "COUNTRY_DESCRIPTION": "fad",
+    "CREATED_TIME": "2018-02-08T06:15:03.513",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:12.5",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/10/2018 5:14:16 PM===================================================
+URL					 = http://localhost:45086/api/Country/RetrieveData
+Request					 = 22
+Respon					 = {
+  "ID": 22,
+  "COUNTRY_NAME": "Singapore",
+  "COUNTRY_CODE": "12",
+  "COUNTRY_DESCRIPTION": "Singapore",
+  "CREATED_TIME": "2018-02-08T05:52:02.58",
+  "CREATED_BY": "hamkair",
+  "LAST_MODIFIED_TIME": "2018-02-09T06:31:07.307",
+  "LAST_MODIFIED_BY": "hamkair",
+  "ROW_STATUS": 0
+}
+Message					 = 
+Stack					 = 
+=========================================================================================================================

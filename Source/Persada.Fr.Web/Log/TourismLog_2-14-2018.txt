@@ -1,0 +1,869 @@
+===================================================2/14/2018 1:50:04 PM===================================================
+URL					 = http://localhost:45086/api/User/GridBind
+Request					 = 
+Respon					 = []
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/14/2018 1:51:00 PM===================================================
+URL					 = http://localhost:45086/api/User/GridBind
+Request					 = 
+Respon					 = []
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/14/2018 1:51:51 PM===================================================
+URL					 = http://localhost:45086/api/User/GridBind
+Request					 = 
+Respon					 = []
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/14/2018 1:53:43 PM===================================================
+URL					 = http://localhost:45086/api/Country/Add
+Request					 = {"ID":0,"CREATED_TIME":"\/Date(1518591223102)\/","CREATED_BY":"hamkair","ROW_STATUS":0}
+Respon					 = {
+  "Status": -1,
+  "MessageText": "Simpan Data Gagal.",
+  "IsSuccess": false
+}
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/14/2018 1:53:43 PM===================================================
+URL					 = http://localhost:45086/api/Country/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 22,
+    "COUNTRY_NAME": "Singapore",
+    "COUNTRY_CODE": "12",
+    "COUNTRY_DESCRIPTION": "Singapore",
+    "CREATED_TIME": "2018-02-08T05:52:02.58",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-09T06:31:07.307",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 23,
+    "COUNTRY_NAME": "Indonesia",
+    "COUNTRY_CODE": "3",
+    "COUNTRY_DESCRIPTION": "Indonesia",
+    "CREATED_TIME": "2018-02-08T05:59:27.36",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:03:20.177",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "COUNTRY_CODE": "ad",
+    "COUNTRY_DESCRIPTION": "adfad",
+    "CREATED_TIME": "2018-02-08T06:14:20.91",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:02.12",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 25,
+    "COUNTRY_NAME": "Bruney Darussalam",
+    "COUNTRY_CODE": "ads",
+    "COUNTRY_DESCRIPTION": "fad",
+    "CREATED_TIME": "2018-02-08T06:15:03.513",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:12.5",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/14/2018 1:54:12 PM===================================================
+URL					 = http://localhost:45086/api/User/GridBind
+Request					 = 
+Respon					 = []
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/14/2018 2:04:24 PM===================================================
+URL					 = http://localhost:45086/api/User/GridBind
+Request					 = 
+Respon					 = []
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/14/2018 2:13:06 PM===================================================
+URL					 = http://localhost:45086/api/User/GridBind
+Request					 = 
+Respon					 = []
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/14/2018 2:14:09 PM===================================================
+URL					 = http://localhost:45086/api/User/Add
+Request					 = {"ID":0,"USER_ID":"hamkair","USER_MAIL":"hamkairama@yahoo.com","USER_NAME":"hamka irama","IS_SUPER_ADMIN":1,"LAST_LOGIN":"\/Date(1518592380000)\/","PASSWORD":"hamka","CREATED_TIME":"\/Date(1518592409990)\/","CREATED_BY":"hamkair","ROW_STATUS":0}
+Respon					 = {
+  "Status": 0,
+  "MessageText": null,
+  "IsSuccess": true
+}
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/14/2018 2:14:17 PM===================================================
+URL					 = http://localhost:45086/api/User/GridBind
+Request					 = 
+Respon					 = {
+  "Status": -1,
+  "MessageText": "Object reference not set to an instance of an object.",
+  "IsSuccess": false
+}
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/14/2018 3:00:43 PM===================================================
+URL					 = http://localhost:45086/api/User/GridBind
+Request					 = 
+Respon					 = {
+  "Status": -1,
+  "MessageText": "Object reference not set to an instance of an object.",
+  "IsSuccess": false
+}
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/14/2018 3:03:27 PM===================================================
+URL					 = 
+Request					 = 
+Respon					 = 
+Message					 = One or more errors occurred.
+Stack					 =    at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at System.Threading.Tasks.Task`1.get_Result()
+   at Persada.Fr.CommonFunction.InvokeUrl.ReturnJson(String pathApi, String httpMethod, String request) in D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.CommonFunction\InvokeUrl.cs:line 35
+   at Persada.Fr.CommonFunction.ParsingObject.RequestData(Object param, String controller, String method, String httpMethod) in D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.CommonFunction\ParsingObject.cs:line 41
+=========================================================================================================================
+===================================================2/14/2018 3:08:04 PM===================================================
+URL					 = http://localhost:45086/api/User/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 2,
+    "USER_ID": "hamkair",
+    "USER_MAIL": "hamkairama@yahoo.com",
+    "USER_NAME": "hamka irama",
+    "IS_SUPER_ADMIN": 1,
+    "LAST_LOGIN": "2018-02-14T07:13:00",
+    "PASSWORD": "hamka",
+    "CREATED_TIME": "2018-02-14T07:13:29.99",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0,
+    "TOURIS_TV_USER_PROFILE": null
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/14/2018 3:16:40 PM===================================================
+URL					 = http://localhost:45086/api/User/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 2,
+    "USER_ID": "hamkair",
+    "USER_MAIL": "hamkairama@yahoo.com",
+    "USER_NAME": "hamka irama",
+    "IS_SUPER_ADMIN": 1,
+    "LAST_LOGIN": "2018-02-14T07:13:00",
+    "PASSWORD": "hamka",
+    "CREATED_TIME": "2018-02-14T07:13:29.99",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0,
+    "TOURIS_TV_USER_PROFILE": null
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/14/2018 3:17:13 PM===================================================
+URL					 = http://localhost:45086/api/Country/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 22,
+    "COUNTRY_NAME": "Singapore",
+    "COUNTRY_CODE": "12",
+    "COUNTRY_DESCRIPTION": "Singapore",
+    "CREATED_TIME": "2018-02-08T05:52:02.58",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-09T06:31:07.307",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 23,
+    "COUNTRY_NAME": "Indonesia",
+    "COUNTRY_CODE": "3",
+    "COUNTRY_DESCRIPTION": "Indonesia",
+    "CREATED_TIME": "2018-02-08T05:59:27.36",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:03:20.177",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "COUNTRY_CODE": "ad",
+    "COUNTRY_DESCRIPTION": "adfad",
+    "CREATED_TIME": "2018-02-08T06:14:20.91",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:02.12",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 25,
+    "COUNTRY_NAME": "Bruney Darussalam",
+    "COUNTRY_CODE": "ads",
+    "COUNTRY_DESCRIPTION": "fad",
+    "CREATED_TIME": "2018-02-08T06:15:03.513",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:12.5",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/14/2018 3:47:12 PM===================================================
+URL					 = http://localhost:45086/api/User/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 2,
+    "USER_ID": "hamkair",
+    "USER_MAIL": "hamkairama@yahoo.com",
+    "USER_NAME": "hamka irama",
+    "IS_SUPER_ADMIN": 1,
+    "LAST_LOGIN": "2018-02-14T07:13:00",
+    "PASSWORD": "hamka",
+    "CREATED_TIME": "2018-02-14T07:13:29.99",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0,
+    "TOURIS_TV_USER_PROFILE": null
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/14/2018 5:13:43 PM===================================================
+URL					 = http://localhost:45086/api/User/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 2,
+    "USER_ID": "hamkair",
+    "USER_MAIL": "hamkairama@yahoo.com",
+    "USER_NAME": "hamka irama",
+    "IS_SUPER_ADMIN": 1,
+    "LAST_LOGIN": "2018-02-14T07:13:00",
+    "PASSWORD": "hamka",
+    "CREATED_TIME": "2018-02-14T07:13:29.99",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0,
+    "TOURIS_TV_USER_PROFILE": null
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/14/2018 11:35:25 PM===================================================
+URL					 = http://localhost:45086/api/Country/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 22,
+    "COUNTRY_NAME": "Singapore",
+    "COUNTRY_CODE": "12",
+    "COUNTRY_DESCRIPTION": "Singapore",
+    "CREATED_TIME": "2018-02-08T05:52:02.58",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-09T06:31:07.307",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 23,
+    "COUNTRY_NAME": "Indonesia",
+    "COUNTRY_CODE": "3",
+    "COUNTRY_DESCRIPTION": "Indonesia",
+    "CREATED_TIME": "2018-02-08T05:59:27.36",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:03:20.177",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "COUNTRY_CODE": "ad",
+    "COUNTRY_DESCRIPTION": "adfad",
+    "CREATED_TIME": "2018-02-08T06:14:20.91",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:02.12",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 25,
+    "COUNTRY_NAME": "Bruney Darussalam",
+    "COUNTRY_CODE": "ads",
+    "COUNTRY_DESCRIPTION": "fad",
+    "CREATED_TIME": "2018-02-08T06:15:03.513",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:12.5",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/14/2018 11:55:24 PM===================================================
+URL					 = http://localhost:45086/api/Country/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 22,
+    "COUNTRY_NAME": "Singapore",
+    "COUNTRY_CODE": "12",
+    "COUNTRY_DESCRIPTION": "Singapore",
+    "CREATED_TIME": "2018-02-08T05:52:02.58",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-09T06:31:07.307",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 23,
+    "COUNTRY_NAME": "Indonesia",
+    "COUNTRY_CODE": "3",
+    "COUNTRY_DESCRIPTION": "Indonesia",
+    "CREATED_TIME": "2018-02-08T05:59:27.36",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:03:20.177",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "COUNTRY_CODE": "ad",
+    "COUNTRY_DESCRIPTION": "adfad",
+    "CREATED_TIME": "2018-02-08T06:14:20.91",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:02.12",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 25,
+    "COUNTRY_NAME": "Bruney Darussalam",
+    "COUNTRY_CODE": "ads",
+    "COUNTRY_DESCRIPTION": "fad",
+    "CREATED_TIME": "2018-02-08T06:15:03.513",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:12.5",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/14/2018 11:55:30 PM===================================================
+URL					 = http://localhost:45086/api/Category/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 2,
+    "CATEGORY_CODE": "C01",
+    "CATEGORY_NAME": "Tour",
+    "CATEGORY_DESCRIPTION": "Tour",
+    "CREATED_TIME": "2018-02-12T09:59:37.95",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 3,
+    "CATEGORY_CODE": "C02",
+    "CATEGORY_NAME": "Event",
+    "CATEGORY_DESCRIPTION": "Event",
+    "CREATED_TIME": "2018-02-12T10:00:07.423",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 4,
+    "CATEGORY_CODE": "C03",
+    "CATEGORY_NAME": "Culinary",
+    "CATEGORY_DESCRIPTION": "Culinary",
+    "CREATED_TIME": "2018-02-12T10:00:17.977",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/14/2018 11:55:39 PM===================================================
+URL					 = http://localhost:45086/api/Category/RetrieveData
+Request					 = 2
+Respon					 = {
+  "ID": 2,
+  "CATEGORY_CODE": "C01",
+  "CATEGORY_NAME": "Tour",
+  "CATEGORY_DESCRIPTION": "Tour",
+  "CREATED_TIME": "2018-02-12T09:59:37.95",
+  "CREATED_BY": "hamkair",
+  "LAST_MODIFIED_TIME": null,
+  "LAST_MODIFIED_BY": null,
+  "ROW_STATUS": 0
+}
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/14/2018 11:55:49 PM===================================================
+URL					 = http://localhost:45086/api/District/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 3,
+    "COUNTRY_ID": 0,
+    "COUNTRY_NAME": "Indonesia",
+    "PROVINCE_ID": 0,
+    "PROVINCE_NAME": "DKI Jakarta",
+    "CITY_ID": 6,
+    "CITY_NAME": "Jakarta Barat",
+    "DISTRICT_NAME": "Kembangan",
+    "DISTRICT_CODE": "JKT01Kembangan",
+    "DISTRICT_DESCRIPTION": "Kembangan",
+    "CREATED_TIME": "2018-02-12T09:56:18.217",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 4,
+    "COUNTRY_ID": 0,
+    "COUNTRY_NAME": "Indonesia",
+    "PROVINCE_ID": 0,
+    "PROVINCE_NAME": "DKI Jakarta",
+    "CITY_ID": 6,
+    "CITY_NAME": "Jakarta Barat",
+    "DISTRICT_NAME": "Kebon Jeruk",
+    "DISTRICT_CODE": "JKT01KebonJeruk",
+    "DISTRICT_DESCRIPTION": "Kebon Jeruk",
+    "CREATED_TIME": "2018-02-12T09:56:41.81",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/14/2018 11:55:53 PM===================================================
+URL					 = http://localhost:45086/api/District/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 3,
+    "COUNTRY_ID": 0,
+    "COUNTRY_NAME": "Indonesia",
+    "PROVINCE_ID": 0,
+    "PROVINCE_NAME": "DKI Jakarta",
+    "CITY_ID": 6,
+    "CITY_NAME": "Jakarta Barat",
+    "DISTRICT_NAME": "Kembangan",
+    "DISTRICT_CODE": "JKT01Kembangan",
+    "DISTRICT_DESCRIPTION": "Kembangan",
+    "CREATED_TIME": "2018-02-12T09:56:18.217",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 4,
+    "COUNTRY_ID": 0,
+    "COUNTRY_NAME": "Indonesia",
+    "PROVINCE_ID": 0,
+    "PROVINCE_NAME": "DKI Jakarta",
+    "CITY_ID": 6,
+    "CITY_NAME": "Jakarta Barat",
+    "DISTRICT_NAME": "Kebon Jeruk",
+    "DISTRICT_CODE": "JKT01KebonJeruk",
+    "DISTRICT_DESCRIPTION": "Kebon Jeruk",
+    "CREATED_TIME": "2018-02-12T09:56:41.81",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/14/2018 11:56:27 PM===================================================
+URL					 = http://localhost:45086/api/District/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 3,
+    "COUNTRY_ID": 0,
+    "COUNTRY_NAME": "Indonesia",
+    "PROVINCE_ID": 0,
+    "PROVINCE_NAME": "DKI Jakarta",
+    "CITY_ID": 6,
+    "CITY_NAME": "Jakarta Barat",
+    "DISTRICT_NAME": "Kembangan",
+    "DISTRICT_CODE": "JKT01Kembangan",
+    "DISTRICT_DESCRIPTION": "Kembangan",
+    "CREATED_TIME": "2018-02-12T09:56:18.217",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 4,
+    "COUNTRY_ID": 0,
+    "COUNTRY_NAME": "Indonesia",
+    "PROVINCE_ID": 0,
+    "PROVINCE_NAME": "DKI Jakarta",
+    "CITY_ID": 6,
+    "CITY_NAME": "Jakarta Barat",
+    "DISTRICT_NAME": "Kebon Jeruk",
+    "DISTRICT_CODE": "JKT01KebonJeruk",
+    "DISTRICT_DESCRIPTION": "Kebon Jeruk",
+    "CREATED_TIME": "2018-02-12T09:56:41.81",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/14/2018 11:57:24 PM===================================================
+URL					 = http://localhost:45086/api/District/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 3,
+    "COUNTRY_ID": 0,
+    "COUNTRY_NAME": "Indonesia",
+    "PROVINCE_ID": 0,
+    "PROVINCE_NAME": "DKI Jakarta",
+    "CITY_ID": 6,
+    "CITY_NAME": "Jakarta Barat",
+    "DISTRICT_NAME": "Kembangan",
+    "DISTRICT_CODE": "JKT01Kembangan",
+    "DISTRICT_DESCRIPTION": "Kembangan",
+    "CREATED_TIME": "2018-02-12T09:56:18.217",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 4,
+    "COUNTRY_ID": 0,
+    "COUNTRY_NAME": "Indonesia",
+    "PROVINCE_ID": 0,
+    "PROVINCE_NAME": "DKI Jakarta",
+    "CITY_ID": 6,
+    "CITY_NAME": "Jakarta Barat",
+    "DISTRICT_NAME": "Kebon Jeruk",
+    "DISTRICT_CODE": "JKT01KebonJeruk",
+    "DISTRICT_DESCRIPTION": "Kebon Jeruk",
+    "CREATED_TIME": "2018-02-12T09:56:41.81",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/14/2018 11:57:34 PM===================================================
+URL					 = http://localhost:45086/api/District/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 3,
+    "COUNTRY_ID": 0,
+    "COUNTRY_NAME": "Indonesia",
+    "PROVINCE_ID": 0,
+    "PROVINCE_NAME": "DKI Jakarta",
+    "CITY_ID": 6,
+    "CITY_NAME": "Jakarta Barat",
+    "DISTRICT_NAME": "Kembangan",
+    "DISTRICT_CODE": "JKT01Kembangan",
+    "DISTRICT_DESCRIPTION": "Kembangan",
+    "CREATED_TIME": "2018-02-12T09:56:18.217",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 4,
+    "COUNTRY_ID": 0,
+    "COUNTRY_NAME": "Indonesia",
+    "PROVINCE_ID": 0,
+    "PROVINCE_NAME": "DKI Jakarta",
+    "CITY_ID": 6,
+    "CITY_NAME": "Jakarta Barat",
+    "DISTRICT_NAME": "Kebon Jeruk",
+    "DISTRICT_CODE": "JKT01KebonJeruk",
+    "DISTRICT_DESCRIPTION": "Kebon Jeruk",
+    "CREATED_TIME": "2018-02-12T09:56:41.81",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/14/2018 11:57:34 PM===================================================
+URL					 = http://localhost:45086/api/District/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 3,
+    "COUNTRY_ID": 0,
+    "COUNTRY_NAME": "Indonesia",
+    "PROVINCE_ID": 0,
+    "PROVINCE_NAME": "DKI Jakarta",
+    "CITY_ID": 6,
+    "CITY_NAME": "Jakarta Barat",
+    "DISTRICT_NAME": "Kembangan",
+    "DISTRICT_CODE": "JKT01Kembangan",
+    "DISTRICT_DESCRIPTION": "Kembangan",
+    "CREATED_TIME": "2018-02-12T09:56:18.217",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 4,
+    "COUNTRY_ID": 0,
+    "COUNTRY_NAME": "Indonesia",
+    "PROVINCE_ID": 0,
+    "PROVINCE_NAME": "DKI Jakarta",
+    "CITY_ID": 6,
+    "CITY_NAME": "Jakarta Barat",
+    "DISTRICT_NAME": "Kebon Jeruk",
+    "DISTRICT_CODE": "JKT01KebonJeruk",
+    "DISTRICT_DESCRIPTION": "Kebon Jeruk",
+    "CREATED_TIME": "2018-02-12T09:56:41.81",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/14/2018 11:58:57 PM===================================================
+URL					 = http://localhost:45086/api/District/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 3,
+    "COUNTRY_ID": 0,
+    "COUNTRY_NAME": "Indonesia",
+    "PROVINCE_ID": 0,
+    "PROVINCE_NAME": "DKI Jakarta",
+    "CITY_ID": 6,
+    "CITY_NAME": "Jakarta Barat",
+    "DISTRICT_NAME": "Kembangan",
+    "DISTRICT_CODE": "JKT01Kembangan",
+    "DISTRICT_DESCRIPTION": "Kembangan",
+    "CREATED_TIME": "2018-02-12T09:56:18.217",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 4,
+    "COUNTRY_ID": 0,
+    "COUNTRY_NAME": "Indonesia",
+    "PROVINCE_ID": 0,
+    "PROVINCE_NAME": "DKI Jakarta",
+    "CITY_ID": 6,
+    "CITY_NAME": "Jakarta Barat",
+    "DISTRICT_NAME": "Kebon Jeruk",
+    "DISTRICT_CODE": "JKT01KebonJeruk",
+    "DISTRICT_DESCRIPTION": "Kebon Jeruk",
+    "CREATED_TIME": "2018-02-12T09:56:41.81",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/14/2018 11:59:32 PM===================================================
+URL					 = http://localhost:45086/api/Country/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 22,
+    "COUNTRY_NAME": "Singapore",
+    "COUNTRY_CODE": "12",
+    "COUNTRY_DESCRIPTION": "Singapore",
+    "CREATED_TIME": "2018-02-08T05:52:02.58",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-09T06:31:07.307",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 23,
+    "COUNTRY_NAME": "Indonesia",
+    "COUNTRY_CODE": "3",
+    "COUNTRY_DESCRIPTION": "Indonesia",
+    "CREATED_TIME": "2018-02-08T05:59:27.36",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:03:20.177",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "COUNTRY_CODE": "ad",
+    "COUNTRY_DESCRIPTION": "adfad",
+    "CREATED_TIME": "2018-02-08T06:14:20.91",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:02.12",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 25,
+    "COUNTRY_NAME": "Bruney Darussalam",
+    "COUNTRY_CODE": "ads",
+    "COUNTRY_DESCRIPTION": "fad",
+    "CREATED_TIME": "2018-02-08T06:15:03.513",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:12.5",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/14/2018 11:59:37 PM===================================================
+URL					 = http://localhost:45086/api/City/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 6,
+    "PROVINCE_ID": 11,
+    "PROVINCE_NAME": "DKI Jakarta",
+    "COUNTRY_ID": 0,
+    "COUNTRY_NAME": "Indonesia",
+    "CITY_NAME": "Jakarta Barat",
+    "CITY_CODE": "JKT01",
+    "CITY_DESCRIPTION": "Jakarta Barat",
+    "CREATED_TIME": "2018-02-12T09:53:45.103",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 7,
+    "PROVINCE_ID": 11,
+    "PROVINCE_NAME": "DKI Jakarta",
+    "COUNTRY_ID": 0,
+    "COUNTRY_NAME": "Indonesia",
+    "CITY_NAME": "Jakarta Utara",
+    "CITY_CODE": "JKT02",
+    "CITY_DESCRIPTION": "Jakarta Utara",
+    "CREATED_TIME": "2018-02-12T09:54:12.813",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 8,
+    "PROVINCE_ID": 11,
+    "PROVINCE_NAME": "DKI Jakarta",
+    "COUNTRY_ID": 0,
+    "COUNTRY_NAME": "Indonesia",
+    "CITY_NAME": "Jakarta Timur",
+    "CITY_CODE": "JKT03",
+    "CITY_DESCRIPTION": "Jakarta timur",
+    "CREATED_TIME": "2018-02-12T09:54:38.463",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 9,
+    "PROVINCE_ID": 11,
+    "PROVINCE_NAME": "DKI Jakarta",
+    "COUNTRY_ID": 0,
+    "COUNTRY_NAME": "Indonesia",
+    "CITY_NAME": "Jakarta Selatan",
+    "CITY_CODE": "JKT04",
+    "CITY_DESCRIPTION": "Jakarta Selatan",
+    "CREATED_TIME": "2018-02-12T09:55:04.267",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================

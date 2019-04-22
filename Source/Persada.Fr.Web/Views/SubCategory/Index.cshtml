@@ -1,0 +1,118 @@
+﻿@model IEnumerable<Persada.Fr.ModelView.TOURIS_TV_SUB_CATEGORY> 
+@using Persada.Fr.CommonFunction
+
+@{
+    ViewBag.Title = "Index SubCategory";
+    ViewBag.CategorySetup = "active";
+    ViewBag.IndexSubCategory = "active";
+}
+
+<h2>@ViewBag.Title.</h2>
+@if (ViewBag.msgSuccess != null)
+{
+    <div class="alert alert-success">
+        <a href="#" class="close" type="button" data-dismiss="alert">
+            <i class="ace-icon fa fa-times"></i>
+        </a>
+
+        <strong>
+            <i class="ace-icon fa fa-check"></i>
+        </strong>
+        @ViewBag.msgSuccess
+        <br>
+    </div>
+}
+
+@if (ViewBag.msgError != null)
+{
+    <div class="alert alert-danger">
+        <a href="#" class="close" type="button" data-dismiss="alert">
+            <i class="ace-icon fa fa-times"></i>
+        </a>
+        <strong>
+            <i class="ace-icon fa fa-times"></i>
+        </strong>
+        @ViewBag.msgError
+        <br>
+    </div>
+} 
+
+
+<p>
+    <a class="btn col-md-1 btn-success" href="@Url.Action("Create")" title="Create">
+        Create
+    </a>
+</p>
+
+<table class="table table-striped">
+    <tr>
+        <th>
+            Category 
+        </th>
+        <th>
+            SubCategory
+        </th>
+        <th>
+            City
+        </th>
+        <th>
+            Created Time
+        </th>
+        <th>
+            Created By
+        </th>
+        <th>
+            Last Modified Time
+        </th>
+        <th>
+            Last Modified By
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+
+            <td>
+                @item.CATEGORY_NAME
+            </td>
+            <td>
+                @item.SUB_CATEGORY_NAME
+            </td>
+            <td>
+                @item.CITY_NAME
+            </td>
+            <td>
+                @Common.StandardDateTime(item.CREATED_TIME)
+            </td>
+            <td>
+                @item.CREATED_BY
+            </td>
+            <td>
+                @if (item.LAST_MODIFIED_TIME.HasValue)
+                {
+                    @Common.StandardDateTime(item.LAST_MODIFIED_TIME.Value)
+                }
+            </td>
+            <td>
+                @item.LAST_MODIFIED_BY
+            </td>
+            <td>
+                <a class="btn btn-xs btn-warning" href="#"  onclick="Modal('/SubCategory/Detail/','@item.ID','#myModal')" title="Detail">
+                    @Html.Raw(Labels.IconAction("Detail"))
+                </a>
+                <a class="btn btn-xs btn-primary" href="@Url.Action("Edit", new { id = item.ID })" title="Edit">
+                    @Html.Raw(Labels.IconAction("Edit"))
+                </a>
+                <a class="btn btn-xs btn-success" href="@Url.Action("Image", new { id = item.ID })" title="Image">
+                    <i class='glyphicon glyphicon-plus-sign'></i>
+                </a>
+                <a class="btn btn-xs btn-danger" href="@Url.Action("Delete", new { id = item.ID })" title="Delete">
+                    @Html.Raw(Labels.IconAction("Delete"))
+                </a>
+            </td>
+        </tr>
+    }
+
+</table>

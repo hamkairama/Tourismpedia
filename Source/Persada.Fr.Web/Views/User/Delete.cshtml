@@ -1,0 +1,155 @@
+﻿@model Persada.Fr.ModelView.TOURIS_TV_USER
+@{
+    ViewBag.Title = "Delete User";
+}
+
+<h2>@ViewBag.Title.</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <div class="row">
+        <div class="col-md-6">
+            <section id="accountForm">
+                <h4>Input account to log in.</h4>
+                <hr />
+                <div class="form-group">
+                    <label class="col-md-2 control-label">User Id</label>
+                    <div class="col-md-10">
+                        @Html.TextBoxFor(m => m.USER_ID, new { @class = "form-control", disabled = "disabled" })
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label class="col-md-2 control-label">Email</label>
+                    <div class="col-md-10">
+                        @Html.TextBoxFor(m => m.USER_MAIL, new { @class = "form-control", disabled = "disabled" })
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label class="col-md-2 control-label">Name</label>
+                    <div class="col-md-10">
+                        @Html.TextBoxFor(m => m.USER_NAME, new { @class = "form-control", disabled = "disabled" })
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label class="col-md-2 control-label">SA</label>
+                    <div class="col-md-10">
+                        @Html.CheckBoxFor(m => m.IS_SUPER_ADMIN, new { @class = "checkbox", disabled = "disabled" })
+                    </div>
+                </div>
+            </section>
+        </div>
+
+        <div class="col-md-6">
+            <section id="photoForm">
+                <h4>Photo profile</h4>
+                <hr />
+                <div class="form-group">
+                    <div class="col-md-12">
+                        <div>
+                            <img src="@Model.TOURIS_TV_USER_PROFILE.FirstOrDefault().PHOTO_PATH" class="img-medium" />
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-6">
+            <section id="profilForm">
+                <h4>Input profile</h4>
+                <hr />
+                <div class="form-group">
+                    <label class="col-md-2 control-label">Born</label>
+                    <div class="col-md-10">
+                        @Html.TextBoxFor(m => m.TOURIS_TV_USER_PROFILE.FirstOrDefault().BORN, new { @class = "form-control", disabled = "disabled" })
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label class="col-md-2 control-label">Gender</label>
+                    <div class="col-md-10">
+                        @Html.TextBoxFor(m => m.TOURIS_TV_USER_PROFILE.FirstOrDefault().GENDER, new { @class = "form-control", disabled = "disabled" })
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label class="col-md-2 control-label">Address</label>
+                    <div class="col-md-10">
+                        @Html.TextAreaFor(m => m.TOURIS_TV_USER_PROFILE.FirstOrDefault().ADDRESS, new { @class = "form-control", @rows = "5", disabled = "disabled" })
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label class="col-md-2 control-label">Job</label>
+                    <div class="col-md-10">
+                        @Html.TextBoxFor(m => m.TOURIS_TV_USER_PROFILE.FirstOrDefault().JOB, new { @class = "form-control", disabled = "disabled" })
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label class="col-md-2 control-label">Company</label>
+                    <div class="col-md-10">
+                        @Html.TextBoxFor(m => m.TOURIS_TV_USER_PROFILE.FirstOrDefault().COMPANY, new { @class = "form-control", disabled = "disabled" })
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label class="col-md-2 control-label">Hobby</label>
+                    <div class="col-md-10">
+                        @Html.TextBoxFor(m => m.TOURIS_TV_USER_PROFILE.FirstOrDefault().HOBBY, new { @class = "form-control", disabled = "disabled" })
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label class="col-md-2 control-label">Other Description</label>
+                    <div class="col-md-10">
+                        @Html.TextAreaFor(m => m.TOURIS_TV_USER_PROFILE.FirstOrDefault().DESCRIPTION, new { @class = "form-control", @rows = "3", disabled = "disabled" })
+                    </div>
+                </div>
+            </section>
+        </div>
+
+        <div class="col-md-6">
+            <section id="sosmedForm">
+                <h4>Social media</h4>
+                <hr />
+                <div class="container">
+                    <table id="myTable" class=" table order-list">
+                        <thead>
+                            <tr>
+                                <td>Name</td>
+                                <td>Url</td>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td class="col-sm-4">
+                                    <input type="text" name="name" class="form-control" />
+                                </td>
+                                <td class="col-sm-6">
+                                    <input type="url" name="url" class="form-control" />
+                                </td>
+                                <td class="col-sm-2">
+                                    <a class="deleteRow"></a>
+                                </td>
+                            </tr>
+                        </tbody>
+                        <tfoot>
+                            <tr>
+                                <td colspan="5" style="text-align: left;">
+                                    <input type="button" class="btn btn-lg btn-block" id="addrow" value="Add Row" />
+                                </td>
+                            </tr>
+                            <tr></tr>
+                        </tfoot>
+                    </table>
+                </div>
+            </section>
+        </div>
+    </div>
+
+    @using (Html.BeginForm("ActionDelete", "User", new { id = Model.ID }))
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

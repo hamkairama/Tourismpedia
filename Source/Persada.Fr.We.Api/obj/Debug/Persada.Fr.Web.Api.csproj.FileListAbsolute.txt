@@ -1,0 +1,417 @@
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\roslyn\csc.exe
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\roslyn\System.Collections.Immutable.dll
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\roslyn\System.Reflection.Metadata.dll
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\roslyn\vbc.exe
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\roslyn\VBCSCompiler.exe
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\roslyn\VBCSCompiler.exe.config
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\Persada.Fr.Web.Api.dll.config
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\Persada.Fr.Web.Api.dll
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\Persada.Fr.Web.Api.pdb
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\Antlr3.Runtime.dll
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\EntityFramework.dll
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\EntityFramework.SqlServer.dll
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.dll
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Security.dll
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Security.Google.dll
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Web.Infrastructure.dll
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\Newtonsoft.Json.dll
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\Owin.dll
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\Persada.Fr.Facade.dll
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\Persada.Fr.Model.dll
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\Persada.Fr.ModelView.dll
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Net.Http.Formatting.dll
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.Helpers.dll
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.Http.dll
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.Http.Owin.dll
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.Http.WebHost.dll
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.Mvc.dll
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.Optimization.dll
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.Razor.dll
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.WebPages.Deployment.dll
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.WebPages.dll
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.WebPages.Razor.dll
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\WebGrease.dll
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\Persada.Fr.Facade.pdb
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\Persada.Fr.ModelView.pdb
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\Persada.Fr.Model.pdb
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\Newtonsoft.Json.xml
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Net.Http.Formatting.xml
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.Helpers.xml
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.Http.xml
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.Http.WebHost.xml
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.Mvc.xml
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.Optimization.xml
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.Razor.xml
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.WebPages.xml
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.WebPages.Deployment.xml
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.WebPages.Razor.xml
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\Antlr3.Runtime.pdb
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\EntityFramework.xml
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\EntityFramework.SqlServer.xml
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.xml
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Security.xml
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Security.Google.xml
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.Http.Owin.xml
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\obj\Debug\Persada.Fr.Web.Api.csprojResolveAssemblyReference.cache
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\obj\Debug\Persada.Fr.Web.Api.dll
+E:\Project 2\Persada.Fr.Web\Persada.Fr.We.Api\obj\Debug\Persada.Fr.Web.Api.pdb
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\roslyn\csc.exe
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\roslyn\System.Collections.Immutable.dll
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\roslyn\System.Reflection.Metadata.dll
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\roslyn\vbc.exe
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\roslyn\VBCSCompiler.exe
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\roslyn\VBCSCompiler.exe.config
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Persada.Fr.Web.Api.dll.config
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Persada.Fr.Web.Api.dll
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Persada.Fr.Web.Api.pdb
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Antlr3.Runtime.dll
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\EntityFramework.dll
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\EntityFramework.SqlServer.dll
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.dll
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Security.dll
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Security.Google.dll
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Web.Infrastructure.dll
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Newtonsoft.Json.dll
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Owin.dll
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Persada.Fr.Facade.dll
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Persada.Fr.Model.dll
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Persada.Fr.ModelView.dll
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Net.Http.Formatting.dll
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.Helpers.dll
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.Http.dll
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.Http.Owin.dll
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.Http.WebHost.dll
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.Mvc.dll
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.Optimization.dll
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.Razor.dll
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.WebPages.Deployment.dll
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.WebPages.dll
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.WebPages.Razor.dll
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\WebGrease.dll
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Persada.Fr.Facade.pdb
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Persada.Fr.ModelView.pdb
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Persada.Fr.Model.pdb
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Newtonsoft.Json.xml
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Net.Http.Formatting.xml
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.Helpers.xml
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.Http.xml
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.Http.WebHost.xml
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.Mvc.xml
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.Optimization.xml
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.Razor.xml
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.WebPages.xml
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.WebPages.Deployment.xml
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.WebPages.Razor.xml
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Antlr3.Runtime.pdb
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\EntityFramework.xml
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\EntityFramework.SqlServer.xml
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.xml
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Security.xml
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Security.Google.xml
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.Http.Owin.xml
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\obj\Debug\Persada.Fr.Web.Api.csprojResolveAssemblyReference.cache
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\obj\Debug\Persada.Fr.Web.Api.dll
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.We.Api\obj\Debug\Persada.Fr.Web.Api.pdb
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\roslyn\csc.exe
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\roslyn\System.Collections.Immutable.dll
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\roslyn\System.Reflection.Metadata.dll
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\roslyn\vbc.exe
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\roslyn\VBCSCompiler.exe
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\roslyn\VBCSCompiler.exe.config
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Persada.Fr.Web.Api.dll.config
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Persada.Fr.Web.Api.dll
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Persada.Fr.Web.Api.pdb
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Antlr3.Runtime.dll
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\EntityFramework.dll
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\EntityFramework.SqlServer.dll
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.dll
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Security.dll
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Security.Google.dll
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Web.Infrastructure.dll
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Newtonsoft.Json.dll
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Owin.dll
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Persada.Fr.Facade.dll
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Persada.Fr.Model.dll
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Persada.Fr.ModelView.dll
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Net.Http.Formatting.dll
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.Helpers.dll
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.Http.dll
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.Http.Owin.dll
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.Http.WebHost.dll
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.Mvc.dll
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.Optimization.dll
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.Razor.dll
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.WebPages.Deployment.dll
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.WebPages.dll
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.WebPages.Razor.dll
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\WebGrease.dll
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Persada.Fr.Facade.pdb
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Persada.Fr.ModelView.pdb
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Persada.Fr.Model.pdb
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Newtonsoft.Json.xml
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Net.Http.Formatting.xml
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.Helpers.xml
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.Http.xml
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.Http.WebHost.xml
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.Mvc.xml
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.Optimization.xml
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.Razor.xml
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.WebPages.xml
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.WebPages.Deployment.xml
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.WebPages.Razor.xml
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Antlr3.Runtime.pdb
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\EntityFramework.xml
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\EntityFramework.SqlServer.xml
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.xml
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Security.xml
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Security.Google.xml
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.Http.Owin.xml
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\obj\Debug\Persada.Fr.Web.Api.csprojResolveAssemblyReference.cache
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\obj\Debug\Persada.Fr.Web.Api.dll
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.We.Api\obj\Debug\Persada.Fr.Web.Api.pdb
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\roslyn\csc.exe
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\roslyn\System.Collections.Immutable.dll
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\roslyn\System.Reflection.Metadata.dll
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\roslyn\vbc.exe
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\roslyn\VBCSCompiler.exe
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\roslyn\VBCSCompiler.exe.config
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Persada.Fr.Web.Api.dll.config
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Persada.Fr.Web.Api.dll
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Persada.Fr.Web.Api.pdb
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Antlr3.Runtime.dll
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\EntityFramework.dll
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\EntityFramework.SqlServer.dll
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.AspNet.Identity.Core.dll
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.dll
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Security.Cookies.dll
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Security.dll
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Security.Facebook.dll
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Security.Google.dll
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Security.OAuth.dll
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Security.Twitter.dll
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Web.Infrastructure.dll
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Newtonsoft.Json.dll
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Owin.dll
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Persada.Fr.Facade.dll
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Persada.Fr.Model.dll
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Persada.Fr.ModelView.dll
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Net.Http.Formatting.dll
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.Helpers.dll
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.Http.dll
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.Http.Owin.dll
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.Http.WebHost.dll
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.Mvc.dll
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.Optimization.dll
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.Razor.dll
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.WebPages.Deployment.dll
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.WebPages.dll
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.WebPages.Razor.dll
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\WebGrease.dll
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Persada.Fr.Facade.pdb
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Persada.Fr.ModelView.pdb
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Persada.Fr.Model.pdb
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Newtonsoft.Json.xml
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Net.Http.Formatting.xml
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.Helpers.xml
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.Http.xml
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.Http.WebHost.xml
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.Mvc.xml
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.Optimization.xml
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.Razor.xml
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.WebPages.xml
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.WebPages.Deployment.xml
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.WebPages.Razor.xml
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Antlr3.Runtime.pdb
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\EntityFramework.xml
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\EntityFramework.SqlServer.xml
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.AspNet.Identity.Core.xml
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.xml
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Security.xml
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Security.Facebook.xml
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Security.Cookies.xml
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Security.OAuth.xml
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Security.Google.xml
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Security.Twitter.xml
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.Http.Owin.xml
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\obj\Debug\Persada.Fr.Web.Api.csprojResolveAssemblyReference.cache
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\obj\Debug\Persada.Fr.Web.Api.dll
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\obj\Debug\Persada.Fr.Web.Api.pdb
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\roslyn\csc.exe
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\roslyn\System.Collections.Immutable.dll
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\roslyn\System.Reflection.Metadata.dll
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\roslyn\vbc.exe
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\roslyn\VBCSCompiler.exe
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\roslyn\VBCSCompiler.exe.config
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Persada.Fr.Web.Api.dll.config
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Persada.Fr.Web.Api.dll
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Persada.Fr.Web.Api.pdb
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Antlr3.Runtime.dll
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\EntityFramework.dll
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\EntityFramework.SqlServer.dll
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.dll
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Security.dll
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Security.Google.dll
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Web.Infrastructure.dll
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Newtonsoft.Json.dll
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Owin.dll
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Persada.Fr.CommonFunction.dll
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Persada.Fr.Facade.dll
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Persada.Fr.Model.dll
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Persada.Fr.ModelView.dll
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Net.Http.Formatting.dll
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.Helpers.dll
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.Http.dll
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.Http.Owin.dll
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.Http.WebHost.dll
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.Mvc.dll
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.Optimization.dll
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.Razor.dll
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.WebPages.Deployment.dll
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.WebPages.dll
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.WebPages.Razor.dll
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\WebGrease.dll
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Persada.Fr.CommonFunction.pdb
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Persada.Fr.Facade.pdb
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Persada.Fr.ModelView.pdb
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Persada.Fr.Model.pdb
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Newtonsoft.Json.xml
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Net.Http.Formatting.xml
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.Helpers.xml
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.Http.xml
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.Http.WebHost.xml
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.Mvc.xml
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.Optimization.xml
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.Razor.xml
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.WebPages.xml
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.WebPages.Deployment.xml
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.WebPages.Razor.xml
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Antlr3.Runtime.pdb
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\EntityFramework.xml
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\EntityFramework.SqlServer.xml
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.xml
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Security.xml
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Security.Google.xml
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\bin\System.Web.Http.Owin.xml
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\obj\Debug\Persada.Fr.Web.Api.csprojResolveAssemblyReference.cache
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\obj\Debug\Persada.Fr.Web.Api.dll
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.We.Api\obj\Debug\Persada.Fr.Web.Api.pdb

@@ -1,0 +1,33 @@
+===================================================12/25/2018 4:17:35 AM===================================================
+URL					 = 
+Request					 = 
+Respon					 = 
+Message					 = One or more errors occurred.
+Stack					 =    at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at System.Threading.Tasks.Task`1.get_Result()
+   at Persada.Fr.CommonFunction.InvokeUrl.ReturnJson(String pathApi, String httpMethod, String request) in D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.CommonFunction\InvokeUrl.cs:line 35
+   at Persada.Fr.CommonFunction.ParsingObject.RequestData(Object param, String controller, String method, String httpMethod) in D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.CommonFunction\ParsingObject.cs:line 41
+=========================================================================================================================
+===================================================12/25/2018 4:17:35 AM===================================================
+URL					 = 
+Request					 = 
+Respon					 = 
+Message					 = One or more errors occurred.
+Stack					 =    at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at System.Threading.Tasks.Task`1.get_Result()
+   at Persada.Fr.CommonFunction.InvokeUrl.ReturnJson(String pathApi, String httpMethod, String request) in D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.CommonFunction\InvokeUrl.cs:line 35
+   at Persada.Fr.CommonFunction.ParsingObject.RequestData(Object param, String controller, String method, String httpMethod) in D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.CommonFunction\ParsingObject.cs:line 41
+=========================================================================================================================
+===================================================12/25/2018 4:17:35 AM===================================================
+URL					 = 
+Request					 = 
+Respon					 = 
+Message					 = One or more errors occurred.
+Stack					 =    at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at System.Threading.Tasks.Task`1.get_Result()
+   at Persada.Fr.CommonFunction.InvokeUrl.ReturnJson(String pathApi, String httpMethod, String request) in D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.CommonFunction\InvokeUrl.cs:line 35
+   at Persada.Fr.CommonFunction.ParsingObject.RequestData(Object param, String controller, String method, String httpMethod) in D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.CommonFunction\ParsingObject.cs:line 41
+=========================================================================================================================

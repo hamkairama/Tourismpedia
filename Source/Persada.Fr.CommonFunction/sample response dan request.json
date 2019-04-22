@@ -1,0 +1,26 @@
+﻿
+ //sample json kirimin dari api 20-01-2018 bowo
+ // respone
+{
+  "Header": {
+    "Status": "1",
+    "Message": "Ok"
+  },
+  "Body": {
+    "Aggregates": null,
+    "Data": [
+      {
+        "nama": "Nama",
+        "alamat": "Alamat",
+        "notelp": "notelp"
+      }
+    ],
+    "Total": 0
+  },
+  "Footer": null
+} 
+
+//request
+//http://localhost/Persada.Fr.Web.Api/api/Persada/PersadaString?param={"nama":"Nama","alamat":"Alamat","notelp":"notelp"}
+
+

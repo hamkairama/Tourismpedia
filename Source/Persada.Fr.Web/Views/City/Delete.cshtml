@@ -1,0 +1,64 @@
+﻿@model Persada.Fr.ModelView.TOURIS_TV_CITY
+
+@{
+    ViewBag.Title = "Delete City";
+}
+
+<h2>@ViewBag.Title.</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            City Code
+        </dt>
+
+        <dd>
+            @Model.CITY_CODE
+        </dd>
+
+        <dt>
+            Country 
+        </dt>
+
+        <dd>
+            @Model.COUNTRY_NAME
+        </dd>
+
+        <dt>
+            Province
+        </dt>
+
+        <dd>
+            @Model.PROVINCE_NAME
+        </dd>
+
+        <dt>
+            City Name
+        </dt>
+
+        <dd>
+            @Model.CITY_NAME
+        </dd>
+
+        <dt>
+            City Description
+        </dt>
+
+        <dd>
+            @Model.CITY_DESCRIPTION
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm("ActionDelete", "City", new { id = Model.ID }))
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

@@ -1,0 +1,63 @@
+﻿@model Persada.Fr.ModelView.TOURIS_TV_SLIDESHOW
+
+@{
+    ViewBag.Title = "Delete Slideshow";
+}
+
+<h2>@ViewBag.Title.</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Title
+        </dt>
+
+        <dd>
+            @Model.TITTLE
+        </dd>
+
+        <dt>
+            Content
+        </dt>
+
+        <dd>
+            @Model.CONTENT_DESCRIPTION
+        </dd>
+
+        <dt>
+            Class Item
+        </dt>
+
+        <dd>
+            @Model.CLASS
+        </dd> 
+        <dt>
+            Url
+        </dt>
+
+        <dd>
+            @Model.URL
+        </dd>
+
+        <dt>
+            Photo
+        </dt>
+
+        <dd>
+            <img src="@Model.PHOTO_PATH" class="img-medium" />
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm("ActionDelete", "Slideshow", new { id = Model.ID }))
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

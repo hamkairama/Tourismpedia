@@ -1,0 +1,89 @@
+﻿@model Persada.Fr.ModelView.TOURIS_TV_SOSMED
+@{
+    ViewBag.Title = "Detail Country";
+}
+
+<h2>@ViewBag.Title.</h2>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Type
+        </dt>
+
+        <dd>
+            @Model.TYPE
+        </dd>
+
+        <dt>
+            Name
+        </dt>
+
+        <dd>
+            @Model.NAME
+        </dd>
+
+        <dt>
+            Description
+        </dt>
+
+        <dd>
+            @Model.DESCRIPTION
+        </dd>
+
+        <dt>
+            Icon
+        </dt>
+
+        <dd>
+            @Model.ICON
+        </dd>
+
+        <dt>
+            Url
+        </dt>
+
+        <dd>
+            @Model.URL
+        </dd>
+
+        <dt>
+            Data embed
+        </dt>
+
+        <dd>
+            @Model.DATA_EMBED
+        </dd>
+
+        <dt>
+            Height
+        </dt>
+
+        <dd>
+            @Model.HEIGHT
+        </dd>
+
+        <dt>
+            Width
+        </dt>
+
+        <dd>
+            @Model.WIDTH
+        </dd>
+
+        <dt>
+            Widget Id
+        </dt>
+
+        <dd>
+            @Model.DATA_WIDGET_ID
+        </dd>
+
+    </dl>
+
+    <div class="form-actions no-color">
+        @Html.ActionLink("Back to List", "Index")
+    </div>
+
+</div>

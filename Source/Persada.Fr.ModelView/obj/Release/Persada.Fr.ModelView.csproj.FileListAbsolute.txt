@@ -1,0 +1,4 @@
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.ModelView\bin\Release\Persada.Fr.ModelView.dll
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.ModelView\bin\Release\Persada.Fr.ModelView.pdb
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.ModelView\obj\Release\Persada.Fr.ModelView.dll
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.ModelView\obj\Release\Persada.Fr.ModelView.pdb

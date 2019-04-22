@@ -1,0 +1,64 @@
+﻿@model Persada.Fr.ModelView.TOURIS_TV_DISTRICT
+@{
+    ViewBag.Title = "Detail District";
+}
+
+<h2>@ViewBag.Title.</h2>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            City Code
+        </dt>
+
+        <dd>
+           @Model.DISTRICT_CODE
+        </dd>
+
+        <dt>
+            Country
+        </dt>
+
+        <dd>
+            @Model.COUNTRY_NAME
+        </dd>
+
+        <dt>
+            Province
+        </dt>
+
+        <dd>
+            @Model.PROVINCE_NAME
+        </dd>
+
+        <dt>
+            City
+        </dt>
+
+        <dd>
+            @Model.CITY_NAME
+        </dd>
+
+        <dt>
+            District
+        </dt>
+
+        <dd>
+            @Model.DISTRICT_NAME
+        </dd>
+
+        <dt>
+            District Description
+        </dt>
+        <dd>
+            @Model.DISTRICT_DESCRIPTION
+        </dd>
+
+    </dl>
+
+    <div class="form-actions no-color">
+        @Html.ActionLink("Back to List", "Index")
+    </div>
+
+</div>

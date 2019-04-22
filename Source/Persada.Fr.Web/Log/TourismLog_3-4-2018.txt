@@ -1,0 +1,3917 @@
+===================================================3/4/2018 10:25:27 AM===================================================
+URL					 = http://localhost:45086/api/Slideshow/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 3,
+    "TITTLE": "TOURISMPEDIA",
+    "CONTENT_DESCRIPTION": "ini content",
+    "CLASS": "active",
+    "PHOTO_PATH": "/Content/img/Lighthouse.jpg",
+    "URL": "#",
+    "CREATED_TIME": "2018-02-15T06:09:25.23",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-15T09:48:03.95",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 4,
+    "TITTLE": "TOURISMPEDIA",
+    "CONTENT_DESCRIPTION": "Testing for content description. This content for testing,",
+    "CLASS": "#",
+    "PHOTO_PATH": "/Content/img/Tulips.jpg",
+    "URL": "#",
+    "CREATED_TIME": "2018-02-15T09:49:19.983",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 5,
+    "TITTLE": "TOURISMPEDIA",
+    "CONTENT_DESCRIPTION": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "CLASS": "#",
+    "PHOTO_PATH": "/Content/img/Koala.jpg",
+    "URL": "#",
+    "CREATED_TIME": "2018-02-15T09:59:41.5",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-15T11:06:08.697",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 6,
+    "TITTLE": "TOURISMPEDIA",
+    "CONTENT_DESCRIPTION": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "CLASS": "#",
+    "PHOTO_PATH": "/Content/img/Penguins.jpg",
+    "URL": "#",
+    "CREATED_TIME": "2018-02-15T10:00:52.45",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-15T11:06:22.597",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 10,
+    "TITTLE": "Tourismpedia",
+    "CONTENT_DESCRIPTION": "Testing for content description. This content for testing,",
+    "CLASS": "inactive",
+    "PHOTO_PATH": null,
+    "URL": "#",
+    "CREATED_TIME": "2018-02-22T02:45:33.19",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T16:16:35.457",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================3/4/2018 10:25:27 AM===================================================
+URL					 = http://localhost:45086/api/Sosmed/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 2,
+    "TYPE": "Social",
+    "NAME": "facebook",
+    "DESCRIPTION": "facebook",
+    "ICON": "facebook",
+    "URL": "https://facebook.com",
+    "DATA_EMBED": null,
+    "HEIGHT": null,
+    "WIDTH": null,
+    "DATA_WIDGET_ID": null,
+    "CREATED_TIME": "2018-02-17T06:38:49.457",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-17T09:44:32.123",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 3,
+    "TYPE": "Social",
+    "NAME": "twitter",
+    "DESCRIPTION": "twitter",
+    "ICON": "twitter",
+    "URL": "https://twitter.com/vany_pucca",
+    "DATA_EMBED": null,
+    "HEIGHT": null,
+    "WIDTH": null,
+    "DATA_WIDGET_ID": null,
+    "CREATED_TIME": "2018-02-17T09:36:00.993",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-17T10:43:21.097",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 4,
+    "TYPE": "Social",
+    "NAME": "instagram",
+    "DESCRIPTION": "instagram",
+    "ICON": "instagram",
+    "URL": "https://instagram.com",
+    "DATA_EMBED": null,
+    "HEIGHT": null,
+    "WIDTH": null,
+    "DATA_WIDGET_ID": null,
+    "CREATED_TIME": "2018-02-17T09:48:19.5",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 5,
+    "TYPE": "Social",
+    "NAME": "pinterest",
+    "DESCRIPTION": "pinterest",
+    "ICON": "pinterest",
+    "URL": "https://pinterest.com",
+    "DATA_EMBED": null,
+    "HEIGHT": null,
+    "WIDTH": null,
+    "DATA_WIDGET_ID": null,
+    "CREATED_TIME": "2018-02-17T09:48:52.107",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================3/4/2018 10:25:28 AM===================================================
+URL					 = http://localhost:45086/api/Category/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 2,
+    "CATEGORY_CODE": "C01",
+    "CATEGORY_NAME": "Pembiayaan Mobil",
+    "CATEGORY_DESCRIPTION": "Find tours where you are now and explore the diversity of each region with its beauty.\r\nEnjoy the beauty of life.",
+    "URL": "http://localhost:53083/Category/Detail/2",
+    "CLASS": "danger",
+    "PHOTO_PATH": "/Content/img/Hydrangeas.jpg",
+    "CREATED_TIME": "2018-02-12T09:59:37.95",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:20:59.847",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 3,
+    "CATEGORY_CODE": "C02",
+    "CATEGORY_NAME": "Pembiayaan Multiguna",
+    "CATEGORY_DESCRIPTION": "Cultural diversity makes a region unique to each.\r\nFind here every event in every area you will visit, and do not miss it. Enjoy.",
+    "URL": "http://localhost:53083/Category/Detail/3",
+    "CLASS": "primary",
+    "PHOTO_PATH": "/Content/img/Chrysanthemum.jpg",
+    "CREATED_TIME": "2018-02-12T10:00:07.423",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:21:22.327",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 4,
+    "CATEGORY_CODE": "C03",
+    "CATEGORY_NAME": "Pembiayaan Fleet",
+    "CATEGORY_DESCRIPTION": "Each region has a meaning and every region has its trademark.\r\nDiscover the diverse diet of food in each region, also discover every flavor created by each spoon.\r\nMake culinary a sweet memory with loved ones. Enjoy.",
+    "URL": "http://localhost:53083/Category/Detail/4",
+    "CLASS": "success",
+    "PHOTO_PATH": "/Content/img/Desert.jpg",
+    "CREATED_TIME": "2018-02-12T10:00:17.977",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:21:31.35",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 5,
+    "CATEGORY_CODE": "C04",
+    "CATEGORY_NAME": "Katalog Kendaraan",
+    "CATEGORY_DESCRIPTION": "Katalog Kendaraan",
+    "URL": null,
+    "CLASS": "default",
+    "PHOTO_PATH": "/Content/img/Penguins.jpg",
+    "CREATED_TIME": "2018-02-24T16:57:00.227",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:21:43.037",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 6,
+    "CATEGORY_CODE": "C05",
+    "CATEGORY_NAME": "Pengajuan Kredit",
+    "CATEGORY_DESCRIPTION": "Pengajuan Kredit",
+    "URL": null,
+    "CLASS": "default",
+    "PHOTO_PATH": "/Content/img/Lighthouse.jpg",
+    "CREATED_TIME": "2018-02-24T16:57:24.493",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:21:52.68",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 7,
+    "CATEGORY_CODE": "C06",
+    "CATEGORY_NAME": "Persyaratan Kredit",
+    "CATEGORY_DESCRIPTION": "Persyaratan Kredit",
+    "URL": null,
+    "CLASS": "default",
+    "PHOTO_PATH": "/Content/img/Koala.jpg",
+    "CREATED_TIME": "2018-02-24T16:57:46.9",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:22:02.66",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 8,
+    "CATEGORY_CODE": "C07",
+    "CATEGORY_NAME": "Produk Layanan",
+    "CATEGORY_DESCRIPTION": "Produk Layanan",
+    "URL": null,
+    "CLASS": "default",
+    "PHOTO_PATH": "/Content/img/Jellyfish.jpg",
+    "CREATED_TIME": "2018-02-24T16:58:06.313",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:22:12.437",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 9,
+    "CATEGORY_CODE": "C08",
+    "CATEGORY_NAME": "Profil & Cabang",
+    "CATEGORY_DESCRIPTION": "Profil & Cabang",
+    "URL": null,
+    "CLASS": "default",
+    "PHOTO_PATH": "/Content/img/Tulips.jpg",
+    "CREATED_TIME": "2018-02-24T16:58:39.61",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:22:21.17",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================3/4/2018 10:26:05 AM===================================================
+URL					 = http://localhost:45086/api/Slideshow/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 3,
+    "TITTLE": "TOURISMPEDIA",
+    "CONTENT_DESCRIPTION": "ini content",
+    "CLASS": "active",
+    "PHOTO_PATH": "/Content/img/Lighthouse.jpg",
+    "URL": "#",
+    "CREATED_TIME": "2018-02-15T06:09:25.23",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-15T09:48:03.95",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 4,
+    "TITTLE": "TOURISMPEDIA",
+    "CONTENT_DESCRIPTION": "Testing for content description. This content for testing,",
+    "CLASS": "#",
+    "PHOTO_PATH": "/Content/img/Tulips.jpg",
+    "URL": "#",
+    "CREATED_TIME": "2018-02-15T09:49:19.983",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 5,
+    "TITTLE": "TOURISMPEDIA",
+    "CONTENT_DESCRIPTION": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "CLASS": "#",
+    "PHOTO_PATH": "/Content/img/Koala.jpg",
+    "URL": "#",
+    "CREATED_TIME": "2018-02-15T09:59:41.5",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-15T11:06:08.697",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 6,
+    "TITTLE": "TOURISMPEDIA",
+    "CONTENT_DESCRIPTION": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "CLASS": "#",
+    "PHOTO_PATH": "/Content/img/Penguins.jpg",
+    "URL": "#",
+    "CREATED_TIME": "2018-02-15T10:00:52.45",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-15T11:06:22.597",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 10,
+    "TITTLE": "Tourismpedia",
+    "CONTENT_DESCRIPTION": "Testing for content description. This content for testing,",
+    "CLASS": "inactive",
+    "PHOTO_PATH": null,
+    "URL": "#",
+    "CREATED_TIME": "2018-02-22T02:45:33.19",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T16:16:35.457",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================3/4/2018 10:26:05 AM===================================================
+URL					 = http://localhost:45086/api/Sosmed/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 2,
+    "TYPE": "Social",
+    "NAME": "facebook",
+    "DESCRIPTION": "facebook",
+    "ICON": "facebook",
+    "URL": "https://facebook.com",
+    "DATA_EMBED": null,
+    "HEIGHT": null,
+    "WIDTH": null,
+    "DATA_WIDGET_ID": null,
+    "CREATED_TIME": "2018-02-17T06:38:49.457",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-17T09:44:32.123",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 3,
+    "TYPE": "Social",
+    "NAME": "twitter",
+    "DESCRIPTION": "twitter",
+    "ICON": "twitter",
+    "URL": "https://twitter.com/vany_pucca",
+    "DATA_EMBED": null,
+    "HEIGHT": null,
+    "WIDTH": null,
+    "DATA_WIDGET_ID": null,
+    "CREATED_TIME": "2018-02-17T09:36:00.993",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-17T10:43:21.097",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 4,
+    "TYPE": "Social",
+    "NAME": "instagram",
+    "DESCRIPTION": "instagram",
+    "ICON": "instagram",
+    "URL": "https://instagram.com",
+    "DATA_EMBED": null,
+    "HEIGHT": null,
+    "WIDTH": null,
+    "DATA_WIDGET_ID": null,
+    "CREATED_TIME": "2018-02-17T09:48:19.5",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 5,
+    "TYPE": "Social",
+    "NAME": "pinterest",
+    "DESCRIPTION": "pinterest",
+    "ICON": "pinterest",
+    "URL": "https://pinterest.com",
+    "DATA_EMBED": null,
+    "HEIGHT": null,
+    "WIDTH": null,
+    "DATA_WIDGET_ID": null,
+    "CREATED_TIME": "2018-02-17T09:48:52.107",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================3/4/2018 10:26:05 AM===================================================
+URL					 = http://localhost:45086/api/Category/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 2,
+    "CATEGORY_CODE": "C01",
+    "CATEGORY_NAME": "Pembiayaan Mobil",
+    "CATEGORY_DESCRIPTION": "Find tours where you are now and explore the diversity of each region with its beauty.\r\nEnjoy the beauty of life.",
+    "URL": "http://localhost:53083/Category/Detail/2",
+    "CLASS": "danger",
+    "PHOTO_PATH": "/Content/img/Hydrangeas.jpg",
+    "CREATED_TIME": "2018-02-12T09:59:37.95",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:20:59.847",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 3,
+    "CATEGORY_CODE": "C02",
+    "CATEGORY_NAME": "Pembiayaan Multiguna",
+    "CATEGORY_DESCRIPTION": "Cultural diversity makes a region unique to each.\r\nFind here every event in every area you will visit, and do not miss it. Enjoy.",
+    "URL": "http://localhost:53083/Category/Detail/3",
+    "CLASS": "primary",
+    "PHOTO_PATH": "/Content/img/Chrysanthemum.jpg",
+    "CREATED_TIME": "2018-02-12T10:00:07.423",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:21:22.327",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 4,
+    "CATEGORY_CODE": "C03",
+    "CATEGORY_NAME": "Pembiayaan Fleet",
+    "CATEGORY_DESCRIPTION": "Each region has a meaning and every region has its trademark.\r\nDiscover the diverse diet of food in each region, also discover every flavor created by each spoon.\r\nMake culinary a sweet memory with loved ones. Enjoy.",
+    "URL": "http://localhost:53083/Category/Detail/4",
+    "CLASS": "success",
+    "PHOTO_PATH": "/Content/img/Desert.jpg",
+    "CREATED_TIME": "2018-02-12T10:00:17.977",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:21:31.35",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 5,
+    "CATEGORY_CODE": "C04",
+    "CATEGORY_NAME": "Katalog Kendaraan",
+    "CATEGORY_DESCRIPTION": "Katalog Kendaraan",
+    "URL": null,
+    "CLASS": "default",
+    "PHOTO_PATH": "/Content/img/Penguins.jpg",
+    "CREATED_TIME": "2018-02-24T16:57:00.227",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:21:43.037",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 6,
+    "CATEGORY_CODE": "C05",
+    "CATEGORY_NAME": "Pengajuan Kredit",
+    "CATEGORY_DESCRIPTION": "Pengajuan Kredit",
+    "URL": null,
+    "CLASS": "default",
+    "PHOTO_PATH": "/Content/img/Lighthouse.jpg",
+    "CREATED_TIME": "2018-02-24T16:57:24.493",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:21:52.68",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 7,
+    "CATEGORY_CODE": "C06",
+    "CATEGORY_NAME": "Persyaratan Kredit",
+    "CATEGORY_DESCRIPTION": "Persyaratan Kredit",
+    "URL": null,
+    "CLASS": "default",
+    "PHOTO_PATH": "/Content/img/Koala.jpg",
+    "CREATED_TIME": "2018-02-24T16:57:46.9",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:22:02.66",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 8,
+    "CATEGORY_CODE": "C07",
+    "CATEGORY_NAME": "Produk Layanan",
+    "CATEGORY_DESCRIPTION": "Produk Layanan",
+    "URL": null,
+    "CLASS": "default",
+    "PHOTO_PATH": "/Content/img/Jellyfish.jpg",
+    "CREATED_TIME": "2018-02-24T16:58:06.313",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:22:12.437",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 9,
+    "CATEGORY_CODE": "C08",
+    "CATEGORY_NAME": "Profil & Cabang",
+    "CATEGORY_DESCRIPTION": "Profil & Cabang",
+    "URL": null,
+    "CLASS": "default",
+    "PHOTO_PATH": "/Content/img/Tulips.jpg",
+    "CREATED_TIME": "2018-02-24T16:58:39.61",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:22:21.17",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================3/4/2018 10:26:07 AM===================================================
+URL					 = http://localhost:45086/api/Slideshow/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 3,
+    "TITTLE": "TOURISMPEDIA",
+    "CONTENT_DESCRIPTION": "ini content",
+    "CLASS": "active",
+    "PHOTO_PATH": "/Content/img/Lighthouse.jpg",
+    "URL": "#",
+    "CREATED_TIME": "2018-02-15T06:09:25.23",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-15T09:48:03.95",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 4,
+    "TITTLE": "TOURISMPEDIA",
+    "CONTENT_DESCRIPTION": "Testing for content description. This content for testing,",
+    "CLASS": "#",
+    "PHOTO_PATH": "/Content/img/Tulips.jpg",
+    "URL": "#",
+    "CREATED_TIME": "2018-02-15T09:49:19.983",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 5,
+    "TITTLE": "TOURISMPEDIA",
+    "CONTENT_DESCRIPTION": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "CLASS": "#",
+    "PHOTO_PATH": "/Content/img/Koala.jpg",
+    "URL": "#",
+    "CREATED_TIME": "2018-02-15T09:59:41.5",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-15T11:06:08.697",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 6,
+    "TITTLE": "TOURISMPEDIA",
+    "CONTENT_DESCRIPTION": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "CLASS": "#",
+    "PHOTO_PATH": "/Content/img/Penguins.jpg",
+    "URL": "#",
+    "CREATED_TIME": "2018-02-15T10:00:52.45",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-15T11:06:22.597",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 10,
+    "TITTLE": "Tourismpedia",
+    "CONTENT_DESCRIPTION": "Testing for content description. This content for testing,",
+    "CLASS": "inactive",
+    "PHOTO_PATH": null,
+    "URL": "#",
+    "CREATED_TIME": "2018-02-22T02:45:33.19",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T16:16:35.457",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================3/4/2018 10:26:07 AM===================================================
+URL					 = http://localhost:45086/api/Sosmed/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 2,
+    "TYPE": "Social",
+    "NAME": "facebook",
+    "DESCRIPTION": "facebook",
+    "ICON": "facebook",
+    "URL": "https://facebook.com",
+    "DATA_EMBED": null,
+    "HEIGHT": null,
+    "WIDTH": null,
+    "DATA_WIDGET_ID": null,
+    "CREATED_TIME": "2018-02-17T06:38:49.457",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-17T09:44:32.123",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 3,
+    "TYPE": "Social",
+    "NAME": "twitter",
+    "DESCRIPTION": "twitter",
+    "ICON": "twitter",
+    "URL": "https://twitter.com/vany_pucca",
+    "DATA_EMBED": null,
+    "HEIGHT": null,
+    "WIDTH": null,
+    "DATA_WIDGET_ID": null,
+    "CREATED_TIME": "2018-02-17T09:36:00.993",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-17T10:43:21.097",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 4,
+    "TYPE": "Social",
+    "NAME": "instagram",
+    "DESCRIPTION": "instagram",
+    "ICON": "instagram",
+    "URL": "https://instagram.com",
+    "DATA_EMBED": null,
+    "HEIGHT": null,
+    "WIDTH": null,
+    "DATA_WIDGET_ID": null,
+    "CREATED_TIME": "2018-02-17T09:48:19.5",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 5,
+    "TYPE": "Social",
+    "NAME": "pinterest",
+    "DESCRIPTION": "pinterest",
+    "ICON": "pinterest",
+    "URL": "https://pinterest.com",
+    "DATA_EMBED": null,
+    "HEIGHT": null,
+    "WIDTH": null,
+    "DATA_WIDGET_ID": null,
+    "CREATED_TIME": "2018-02-17T09:48:52.107",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================3/4/2018 10:26:07 AM===================================================
+URL					 = http://localhost:45086/api/Category/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 2,
+    "CATEGORY_CODE": "C01",
+    "CATEGORY_NAME": "Pembiayaan Mobil",
+    "CATEGORY_DESCRIPTION": "Find tours where you are now and explore the diversity of each region with its beauty.\r\nEnjoy the beauty of life.",
+    "URL": "http://localhost:53083/Category/Detail/2",
+    "CLASS": "danger",
+    "PHOTO_PATH": "/Content/img/Hydrangeas.jpg",
+    "CREATED_TIME": "2018-02-12T09:59:37.95",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:20:59.847",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 3,
+    "CATEGORY_CODE": "C02",
+    "CATEGORY_NAME": "Pembiayaan Multiguna",
+    "CATEGORY_DESCRIPTION": "Cultural diversity makes a region unique to each.\r\nFind here every event in every area you will visit, and do not miss it. Enjoy.",
+    "URL": "http://localhost:53083/Category/Detail/3",
+    "CLASS": "primary",
+    "PHOTO_PATH": "/Content/img/Chrysanthemum.jpg",
+    "CREATED_TIME": "2018-02-12T10:00:07.423",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:21:22.327",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 4,
+    "CATEGORY_CODE": "C03",
+    "CATEGORY_NAME": "Pembiayaan Fleet",
+    "CATEGORY_DESCRIPTION": "Each region has a meaning and every region has its trademark.\r\nDiscover the diverse diet of food in each region, also discover every flavor created by each spoon.\r\nMake culinary a sweet memory with loved ones. Enjoy.",
+    "URL": "http://localhost:53083/Category/Detail/4",
+    "CLASS": "success",
+    "PHOTO_PATH": "/Content/img/Desert.jpg",
+    "CREATED_TIME": "2018-02-12T10:00:17.977",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:21:31.35",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 5,
+    "CATEGORY_CODE": "C04",
+    "CATEGORY_NAME": "Katalog Kendaraan",
+    "CATEGORY_DESCRIPTION": "Katalog Kendaraan",
+    "URL": null,
+    "CLASS": "default",
+    "PHOTO_PATH": "/Content/img/Penguins.jpg",
+    "CREATED_TIME": "2018-02-24T16:57:00.227",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:21:43.037",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 6,
+    "CATEGORY_CODE": "C05",
+    "CATEGORY_NAME": "Pengajuan Kredit",
+    "CATEGORY_DESCRIPTION": "Pengajuan Kredit",
+    "URL": null,
+    "CLASS": "default",
+    "PHOTO_PATH": "/Content/img/Lighthouse.jpg",
+    "CREATED_TIME": "2018-02-24T16:57:24.493",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:21:52.68",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 7,
+    "CATEGORY_CODE": "C06",
+    "CATEGORY_NAME": "Persyaratan Kredit",
+    "CATEGORY_DESCRIPTION": "Persyaratan Kredit",
+    "URL": null,
+    "CLASS": "default",
+    "PHOTO_PATH": "/Content/img/Koala.jpg",
+    "CREATED_TIME": "2018-02-24T16:57:46.9",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:22:02.66",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 8,
+    "CATEGORY_CODE": "C07",
+    "CATEGORY_NAME": "Produk Layanan",
+    "CATEGORY_DESCRIPTION": "Produk Layanan",
+    "URL": null,
+    "CLASS": "default",
+    "PHOTO_PATH": "/Content/img/Jellyfish.jpg",
+    "CREATED_TIME": "2018-02-24T16:58:06.313",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:22:12.437",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 9,
+    "CATEGORY_CODE": "C08",
+    "CATEGORY_NAME": "Profil & Cabang",
+    "CATEGORY_DESCRIPTION": "Profil & Cabang",
+    "URL": null,
+    "CLASS": "default",
+    "PHOTO_PATH": "/Content/img/Tulips.jpg",
+    "CREATED_TIME": "2018-02-24T16:58:39.61",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:22:21.17",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================3/4/2018 10:26:11 AM===================================================
+URL					 = http://localhost:45086/api/Slideshow/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 3,
+    "TITTLE": "TOURISMPEDIA",
+    "CONTENT_DESCRIPTION": "ini content",
+    "CLASS": "active",
+    "PHOTO_PATH": "/Content/img/Lighthouse.jpg",
+    "URL": "#",
+    "CREATED_TIME": "2018-02-15T06:09:25.23",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-15T09:48:03.95",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 4,
+    "TITTLE": "TOURISMPEDIA",
+    "CONTENT_DESCRIPTION": "Testing for content description. This content for testing,",
+    "CLASS": "#",
+    "PHOTO_PATH": "/Content/img/Tulips.jpg",
+    "URL": "#",
+    "CREATED_TIME": "2018-02-15T09:49:19.983",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 5,
+    "TITTLE": "TOURISMPEDIA",
+    "CONTENT_DESCRIPTION": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "CLASS": "#",
+    "PHOTO_PATH": "/Content/img/Koala.jpg",
+    "URL": "#",
+    "CREATED_TIME": "2018-02-15T09:59:41.5",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-15T11:06:08.697",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 6,
+    "TITTLE": "TOURISMPEDIA",
+    "CONTENT_DESCRIPTION": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "CLASS": "#",
+    "PHOTO_PATH": "/Content/img/Penguins.jpg",
+    "URL": "#",
+    "CREATED_TIME": "2018-02-15T10:00:52.45",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-15T11:06:22.597",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 10,
+    "TITTLE": "Tourismpedia",
+    "CONTENT_DESCRIPTION": "Testing for content description. This content for testing,",
+    "CLASS": "inactive",
+    "PHOTO_PATH": null,
+    "URL": "#",
+    "CREATED_TIME": "2018-02-22T02:45:33.19",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T16:16:35.457",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================3/4/2018 10:26:11 AM===================================================
+URL					 = http://localhost:45086/api/Sosmed/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 2,
+    "TYPE": "Social",
+    "NAME": "facebook",
+    "DESCRIPTION": "facebook",
+    "ICON": "facebook",
+    "URL": "https://facebook.com",
+    "DATA_EMBED": null,
+    "HEIGHT": null,
+    "WIDTH": null,
+    "DATA_WIDGET_ID": null,
+    "CREATED_TIME": "2018-02-17T06:38:49.457",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-17T09:44:32.123",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 3,
+    "TYPE": "Social",
+    "NAME": "twitter",
+    "DESCRIPTION": "twitter",
+    "ICON": "twitter",
+    "URL": "https://twitter.com/vany_pucca",
+    "DATA_EMBED": null,
+    "HEIGHT": null,
+    "WIDTH": null,
+    "DATA_WIDGET_ID": null,
+    "CREATED_TIME": "2018-02-17T09:36:00.993",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-17T10:43:21.097",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 4,
+    "TYPE": "Social",
+    "NAME": "instagram",
+    "DESCRIPTION": "instagram",
+    "ICON": "instagram",
+    "URL": "https://instagram.com",
+    "DATA_EMBED": null,
+    "HEIGHT": null,
+    "WIDTH": null,
+    "DATA_WIDGET_ID": null,
+    "CREATED_TIME": "2018-02-17T09:48:19.5",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 5,
+    "TYPE": "Social",
+    "NAME": "pinterest",
+    "DESCRIPTION": "pinterest",
+    "ICON": "pinterest",
+    "URL": "https://pinterest.com",
+    "DATA_EMBED": null,
+    "HEIGHT": null,
+    "WIDTH": null,
+    "DATA_WIDGET_ID": null,
+    "CREATED_TIME": "2018-02-17T09:48:52.107",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================3/4/2018 10:26:11 AM===================================================
+URL					 = http://localhost:45086/api/Category/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 2,
+    "CATEGORY_CODE": "C01",
+    "CATEGORY_NAME": "Pembiayaan Mobil",
+    "CATEGORY_DESCRIPTION": "Find tours where you are now and explore the diversity of each region with its beauty.\r\nEnjoy the beauty of life.",
+    "URL": "http://localhost:53083/Category/Detail/2",
+    "CLASS": "danger",
+    "PHOTO_PATH": "/Content/img/Hydrangeas.jpg",
+    "CREATED_TIME": "2018-02-12T09:59:37.95",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:20:59.847",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 3,
+    "CATEGORY_CODE": "C02",
+    "CATEGORY_NAME": "Pembiayaan Multiguna",
+    "CATEGORY_DESCRIPTION": "Cultural diversity makes a region unique to each.\r\nFind here every event in every area you will visit, and do not miss it. Enjoy.",
+    "URL": "http://localhost:53083/Category/Detail/3",
+    "CLASS": "primary",
+    "PHOTO_PATH": "/Content/img/Chrysanthemum.jpg",
+    "CREATED_TIME": "2018-02-12T10:00:07.423",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:21:22.327",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 4,
+    "CATEGORY_CODE": "C03",
+    "CATEGORY_NAME": "Pembiayaan Fleet",
+    "CATEGORY_DESCRIPTION": "Each region has a meaning and every region has its trademark.\r\nDiscover the diverse diet of food in each region, also discover every flavor created by each spoon.\r\nMake culinary a sweet memory with loved ones. Enjoy.",
+    "URL": "http://localhost:53083/Category/Detail/4",
+    "CLASS": "success",
+    "PHOTO_PATH": "/Content/img/Desert.jpg",
+    "CREATED_TIME": "2018-02-12T10:00:17.977",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:21:31.35",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 5,
+    "CATEGORY_CODE": "C04",
+    "CATEGORY_NAME": "Katalog Kendaraan",
+    "CATEGORY_DESCRIPTION": "Katalog Kendaraan",
+    "URL": null,
+    "CLASS": "default",
+    "PHOTO_PATH": "/Content/img/Penguins.jpg",
+    "CREATED_TIME": "2018-02-24T16:57:00.227",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:21:43.037",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 6,
+    "CATEGORY_CODE": "C05",
+    "CATEGORY_NAME": "Pengajuan Kredit",
+    "CATEGORY_DESCRIPTION": "Pengajuan Kredit",
+    "URL": null,
+    "CLASS": "default",
+    "PHOTO_PATH": "/Content/img/Lighthouse.jpg",
+    "CREATED_TIME": "2018-02-24T16:57:24.493",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:21:52.68",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 7,
+    "CATEGORY_CODE": "C06",
+    "CATEGORY_NAME": "Persyaratan Kredit",
+    "CATEGORY_DESCRIPTION": "Persyaratan Kredit",
+    "URL": null,
+    "CLASS": "default",
+    "PHOTO_PATH": "/Content/img/Koala.jpg",
+    "CREATED_TIME": "2018-02-24T16:57:46.9",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:22:02.66",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 8,
+    "CATEGORY_CODE": "C07",
+    "CATEGORY_NAME": "Produk Layanan",
+    "CATEGORY_DESCRIPTION": "Produk Layanan",
+    "URL": null,
+    "CLASS": "default",
+    "PHOTO_PATH": "/Content/img/Jellyfish.jpg",
+    "CREATED_TIME": "2018-02-24T16:58:06.313",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:22:12.437",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 9,
+    "CATEGORY_CODE": "C08",
+    "CATEGORY_NAME": "Profil & Cabang",
+    "CATEGORY_DESCRIPTION": "Profil & Cabang",
+    "URL": null,
+    "CLASS": "default",
+    "PHOTO_PATH": "/Content/img/Tulips.jpg",
+    "CREATED_TIME": "2018-02-24T16:58:39.61",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:22:21.17",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================3/4/2018 10:26:27 AM===================================================
+URL					 = http://localhost:45086/api/Category/RetrieveData
+Request					 = 2
+Respon					 = {
+  "ID": 2,
+  "CATEGORY_CODE": "C01",
+  "CATEGORY_NAME": "Pembiayaan Mobil",
+  "CATEGORY_DESCRIPTION": "Find tours where you are now and explore the diversity of each region with its beauty.\r\nEnjoy the beauty of life.",
+  "URL": "http://localhost:53083/Category/Detail/2",
+  "CLASS": "danger",
+  "PHOTO_PATH": "/Content/img/Hydrangeas.jpg",
+  "CREATED_TIME": "2018-02-12T09:59:37.95",
+  "CREATED_BY": "hamkair",
+  "LAST_MODIFIED_TIME": "2018-02-24T17:20:59.847",
+  "LAST_MODIFIED_BY": "hamkair",
+  "ROW_STATUS": 0,
+  "TOURIS_TV_SUB_CATEGORY": [
+    {
+      "ID": 4,
+      "COUNTRY_ID": 0,
+      "COUNTRY_NAME": null,
+      "PROVINCE_ID": 0,
+      "PROVINCE_NAME": null,
+      "CITY_ID": 0,
+      "CITY_NAME": null,
+      "DISTRICT_ID": 0,
+      "DISTRICT_NAME": null,
+      "VILLAGE_ID": 2,
+      "VILLAGE_NAME": null,
+      "CATEGORY_ID": 2,
+      "CATEGORY_NAME": null,
+      "SUB_CATEGORY_NAME": "Wisata Malam ",
+      "SUB_CATEGORY_DESCRIPTION": "Berkeliling lingkungan danau srengseng dan berkomunikasi dengan makhluk astral",
+      "ADDRESS": "Jl. Pengumben raya No. 78",
+      "START_TIME": "2018-02-20T09:29:00",
+      "END_TIME": "2018-02-28T09:29:00",
+      "PHOTO_PATH": "/Content/img/Jellyfish.jpg",
+      "LATITUDE": 0.0,
+      "LONGITUDE": 0.0,
+      "CREATED_TIME": "0001-01-01T00:00:00",
+      "CREATED_BY": null,
+      "LAST_MODIFIED_TIME": null,
+      "LAST_MODIFIED_BY": null,
+      "ROW_STATUS": 0,
+      "TOURIS_TV_CATEGORY": null,
+      "TOURIS_TV_SUB_CATEGORY_PHOTO": [],
+      "TOURIS_TV_VILLAGE": null
+    }
+  ]
+}
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================3/4/2018 10:26:29 AM===================================================
+URL					 = http://localhost:45086/api/SubCategory/RetrieveData
+Request					 = 4
+Respon					 = {
+  "ID": 4,
+  "COUNTRY_ID": 23,
+  "COUNTRY_NAME": "Indonesia",
+  "PROVINCE_ID": 11,
+  "PROVINCE_NAME": "DKI Jakarta",
+  "CITY_ID": 6,
+  "CITY_NAME": "Jakarta Barat",
+  "DISTRICT_ID": 3,
+  "DISTRICT_NAME": "Kembangan",
+  "VILLAGE_ID": 2,
+  "VILLAGE_NAME": "Srengseng",
+  "CATEGORY_ID": 2,
+  "CATEGORY_NAME": "Pembiayaan Mobil",
+  "SUB_CATEGORY_NAME": "Wisata Malam ",
+  "SUB_CATEGORY_DESCRIPTION": "Berkeliling lingkungan danau srengseng dan berkomunikasi dengan makhluk astral",
+  "ADDRESS": "Jl. Pengumben raya No. 78",
+  "START_TIME": "2018-02-20T09:29:00",
+  "END_TIME": "2018-02-28T09:29:00",
+  "PHOTO_PATH": "/Content/img/Jellyfish.jpg",
+  "LATITUDE": -6.2163638,
+  "LONGITUDE": 106.7741395,
+  "CREATED_TIME": "2018-02-20T09:29:33.437",
+  "CREATED_BY": "hamkair",
+  "LAST_MODIFIED_TIME": null,
+  "LAST_MODIFIED_BY": null,
+  "ROW_STATUS": 0,
+  "TOURIS_TV_CATEGORY": null,
+  "TOURIS_TV_SUB_CATEGORY_PHOTO": [],
+  "TOURIS_TV_VILLAGE": null
+}
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================3/4/2018 10:26:34 AM===================================================
+URL					 = http://localhost:45086/api/SubCategory/RetrieveData
+Request					 = 4
+Respon					 = {
+  "ID": 4,
+  "COUNTRY_ID": 23,
+  "COUNTRY_NAME": "Indonesia",
+  "PROVINCE_ID": 11,
+  "PROVINCE_NAME": "DKI Jakarta",
+  "CITY_ID": 6,
+  "CITY_NAME": "Jakarta Barat",
+  "DISTRICT_ID": 3,
+  "DISTRICT_NAME": "Kembangan",
+  "VILLAGE_ID": 2,
+  "VILLAGE_NAME": "Srengseng",
+  "CATEGORY_ID": 2,
+  "CATEGORY_NAME": "Pembiayaan Mobil",
+  "SUB_CATEGORY_NAME": "Wisata Malam ",
+  "SUB_CATEGORY_DESCRIPTION": "Berkeliling lingkungan danau srengseng dan berkomunikasi dengan makhluk astral",
+  "ADDRESS": "Jl. Pengumben raya No. 78",
+  "START_TIME": "2018-02-20T09:29:00",
+  "END_TIME": "2018-02-28T09:29:00",
+  "PHOTO_PATH": "/Content/img/Jellyfish.jpg",
+  "LATITUDE": -6.2163638,
+  "LONGITUDE": 106.7741395,
+  "CREATED_TIME": "2018-02-20T09:29:33.437",
+  "CREATED_BY": "hamkair",
+  "LAST_MODIFIED_TIME": null,
+  "LAST_MODIFIED_BY": null,
+  "ROW_STATUS": 0,
+  "TOURIS_TV_CATEGORY": null,
+  "TOURIS_TV_SUB_CATEGORY_PHOTO": [],
+  "TOURIS_TV_VILLAGE": null
+}
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================3/4/2018 10:26:38 AM===================================================
+URL					 = http://localhost:45086/api/SubCategory/RetrieveData
+Request					 = 4
+Respon					 = {
+  "ID": 4,
+  "COUNTRY_ID": 23,
+  "COUNTRY_NAME": "Indonesia",
+  "PROVINCE_ID": 11,
+  "PROVINCE_NAME": "DKI Jakarta",
+  "CITY_ID": 6,
+  "CITY_NAME": "Jakarta Barat",
+  "DISTRICT_ID": 3,
+  "DISTRICT_NAME": "Kembangan",
+  "VILLAGE_ID": 2,
+  "VILLAGE_NAME": "Srengseng",
+  "CATEGORY_ID": 2,
+  "CATEGORY_NAME": "Pembiayaan Mobil",
+  "SUB_CATEGORY_NAME": "Wisata Malam ",
+  "SUB_CATEGORY_DESCRIPTION": "Berkeliling lingkungan danau srengseng dan berkomunikasi dengan makhluk astral",
+  "ADDRESS": "Jl. Pengumben raya No. 78",
+  "START_TIME": "2018-02-20T09:29:00",
+  "END_TIME": "2018-02-28T09:29:00",
+  "PHOTO_PATH": "/Content/img/Jellyfish.jpg",
+  "LATITUDE": -6.2163638,
+  "LONGITUDE": 106.7741395,
+  "CREATED_TIME": "2018-02-20T09:29:33.437",
+  "CREATED_BY": "hamkair",
+  "LAST_MODIFIED_TIME": null,
+  "LAST_MODIFIED_BY": null,
+  "ROW_STATUS": 0,
+  "TOURIS_TV_CATEGORY": null,
+  "TOURIS_TV_SUB_CATEGORY_PHOTO": [],
+  "TOURIS_TV_VILLAGE": null
+}
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================3/4/2018 10:26:41 AM===================================================
+URL					 = http://localhost:45086/api/SubCategory/RetrieveData
+Request					 = 4
+Respon					 = {
+  "ID": 4,
+  "COUNTRY_ID": 23,
+  "COUNTRY_NAME": "Indonesia",
+  "PROVINCE_ID": 11,
+  "PROVINCE_NAME": "DKI Jakarta",
+  "CITY_ID": 6,
+  "CITY_NAME": "Jakarta Barat",
+  "DISTRICT_ID": 3,
+  "DISTRICT_NAME": "Kembangan",
+  "VILLAGE_ID": 2,
+  "VILLAGE_NAME": "Srengseng",
+  "CATEGORY_ID": 2,
+  "CATEGORY_NAME": "Pembiayaan Mobil",
+  "SUB_CATEGORY_NAME": "Wisata Malam ",
+  "SUB_CATEGORY_DESCRIPTION": "Berkeliling lingkungan danau srengseng dan berkomunikasi dengan makhluk astral",
+  "ADDRESS": "Jl. Pengumben raya No. 78",
+  "START_TIME": "2018-02-20T09:29:00",
+  "END_TIME": "2018-02-28T09:29:00",
+  "PHOTO_PATH": "/Content/img/Jellyfish.jpg",
+  "LATITUDE": -6.2163638,
+  "LONGITUDE": 106.7741395,
+  "CREATED_TIME": "2018-02-20T09:29:33.437",
+  "CREATED_BY": "hamkair",
+  "LAST_MODIFIED_TIME": null,
+  "LAST_MODIFIED_BY": null,
+  "ROW_STATUS": 0,
+  "TOURIS_TV_CATEGORY": null,
+  "TOURIS_TV_SUB_CATEGORY_PHOTO": [],
+  "TOURIS_TV_VILLAGE": null
+}
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================3/4/2018 10:26:53 AM===================================================
+URL					 = http://localhost:45086/api/Slideshow/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 3,
+    "TITTLE": "TOURISMPEDIA",
+    "CONTENT_DESCRIPTION": "ini content",
+    "CLASS": "active",
+    "PHOTO_PATH": "/Content/img/Lighthouse.jpg",
+    "URL": "#",
+    "CREATED_TIME": "2018-02-15T06:09:25.23",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-15T09:48:03.95",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 4,
+    "TITTLE": "TOURISMPEDIA",
+    "CONTENT_DESCRIPTION": "Testing for content description. This content for testing,",
+    "CLASS": "#",
+    "PHOTO_PATH": "/Content/img/Tulips.jpg",
+    "URL": "#",
+    "CREATED_TIME": "2018-02-15T09:49:19.983",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 5,
+    "TITTLE": "TOURISMPEDIA",
+    "CONTENT_DESCRIPTION": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "CLASS": "#",
+    "PHOTO_PATH": "/Content/img/Koala.jpg",
+    "URL": "#",
+    "CREATED_TIME": "2018-02-15T09:59:41.5",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-15T11:06:08.697",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 6,
+    "TITTLE": "TOURISMPEDIA",
+    "CONTENT_DESCRIPTION": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "CLASS": "#",
+    "PHOTO_PATH": "/Content/img/Penguins.jpg",
+    "URL": "#",
+    "CREATED_TIME": "2018-02-15T10:00:52.45",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-15T11:06:22.597",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 10,
+    "TITTLE": "Tourismpedia",
+    "CONTENT_DESCRIPTION": "Testing for content description. This content for testing,",
+    "CLASS": "inactive",
+    "PHOTO_PATH": null,
+    "URL": "#",
+    "CREATED_TIME": "2018-02-22T02:45:33.19",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T16:16:35.457",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================3/4/2018 10:26:53 AM===================================================
+URL					 = http://localhost:45086/api/Sosmed/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 2,
+    "TYPE": "Social",
+    "NAME": "facebook",
+    "DESCRIPTION": "facebook",
+    "ICON": "facebook",
+    "URL": "https://facebook.com",
+    "DATA_EMBED": null,
+    "HEIGHT": null,
+    "WIDTH": null,
+    "DATA_WIDGET_ID": null,
+    "CREATED_TIME": "2018-02-17T06:38:49.457",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-17T09:44:32.123",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 3,
+    "TYPE": "Social",
+    "NAME": "twitter",
+    "DESCRIPTION": "twitter",
+    "ICON": "twitter",
+    "URL": "https://twitter.com/vany_pucca",
+    "DATA_EMBED": null,
+    "HEIGHT": null,
+    "WIDTH": null,
+    "DATA_WIDGET_ID": null,
+    "CREATED_TIME": "2018-02-17T09:36:00.993",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-17T10:43:21.097",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 4,
+    "TYPE": "Social",
+    "NAME": "instagram",
+    "DESCRIPTION": "instagram",
+    "ICON": "instagram",
+    "URL": "https://instagram.com",
+    "DATA_EMBED": null,
+    "HEIGHT": null,
+    "WIDTH": null,
+    "DATA_WIDGET_ID": null,
+    "CREATED_TIME": "2018-02-17T09:48:19.5",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 5,
+    "TYPE": "Social",
+    "NAME": "pinterest",
+    "DESCRIPTION": "pinterest",
+    "ICON": "pinterest",
+    "URL": "https://pinterest.com",
+    "DATA_EMBED": null,
+    "HEIGHT": null,
+    "WIDTH": null,
+    "DATA_WIDGET_ID": null,
+    "CREATED_TIME": "2018-02-17T09:48:52.107",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================3/4/2018 10:26:53 AM===================================================
+URL					 = http://localhost:45086/api/Category/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 2,
+    "CATEGORY_CODE": "C01",
+    "CATEGORY_NAME": "Pembiayaan Mobil",
+    "CATEGORY_DESCRIPTION": "Find tours where you are now and explore the diversity of each region with its beauty.\r\nEnjoy the beauty of life.",
+    "URL": "http://localhost:53083/Category/Detail/2",
+    "CLASS": "danger",
+    "PHOTO_PATH": "/Content/img/Hydrangeas.jpg",
+    "CREATED_TIME": "2018-02-12T09:59:37.95",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:20:59.847",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 3,
+    "CATEGORY_CODE": "C02",
+    "CATEGORY_NAME": "Pembiayaan Multiguna",
+    "CATEGORY_DESCRIPTION": "Cultural diversity makes a region unique to each.\r\nFind here every event in every area you will visit, and do not miss it. Enjoy.",
+    "URL": "http://localhost:53083/Category/Detail/3",
+    "CLASS": "primary",
+    "PHOTO_PATH": "/Content/img/Chrysanthemum.jpg",
+    "CREATED_TIME": "2018-02-12T10:00:07.423",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:21:22.327",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 4,
+    "CATEGORY_CODE": "C03",
+    "CATEGORY_NAME": "Pembiayaan Fleet",
+    "CATEGORY_DESCRIPTION": "Each region has a meaning and every region has its trademark.\r\nDiscover the diverse diet of food in each region, also discover every flavor created by each spoon.\r\nMake culinary a sweet memory with loved ones. Enjoy.",
+    "URL": "http://localhost:53083/Category/Detail/4",
+    "CLASS": "success",
+    "PHOTO_PATH": "/Content/img/Desert.jpg",
+    "CREATED_TIME": "2018-02-12T10:00:17.977",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:21:31.35",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 5,
+    "CATEGORY_CODE": "C04",
+    "CATEGORY_NAME": "Katalog Kendaraan",
+    "CATEGORY_DESCRIPTION": "Katalog Kendaraan",
+    "URL": null,
+    "CLASS": "default",
+    "PHOTO_PATH": "/Content/img/Penguins.jpg",
+    "CREATED_TIME": "2018-02-24T16:57:00.227",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:21:43.037",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 6,
+    "CATEGORY_CODE": "C05",
+    "CATEGORY_NAME": "Pengajuan Kredit",
+    "CATEGORY_DESCRIPTION": "Pengajuan Kredit",
+    "URL": null,
+    "CLASS": "default",
+    "PHOTO_PATH": "/Content/img/Lighthouse.jpg",
+    "CREATED_TIME": "2018-02-24T16:57:24.493",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:21:52.68",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 7,
+    "CATEGORY_CODE": "C06",
+    "CATEGORY_NAME": "Persyaratan Kredit",
+    "CATEGORY_DESCRIPTION": "Persyaratan Kredit",
+    "URL": null,
+    "CLASS": "default",
+    "PHOTO_PATH": "/Content/img/Koala.jpg",
+    "CREATED_TIME": "2018-02-24T16:57:46.9",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:22:02.66",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 8,
+    "CATEGORY_CODE": "C07",
+    "CATEGORY_NAME": "Produk Layanan",
+    "CATEGORY_DESCRIPTION": "Produk Layanan",
+    "URL": null,
+    "CLASS": "default",
+    "PHOTO_PATH": "/Content/img/Jellyfish.jpg",
+    "CREATED_TIME": "2018-02-24T16:58:06.313",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:22:12.437",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 9,
+    "CATEGORY_CODE": "C08",
+    "CATEGORY_NAME": "Profil & Cabang",
+    "CATEGORY_DESCRIPTION": "Profil & Cabang",
+    "URL": null,
+    "CLASS": "default",
+    "PHOTO_PATH": "/Content/img/Tulips.jpg",
+    "CREATED_TIME": "2018-02-24T16:58:39.61",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:22:21.17",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================3/4/2018 10:26:58 AM===================================================
+URL					 = http://localhost:45086/api/Slideshow/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 3,
+    "TITTLE": "TOURISMPEDIA",
+    "CONTENT_DESCRIPTION": "ini content",
+    "CLASS": "active",
+    "PHOTO_PATH": "/Content/img/Lighthouse.jpg",
+    "URL": "#",
+    "CREATED_TIME": "2018-02-15T06:09:25.23",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-15T09:48:03.95",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 4,
+    "TITTLE": "TOURISMPEDIA",
+    "CONTENT_DESCRIPTION": "Testing for content description. This content for testing,",
+    "CLASS": "#",
+    "PHOTO_PATH": "/Content/img/Tulips.jpg",
+    "URL": "#",
+    "CREATED_TIME": "2018-02-15T09:49:19.983",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 5,
+    "TITTLE": "TOURISMPEDIA",
+    "CONTENT_DESCRIPTION": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "CLASS": "#",
+    "PHOTO_PATH": "/Content/img/Koala.jpg",
+    "URL": "#",
+    "CREATED_TIME": "2018-02-15T09:59:41.5",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-15T11:06:08.697",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 6,
+    "TITTLE": "TOURISMPEDIA",
+    "CONTENT_DESCRIPTION": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "CLASS": "#",
+    "PHOTO_PATH": "/Content/img/Penguins.jpg",
+    "URL": "#",
+    "CREATED_TIME": "2018-02-15T10:00:52.45",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-15T11:06:22.597",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 10,
+    "TITTLE": "Tourismpedia",
+    "CONTENT_DESCRIPTION": "Testing for content description. This content for testing,",
+    "CLASS": "inactive",
+    "PHOTO_PATH": null,
+    "URL": "#",
+    "CREATED_TIME": "2018-02-22T02:45:33.19",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T16:16:35.457",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================3/4/2018 10:26:58 AM===================================================
+URL					 = http://localhost:45086/api/Sosmed/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 2,
+    "TYPE": "Social",
+    "NAME": "facebook",
+    "DESCRIPTION": "facebook",
+    "ICON": "facebook",
+    "URL": "https://facebook.com",
+    "DATA_EMBED": null,
+    "HEIGHT": null,
+    "WIDTH": null,
+    "DATA_WIDGET_ID": null,
+    "CREATED_TIME": "2018-02-17T06:38:49.457",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-17T09:44:32.123",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 3,
+    "TYPE": "Social",
+    "NAME": "twitter",
+    "DESCRIPTION": "twitter",
+    "ICON": "twitter",
+    "URL": "https://twitter.com/vany_pucca",
+    "DATA_EMBED": null,
+    "HEIGHT": null,
+    "WIDTH": null,
+    "DATA_WIDGET_ID": null,
+    "CREATED_TIME": "2018-02-17T09:36:00.993",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-17T10:43:21.097",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 4,
+    "TYPE": "Social",
+    "NAME": "instagram",
+    "DESCRIPTION": "instagram",
+    "ICON": "instagram",
+    "URL": "https://instagram.com",
+    "DATA_EMBED": null,
+    "HEIGHT": null,
+    "WIDTH": null,
+    "DATA_WIDGET_ID": null,
+    "CREATED_TIME": "2018-02-17T09:48:19.5",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 5,
+    "TYPE": "Social",
+    "NAME": "pinterest",
+    "DESCRIPTION": "pinterest",
+    "ICON": "pinterest",
+    "URL": "https://pinterest.com",
+    "DATA_EMBED": null,
+    "HEIGHT": null,
+    "WIDTH": null,
+    "DATA_WIDGET_ID": null,
+    "CREATED_TIME": "2018-02-17T09:48:52.107",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================3/4/2018 10:26:58 AM===================================================
+URL					 = http://localhost:45086/api/Category/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 2,
+    "CATEGORY_CODE": "C01",
+    "CATEGORY_NAME": "Pembiayaan Mobil",
+    "CATEGORY_DESCRIPTION": "Find tours where you are now and explore the diversity of each region with its beauty.\r\nEnjoy the beauty of life.",
+    "URL": "http://localhost:53083/Category/Detail/2",
+    "CLASS": "danger",
+    "PHOTO_PATH": "/Content/img/Hydrangeas.jpg",
+    "CREATED_TIME": "2018-02-12T09:59:37.95",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:20:59.847",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 3,
+    "CATEGORY_CODE": "C02",
+    "CATEGORY_NAME": "Pembiayaan Multiguna",
+    "CATEGORY_DESCRIPTION": "Cultural diversity makes a region unique to each.\r\nFind here every event in every area you will visit, and do not miss it. Enjoy.",
+    "URL": "http://localhost:53083/Category/Detail/3",
+    "CLASS": "primary",
+    "PHOTO_PATH": "/Content/img/Chrysanthemum.jpg",
+    "CREATED_TIME": "2018-02-12T10:00:07.423",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:21:22.327",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 4,
+    "CATEGORY_CODE": "C03",
+    "CATEGORY_NAME": "Pembiayaan Fleet",
+    "CATEGORY_DESCRIPTION": "Each region has a meaning and every region has its trademark.\r\nDiscover the diverse diet of food in each region, also discover every flavor created by each spoon.\r\nMake culinary a sweet memory with loved ones. Enjoy.",
+    "URL": "http://localhost:53083/Category/Detail/4",
+    "CLASS": "success",
+    "PHOTO_PATH": "/Content/img/Desert.jpg",
+    "CREATED_TIME": "2018-02-12T10:00:17.977",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:21:31.35",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 5,
+    "CATEGORY_CODE": "C04",
+    "CATEGORY_NAME": "Katalog Kendaraan",
+    "CATEGORY_DESCRIPTION": "Katalog Kendaraan",
+    "URL": null,
+    "CLASS": "default",
+    "PHOTO_PATH": "/Content/img/Penguins.jpg",
+    "CREATED_TIME": "2018-02-24T16:57:00.227",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:21:43.037",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 6,
+    "CATEGORY_CODE": "C05",
+    "CATEGORY_NAME": "Pengajuan Kredit",
+    "CATEGORY_DESCRIPTION": "Pengajuan Kredit",
+    "URL": null,
+    "CLASS": "default",
+    "PHOTO_PATH": "/Content/img/Lighthouse.jpg",
+    "CREATED_TIME": "2018-02-24T16:57:24.493",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:21:52.68",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 7,
+    "CATEGORY_CODE": "C06",
+    "CATEGORY_NAME": "Persyaratan Kredit",
+    "CATEGORY_DESCRIPTION": "Persyaratan Kredit",
+    "URL": null,
+    "CLASS": "default",
+    "PHOTO_PATH": "/Content/img/Koala.jpg",
+    "CREATED_TIME": "2018-02-24T16:57:46.9",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:22:02.66",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 8,
+    "CATEGORY_CODE": "C07",
+    "CATEGORY_NAME": "Produk Layanan",
+    "CATEGORY_DESCRIPTION": "Produk Layanan",
+    "URL": null,
+    "CLASS": "default",
+    "PHOTO_PATH": "/Content/img/Jellyfish.jpg",
+    "CREATED_TIME": "2018-02-24T16:58:06.313",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:22:12.437",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 9,
+    "CATEGORY_CODE": "C08",
+    "CATEGORY_NAME": "Profil & Cabang",
+    "CATEGORY_DESCRIPTION": "Profil & Cabang",
+    "URL": null,
+    "CLASS": "default",
+    "PHOTO_PATH": "/Content/img/Tulips.jpg",
+    "CREATED_TIME": "2018-02-24T16:58:39.61",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:22:21.17",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================3/4/2018 11:52:29 AM===================================================
+URL					 = http://localhost:45086/api/Slideshow/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 3,
+    "TITTLE": "TOURISMPEDIA",
+    "CONTENT_DESCRIPTION": "ini content",
+    "CLASS": "active",
+    "PHOTO_PATH": "/Content/img/Lighthouse.jpg",
+    "URL": "#",
+    "CREATED_TIME": "2018-02-15T06:09:25.23",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-15T09:48:03.95",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 4,
+    "TITTLE": "TOURISMPEDIA",
+    "CONTENT_DESCRIPTION": "Testing for content description. This content for testing,",
+    "CLASS": "#",
+    "PHOTO_PATH": "/Content/img/Tulips.jpg",
+    "URL": "#",
+    "CREATED_TIME": "2018-02-15T09:49:19.983",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 5,
+    "TITTLE": "TOURISMPEDIA",
+    "CONTENT_DESCRIPTION": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "CLASS": "#",
+    "PHOTO_PATH": "/Content/img/Koala.jpg",
+    "URL": "#",
+    "CREATED_TIME": "2018-02-15T09:59:41.5",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-15T11:06:08.697",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 6,
+    "TITTLE": "TOURISMPEDIA",
+    "CONTENT_DESCRIPTION": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "CLASS": "#",
+    "PHOTO_PATH": "/Content/img/Penguins.jpg",
+    "URL": "#",
+    "CREATED_TIME": "2018-02-15T10:00:52.45",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-15T11:06:22.597",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 10,
+    "TITTLE": "Tourismpedia",
+    "CONTENT_DESCRIPTION": "Testing for content description. This content for testing,",
+    "CLASS": "inactive",
+    "PHOTO_PATH": null,
+    "URL": "#",
+    "CREATED_TIME": "2018-02-22T02:45:33.19",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T16:16:35.457",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================3/4/2018 11:52:29 AM===================================================
+URL					 = http://localhost:45086/api/Sosmed/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 2,
+    "TYPE": "Social",
+    "NAME": "facebook",
+    "DESCRIPTION": "facebook",
+    "ICON": "facebook",
+    "URL": "https://facebook.com",
+    "DATA_EMBED": null,
+    "HEIGHT": null,
+    "WIDTH": null,
+    "DATA_WIDGET_ID": null,
+    "CREATED_TIME": "2018-02-17T06:38:49.457",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-17T09:44:32.123",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 3,
+    "TYPE": "Social",
+    "NAME": "twitter",
+    "DESCRIPTION": "twitter",
+    "ICON": "twitter",
+    "URL": "https://twitter.com/vany_pucca",
+    "DATA_EMBED": null,
+    "HEIGHT": null,
+    "WIDTH": null,
+    "DATA_WIDGET_ID": null,
+    "CREATED_TIME": "2018-02-17T09:36:00.993",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-17T10:43:21.097",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 4,
+    "TYPE": "Social",
+    "NAME": "instagram",
+    "DESCRIPTION": "instagram",
+    "ICON": "instagram",
+    "URL": "https://instagram.com",
+    "DATA_EMBED": null,
+    "HEIGHT": null,
+    "WIDTH": null,
+    "DATA_WIDGET_ID": null,
+    "CREATED_TIME": "2018-02-17T09:48:19.5",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 5,
+    "TYPE": "Social",
+    "NAME": "pinterest",
+    "DESCRIPTION": "pinterest",
+    "ICON": "pinterest",
+    "URL": "https://pinterest.com",
+    "DATA_EMBED": null,
+    "HEIGHT": null,
+    "WIDTH": null,
+    "DATA_WIDGET_ID": null,
+    "CREATED_TIME": "2018-02-17T09:48:52.107",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================3/4/2018 11:52:29 AM===================================================
+URL					 = http://localhost:45086/api/Category/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 2,
+    "CATEGORY_CODE": "C01",
+    "CATEGORY_NAME": "Pembiayaan Mobil",
+    "CATEGORY_DESCRIPTION": "Find tours where you are now and explore the diversity of each region with its beauty.\r\nEnjoy the beauty of life.",
+    "URL": "http://localhost:53083/Category/Detail/2",
+    "CLASS": "danger",
+    "PHOTO_PATH": "/Content/img/Hydrangeas.jpg",
+    "CREATED_TIME": "2018-02-12T09:59:37.95",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:20:59.847",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 3,
+    "CATEGORY_CODE": "C02",
+    "CATEGORY_NAME": "Pembiayaan Multiguna",
+    "CATEGORY_DESCRIPTION": "Cultural diversity makes a region unique to each.\r\nFind here every event in every area you will visit, and do not miss it. Enjoy.",
+    "URL": "http://localhost:53083/Category/Detail/3",
+    "CLASS": "primary",
+    "PHOTO_PATH": "/Content/img/Chrysanthemum.jpg",
+    "CREATED_TIME": "2018-02-12T10:00:07.423",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:21:22.327",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 4,
+    "CATEGORY_CODE": "C03",
+    "CATEGORY_NAME": "Pembiayaan Fleet",
+    "CATEGORY_DESCRIPTION": "Each region has a meaning and every region has its trademark.\r\nDiscover the diverse diet of food in each region, also discover every flavor created by each spoon.\r\nMake culinary a sweet memory with loved ones. Enjoy.",
+    "URL": "http://localhost:53083/Category/Detail/4",
+    "CLASS": "success",
+    "PHOTO_PATH": "/Content/img/Desert.jpg",
+    "CREATED_TIME": "2018-02-12T10:00:17.977",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:21:31.35",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 5,
+    "CATEGORY_CODE": "C04",
+    "CATEGORY_NAME": "Katalog Kendaraan",
+    "CATEGORY_DESCRIPTION": "Katalog Kendaraan",
+    "URL": null,
+    "CLASS": "default",
+    "PHOTO_PATH": "/Content/img/Penguins.jpg",
+    "CREATED_TIME": "2018-02-24T16:57:00.227",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:21:43.037",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 6,
+    "CATEGORY_CODE": "C05",
+    "CATEGORY_NAME": "Pengajuan Kredit",
+    "CATEGORY_DESCRIPTION": "Pengajuan Kredit",
+    "URL": null,
+    "CLASS": "default",
+    "PHOTO_PATH": "/Content/img/Lighthouse.jpg",
+    "CREATED_TIME": "2018-02-24T16:57:24.493",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:21:52.68",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 7,
+    "CATEGORY_CODE": "C06",
+    "CATEGORY_NAME": "Persyaratan Kredit",
+    "CATEGORY_DESCRIPTION": "Persyaratan Kredit",
+    "URL": null,
+    "CLASS": "default",
+    "PHOTO_PATH": "/Content/img/Koala.jpg",
+    "CREATED_TIME": "2018-02-24T16:57:46.9",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:22:02.66",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 8,
+    "CATEGORY_CODE": "C07",
+    "CATEGORY_NAME": "Produk Layanan",
+    "CATEGORY_DESCRIPTION": "Produk Layanan",
+    "URL": null,
+    "CLASS": "default",
+    "PHOTO_PATH": "/Content/img/Jellyfish.jpg",
+    "CREATED_TIME": "2018-02-24T16:58:06.313",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:22:12.437",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 9,
+    "CATEGORY_CODE": "C08",
+    "CATEGORY_NAME": "Profil & Cabang",
+    "CATEGORY_DESCRIPTION": "Profil & Cabang",
+    "URL": null,
+    "CLASS": "default",
+    "PHOTO_PATH": "/Content/img/Tulips.jpg",
+    "CREATED_TIME": "2018-02-24T16:58:39.61",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:22:21.17",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================3/4/2018 11:54:39 AM===================================================
+URL					 = http://localhost:45086/api/Category/RetrieveData
+Request					 = 2
+Respon					 = {
+  "ID": 2,
+  "CATEGORY_CODE": "C01",
+  "CATEGORY_NAME": "Pembiayaan Mobil",
+  "CATEGORY_DESCRIPTION": "Find tours where you are now and explore the diversity of each region with its beauty.\r\nEnjoy the beauty of life.",
+  "URL": "http://localhost:53083/Category/Detail/2",
+  "CLASS": "danger",
+  "PHOTO_PATH": "/Content/img/Hydrangeas.jpg",
+  "CREATED_TIME": "2018-02-12T09:59:37.95",
+  "CREATED_BY": "hamkair",
+  "LAST_MODIFIED_TIME": "2018-02-24T17:20:59.847",
+  "LAST_MODIFIED_BY": "hamkair",
+  "ROW_STATUS": 0,
+  "TOURIS_TV_SUB_CATEGORY": [
+    {
+      "ID": 4,
+      "COUNTRY_ID": 0,
+      "COUNTRY_NAME": null,
+      "PROVINCE_ID": 0,
+      "PROVINCE_NAME": null,
+      "CITY_ID": 0,
+      "CITY_NAME": null,
+      "DISTRICT_ID": 0,
+      "DISTRICT_NAME": null,
+      "VILLAGE_ID": 2,
+      "VILLAGE_NAME": null,
+      "CATEGORY_ID": 2,
+      "CATEGORY_NAME": null,
+      "SUB_CATEGORY_NAME": "Wisata Malam ",
+      "SUB_CATEGORY_DESCRIPTION": "Berkeliling lingkungan danau srengseng dan berkomunikasi dengan makhluk astral",
+      "ADDRESS": "Jl. Pengumben raya No. 78",
+      "START_TIME": "2018-02-20T09:29:00",
+      "END_TIME": "2018-02-28T09:29:00",
+      "PHOTO_PATH": "/Content/img/Jellyfish.jpg",
+      "LATITUDE": 0.0,
+      "LONGITUDE": 0.0,
+      "CREATED_TIME": "0001-01-01T00:00:00",
+      "CREATED_BY": null,
+      "LAST_MODIFIED_TIME": null,
+      "LAST_MODIFIED_BY": null,
+      "ROW_STATUS": 0,
+      "TOURIS_TV_CATEGORY": null,
+      "TOURIS_TV_SUB_CATEGORY_PHOTO": [],
+      "TOURIS_TV_VILLAGE": null
+    }
+  ]
+}
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================3/4/2018 11:54:46 AM===================================================
+URL					 = http://localhost:45086/api/SubCategory/RetrieveData
+Request					 = 4
+Respon					 = {
+  "ID": 4,
+  "COUNTRY_ID": 23,
+  "COUNTRY_NAME": "Indonesia",
+  "PROVINCE_ID": 11,
+  "PROVINCE_NAME": "DKI Jakarta",
+  "CITY_ID": 6,
+  "CITY_NAME": "Jakarta Barat",
+  "DISTRICT_ID": 3,
+  "DISTRICT_NAME": "Kembangan",
+  "VILLAGE_ID": 2,
+  "VILLAGE_NAME": "Srengseng",
+  "CATEGORY_ID": 2,
+  "CATEGORY_NAME": "Pembiayaan Mobil",
+  "SUB_CATEGORY_NAME": "Wisata Malam ",
+  "SUB_CATEGORY_DESCRIPTION": "Berkeliling lingkungan danau srengseng dan berkomunikasi dengan makhluk astral",
+  "ADDRESS": "Jl. Pengumben raya No. 78",
+  "START_TIME": "2018-02-20T09:29:00",
+  "END_TIME": "2018-02-28T09:29:00",
+  "PHOTO_PATH": "/Content/img/Jellyfish.jpg",
+  "LATITUDE": -6.2163638,
+  "LONGITUDE": 106.7741395,
+  "CREATED_TIME": "2018-02-20T09:29:33.437",
+  "CREATED_BY": "hamkair",
+  "LAST_MODIFIED_TIME": null,
+  "LAST_MODIFIED_BY": null,
+  "ROW_STATUS": 0,
+  "TOURIS_TV_CATEGORY": null,
+  "TOURIS_TV_SUB_CATEGORY_PHOTO": [],
+  "TOURIS_TV_VILLAGE": null
+}
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================3/4/2018 11:54:55 AM===================================================
+URL					 = http://localhost:45086/api/SubCategory/RetrieveData
+Request					 = 4
+Respon					 = {
+  "ID": 4,
+  "COUNTRY_ID": 23,
+  "COUNTRY_NAME": "Indonesia",
+  "PROVINCE_ID": 11,
+  "PROVINCE_NAME": "DKI Jakarta",
+  "CITY_ID": 6,
+  "CITY_NAME": "Jakarta Barat",
+  "DISTRICT_ID": 3,
+  "DISTRICT_NAME": "Kembangan",
+  "VILLAGE_ID": 2,
+  "VILLAGE_NAME": "Srengseng",
+  "CATEGORY_ID": 2,
+  "CATEGORY_NAME": "Pembiayaan Mobil",
+  "SUB_CATEGORY_NAME": "Wisata Malam ",
+  "SUB_CATEGORY_DESCRIPTION": "Berkeliling lingkungan danau srengseng dan berkomunikasi dengan makhluk astral",
+  "ADDRESS": "Jl. Pengumben raya No. 78",
+  "START_TIME": "2018-02-20T09:29:00",
+  "END_TIME": "2018-02-28T09:29:00",
+  "PHOTO_PATH": "/Content/img/Jellyfish.jpg",
+  "LATITUDE": -6.2163638,
+  "LONGITUDE": 106.7741395,
+  "CREATED_TIME": "2018-02-20T09:29:33.437",
+  "CREATED_BY": "hamkair",
+  "LAST_MODIFIED_TIME": null,
+  "LAST_MODIFIED_BY": null,
+  "ROW_STATUS": 0,
+  "TOURIS_TV_CATEGORY": null,
+  "TOURIS_TV_SUB_CATEGORY_PHOTO": [],
+  "TOURIS_TV_VILLAGE": null
+}
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================3/4/2018 11:55:17 AM===================================================
+URL					 = http://localhost:45086/api/User/Login
+Request					 = {"Email":"hamkairama@yahoo.com","Password":"4426552iR","RememberMe":false}
+Respon					 = {
+  "ID": 0,
+  "USER_ID": null,
+  "USER_NAME": null,
+  "IS_SUPER_ADMIN": false,
+  "LAST_LOGIN": null,
+  "USER_MAIL": null,
+  "PASSWORD": null,
+  "CONFIRM_PASSWORD": null,
+  "CREATED_TIME": "0001-01-01T00:00:00",
+  "CREATED_BY": null,
+  "LAST_MODIFIED_TIME": null,
+  "LAST_MODIFIED_BY": null,
+  "ROW_STATUS": 0,
+  "PHOTO_PATH": null,
+  "GENDER": null,
+  "BORN": null,
+  "ADDRESS": null,
+  "DESCRIPTION": null,
+  "JOB": null,
+  "COMPANY": null,
+  "HOBBY": null,
+  "TOURIS_TV_USER_PROFILE": []
+}
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================3/4/2018 11:55:33 AM===================================================
+URL					 = http://localhost:45086/api/User/Login
+Request					 = {"Email":"hamkairama@yahoo.com","Password":"4426552i","RememberMe":false}
+Respon					 = {
+  "ID": 0,
+  "USER_ID": null,
+  "USER_NAME": null,
+  "IS_SUPER_ADMIN": false,
+  "LAST_LOGIN": null,
+  "USER_MAIL": null,
+  "PASSWORD": null,
+  "CONFIRM_PASSWORD": null,
+  "CREATED_TIME": "0001-01-01T00:00:00",
+  "CREATED_BY": null,
+  "LAST_MODIFIED_TIME": null,
+  "LAST_MODIFIED_BY": null,
+  "ROW_STATUS": 0,
+  "PHOTO_PATH": null,
+  "GENDER": null,
+  "BORN": null,
+  "ADDRESS": null,
+  "DESCRIPTION": null,
+  "JOB": null,
+  "COMPANY": null,
+  "HOBBY": null,
+  "TOURIS_TV_USER_PROFILE": []
+}
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================3/4/2018 11:55:51 AM===================================================
+URL					 = http://localhost:45086/api/User/Login
+Request					 = {"Email":"hamkairama@yahoo.com","Password":"123456","RememberMe":false}
+Respon					 = {
+  "ID": 7,
+  "USER_ID": "hamkair",
+  "USER_NAME": "hamkairama",
+  "IS_SUPER_ADMIN": true,
+  "LAST_LOGIN": null,
+  "USER_MAIL": "hamkairama@yahoo.com",
+  "PASSWORD": "123456",
+  "CONFIRM_PASSWORD": null,
+  "CREATED_TIME": "2018-02-15T17:55:26.07",
+  "CREATED_BY": "hamkair",
+  "LAST_MODIFIED_TIME": "2018-02-19T18:05:51.053",
+  "LAST_MODIFIED_BY": "hamkair",
+  "ROW_STATUS": 0,
+  "PHOTO_PATH": "/Content/img/Tulips.jpg",
+  "GENDER": "P",
+  "BORN": "2018-02-13T23:55:00",
+  "ADDRESS": "jl.karya utama\r\nsrengseng, kembangan.\r\nJakarta barat",
+  "DESCRIPTION": "perkampretan",
+  "JOB": "adsf",
+  "COMPANY": "asdf",
+  "HOBBY": "asdf",
+  "TOURIS_TV_USER_PROFILE": [
+    {
+      "ID": 7,
+      "USER_ID_ID": 7,
+      "PHOTO_PATH": "/Content/img/Tulips.jpg",
+      "GENDER": "P",
+      "BORN": "2018-02-13T23:55:00",
+      "ADDRESS": "jl.karya utama\r\nsrengseng, kembangan.\r\nJakarta barat",
+      "DESCRIPTION": "perkampretan",
+      "JOB": "adsf",
+      "COMPANY": "asdf",
+      "HOBBY": "asdf",
+      "CREATED_TIME": "2018-02-15T17:55:26.087",
+      "CREATED_BY": "hamkair",
+      "LAST_MODIFIED_TIME": "2018-02-19T18:05:51.053",
+      "LAST_MODIFIED_BY": "hamkair",
+      "ROW_STATUS": 0,
+      "TOURIS_TV_USER": null,
+      "TOURIS_TV_USER_PROFILE_SOSMED": []
+    }
+  ]
+}
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================3/4/2018 11:55:51 AM===================================================
+URL					 = http://localhost:45086/api/Slideshow/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 3,
+    "TITTLE": "TOURISMPEDIA",
+    "CONTENT_DESCRIPTION": "ini content",
+    "CLASS": "active",
+    "PHOTO_PATH": "/Content/img/Lighthouse.jpg",
+    "URL": "#",
+    "CREATED_TIME": "2018-02-15T06:09:25.23",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-15T09:48:03.95",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 4,
+    "TITTLE": "TOURISMPEDIA",
+    "CONTENT_DESCRIPTION": "Testing for content description. This content for testing,",
+    "CLASS": "#",
+    "PHOTO_PATH": "/Content/img/Tulips.jpg",
+    "URL": "#",
+    "CREATED_TIME": "2018-02-15T09:49:19.983",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 5,
+    "TITTLE": "TOURISMPEDIA",
+    "CONTENT_DESCRIPTION": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "CLASS": "#",
+    "PHOTO_PATH": "/Content/img/Koala.jpg",
+    "URL": "#",
+    "CREATED_TIME": "2018-02-15T09:59:41.5",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-15T11:06:08.697",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 6,
+    "TITTLE": "TOURISMPEDIA",
+    "CONTENT_DESCRIPTION": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "CLASS": "#",
+    "PHOTO_PATH": "/Content/img/Penguins.jpg",
+    "URL": "#",
+    "CREATED_TIME": "2018-02-15T10:00:52.45",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-15T11:06:22.597",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 10,
+    "TITTLE": "Tourismpedia",
+    "CONTENT_DESCRIPTION": "Testing for content description. This content for testing,",
+    "CLASS": "inactive",
+    "PHOTO_PATH": null,
+    "URL": "#",
+    "CREATED_TIME": "2018-02-22T02:45:33.19",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T16:16:35.457",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================3/4/2018 11:55:51 AM===================================================
+URL					 = http://localhost:45086/api/Sosmed/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 2,
+    "TYPE": "Social",
+    "NAME": "facebook",
+    "DESCRIPTION": "facebook",
+    "ICON": "facebook",
+    "URL": "https://facebook.com",
+    "DATA_EMBED": null,
+    "HEIGHT": null,
+    "WIDTH": null,
+    "DATA_WIDGET_ID": null,
+    "CREATED_TIME": "2018-02-17T06:38:49.457",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-17T09:44:32.123",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 3,
+    "TYPE": "Social",
+    "NAME": "twitter",
+    "DESCRIPTION": "twitter",
+    "ICON": "twitter",
+    "URL": "https://twitter.com/vany_pucca",
+    "DATA_EMBED": null,
+    "HEIGHT": null,
+    "WIDTH": null,
+    "DATA_WIDGET_ID": null,
+    "CREATED_TIME": "2018-02-17T09:36:00.993",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-17T10:43:21.097",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 4,
+    "TYPE": "Social",
+    "NAME": "instagram",
+    "DESCRIPTION": "instagram",
+    "ICON": "instagram",
+    "URL": "https://instagram.com",
+    "DATA_EMBED": null,
+    "HEIGHT": null,
+    "WIDTH": null,
+    "DATA_WIDGET_ID": null,
+    "CREATED_TIME": "2018-02-17T09:48:19.5",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 5,
+    "TYPE": "Social",
+    "NAME": "pinterest",
+    "DESCRIPTION": "pinterest",
+    "ICON": "pinterest",
+    "URL": "https://pinterest.com",
+    "DATA_EMBED": null,
+    "HEIGHT": null,
+    "WIDTH": null,
+    "DATA_WIDGET_ID": null,
+    "CREATED_TIME": "2018-02-17T09:48:52.107",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================3/4/2018 11:55:51 AM===================================================
+URL					 = http://localhost:45086/api/Category/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 2,
+    "CATEGORY_CODE": "C01",
+    "CATEGORY_NAME": "Pembiayaan Mobil",
+    "CATEGORY_DESCRIPTION": "Find tours where you are now and explore the diversity of each region with its beauty.\r\nEnjoy the beauty of life.",
+    "URL": "http://localhost:53083/Category/Detail/2",
+    "CLASS": "danger",
+    "PHOTO_PATH": "/Content/img/Hydrangeas.jpg",
+    "CREATED_TIME": "2018-02-12T09:59:37.95",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:20:59.847",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 3,
+    "CATEGORY_CODE": "C02",
+    "CATEGORY_NAME": "Pembiayaan Multiguna",
+    "CATEGORY_DESCRIPTION": "Cultural diversity makes a region unique to each.\r\nFind here every event in every area you will visit, and do not miss it. Enjoy.",
+    "URL": "http://localhost:53083/Category/Detail/3",
+    "CLASS": "primary",
+    "PHOTO_PATH": "/Content/img/Chrysanthemum.jpg",
+    "CREATED_TIME": "2018-02-12T10:00:07.423",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:21:22.327",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 4,
+    "CATEGORY_CODE": "C03",
+    "CATEGORY_NAME": "Pembiayaan Fleet",
+    "CATEGORY_DESCRIPTION": "Each region has a meaning and every region has its trademark.\r\nDiscover the diverse diet of food in each region, also discover every flavor created by each spoon.\r\nMake culinary a sweet memory with loved ones. Enjoy.",
+    "URL": "http://localhost:53083/Category/Detail/4",
+    "CLASS": "success",
+    "PHOTO_PATH": "/Content/img/Desert.jpg",
+    "CREATED_TIME": "2018-02-12T10:00:17.977",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:21:31.35",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 5,
+    "CATEGORY_CODE": "C04",
+    "CATEGORY_NAME": "Katalog Kendaraan",
+    "CATEGORY_DESCRIPTION": "Katalog Kendaraan",
+    "URL": null,
+    "CLASS": "default",
+    "PHOTO_PATH": "/Content/img/Penguins.jpg",
+    "CREATED_TIME": "2018-02-24T16:57:00.227",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:21:43.037",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 6,
+    "CATEGORY_CODE": "C05",
+    "CATEGORY_NAME": "Pengajuan Kredit",
+    "CATEGORY_DESCRIPTION": "Pengajuan Kredit",
+    "URL": null,
+    "CLASS": "default",
+    "PHOTO_PATH": "/Content/img/Lighthouse.jpg",
+    "CREATED_TIME": "2018-02-24T16:57:24.493",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:21:52.68",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 7,
+    "CATEGORY_CODE": "C06",
+    "CATEGORY_NAME": "Persyaratan Kredit",
+    "CATEGORY_DESCRIPTION": "Persyaratan Kredit",
+    "URL": null,
+    "CLASS": "default",
+    "PHOTO_PATH": "/Content/img/Koala.jpg",
+    "CREATED_TIME": "2018-02-24T16:57:46.9",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:22:02.66",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 8,
+    "CATEGORY_CODE": "C07",
+    "CATEGORY_NAME": "Produk Layanan",
+    "CATEGORY_DESCRIPTION": "Produk Layanan",
+    "URL": null,
+    "CLASS": "default",
+    "PHOTO_PATH": "/Content/img/Jellyfish.jpg",
+    "CREATED_TIME": "2018-02-24T16:58:06.313",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:22:12.437",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 9,
+    "CATEGORY_CODE": "C08",
+    "CATEGORY_NAME": "Profil & Cabang",
+    "CATEGORY_DESCRIPTION": "Profil & Cabang",
+    "URL": null,
+    "CLASS": "default",
+    "PHOTO_PATH": "/Content/img/Tulips.jpg",
+    "CREATED_TIME": "2018-02-24T16:58:39.61",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:22:21.17",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================3/4/2018 11:56:49 AM===================================================
+URL					 = http://localhost:45086/api/Category/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 2,
+    "CATEGORY_CODE": "C01",
+    "CATEGORY_NAME": "Pembiayaan Mobil",
+    "CATEGORY_DESCRIPTION": "Find tours where you are now and explore the diversity of each region with its beauty.\r\nEnjoy the beauty of life.",
+    "URL": "http://localhost:53083/Category/Detail/2",
+    "CLASS": "danger",
+    "PHOTO_PATH": "/Content/img/Hydrangeas.jpg",
+    "CREATED_TIME": "2018-02-12T09:59:37.95",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:20:59.847",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 3,
+    "CATEGORY_CODE": "C02",
+    "CATEGORY_NAME": "Pembiayaan Multiguna",
+    "CATEGORY_DESCRIPTION": "Cultural diversity makes a region unique to each.\r\nFind here every event in every area you will visit, and do not miss it. Enjoy.",
+    "URL": "http://localhost:53083/Category/Detail/3",
+    "CLASS": "primary",
+    "PHOTO_PATH": "/Content/img/Chrysanthemum.jpg",
+    "CREATED_TIME": "2018-02-12T10:00:07.423",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:21:22.327",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 4,
+    "CATEGORY_CODE": "C03",
+    "CATEGORY_NAME": "Pembiayaan Fleet",
+    "CATEGORY_DESCRIPTION": "Each region has a meaning and every region has its trademark.\r\nDiscover the diverse diet of food in each region, also discover every flavor created by each spoon.\r\nMake culinary a sweet memory with loved ones. Enjoy.",
+    "URL": "http://localhost:53083/Category/Detail/4",
+    "CLASS": "success",
+    "PHOTO_PATH": "/Content/img/Desert.jpg",
+    "CREATED_TIME": "2018-02-12T10:00:17.977",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:21:31.35",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 5,
+    "CATEGORY_CODE": "C04",
+    "CATEGORY_NAME": "Katalog Kendaraan",
+    "CATEGORY_DESCRIPTION": "Katalog Kendaraan",
+    "URL": null,
+    "CLASS": "default",
+    "PHOTO_PATH": "/Content/img/Penguins.jpg",
+    "CREATED_TIME": "2018-02-24T16:57:00.227",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:21:43.037",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 6,
+    "CATEGORY_CODE": "C05",
+    "CATEGORY_NAME": "Pengajuan Kredit",
+    "CATEGORY_DESCRIPTION": "Pengajuan Kredit",
+    "URL": null,
+    "CLASS": "default",
+    "PHOTO_PATH": "/Content/img/Lighthouse.jpg",
+    "CREATED_TIME": "2018-02-24T16:57:24.493",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:21:52.68",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 7,
+    "CATEGORY_CODE": "C06",
+    "CATEGORY_NAME": "Persyaratan Kredit",
+    "CATEGORY_DESCRIPTION": "Persyaratan Kredit",
+    "URL": null,
+    "CLASS": "default",
+    "PHOTO_PATH": "/Content/img/Koala.jpg",
+    "CREATED_TIME": "2018-02-24T16:57:46.9",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:22:02.66",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 8,
+    "CATEGORY_CODE": "C07",
+    "CATEGORY_NAME": "Produk Layanan",
+    "CATEGORY_DESCRIPTION": "Produk Layanan",
+    "URL": null,
+    "CLASS": "default",
+    "PHOTO_PATH": "/Content/img/Jellyfish.jpg",
+    "CREATED_TIME": "2018-02-24T16:58:06.313",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:22:12.437",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 9,
+    "CATEGORY_CODE": "C08",
+    "CATEGORY_NAME": "Profil & Cabang",
+    "CATEGORY_DESCRIPTION": "Profil & Cabang",
+    "URL": null,
+    "CLASS": "default",
+    "PHOTO_PATH": "/Content/img/Tulips.jpg",
+    "CREATED_TIME": "2018-02-24T16:58:39.61",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:22:21.17",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================3/4/2018 11:56:58 AM===================================================
+URL					 = http://localhost:45086/api/Slideshow/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 3,
+    "TITTLE": "TOURISMPEDIA",
+    "CONTENT_DESCRIPTION": "ini content",
+    "CLASS": "active",
+    "PHOTO_PATH": "/Content/img/Lighthouse.jpg",
+    "URL": "#",
+    "CREATED_TIME": "2018-02-15T06:09:25.23",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-15T09:48:03.95",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 4,
+    "TITTLE": "TOURISMPEDIA",
+    "CONTENT_DESCRIPTION": "Testing for content description. This content for testing,",
+    "CLASS": "#",
+    "PHOTO_PATH": "/Content/img/Tulips.jpg",
+    "URL": "#",
+    "CREATED_TIME": "2018-02-15T09:49:19.983",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 5,
+    "TITTLE": "TOURISMPEDIA",
+    "CONTENT_DESCRIPTION": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "CLASS": "#",
+    "PHOTO_PATH": "/Content/img/Koala.jpg",
+    "URL": "#",
+    "CREATED_TIME": "2018-02-15T09:59:41.5",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-15T11:06:08.697",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 6,
+    "TITTLE": "TOURISMPEDIA",
+    "CONTENT_DESCRIPTION": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "CLASS": "#",
+    "PHOTO_PATH": "/Content/img/Penguins.jpg",
+    "URL": "#",
+    "CREATED_TIME": "2018-02-15T10:00:52.45",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-15T11:06:22.597",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 10,
+    "TITTLE": "Tourismpedia",
+    "CONTENT_DESCRIPTION": "Testing for content description. This content for testing,",
+    "CLASS": "inactive",
+    "PHOTO_PATH": null,
+    "URL": "#",
+    "CREATED_TIME": "2018-02-22T02:45:33.19",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T16:16:35.457",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================3/4/2018 11:56:58 AM===================================================
+URL					 = http://localhost:45086/api/Sosmed/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 2,
+    "TYPE": "Social",
+    "NAME": "facebook",
+    "DESCRIPTION": "facebook",
+    "ICON": "facebook",
+    "URL": "https://facebook.com",
+    "DATA_EMBED": null,
+    "HEIGHT": null,
+    "WIDTH": null,
+    "DATA_WIDGET_ID": null,
+    "CREATED_TIME": "2018-02-17T06:38:49.457",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-17T09:44:32.123",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 3,
+    "TYPE": "Social",
+    "NAME": "twitter",
+    "DESCRIPTION": "twitter",
+    "ICON": "twitter",
+    "URL": "https://twitter.com/vany_pucca",
+    "DATA_EMBED": null,
+    "HEIGHT": null,
+    "WIDTH": null,
+    "DATA_WIDGET_ID": null,
+    "CREATED_TIME": "2018-02-17T09:36:00.993",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-17T10:43:21.097",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 4,
+    "TYPE": "Social",
+    "NAME": "instagram",
+    "DESCRIPTION": "instagram",
+    "ICON": "instagram",
+    "URL": "https://instagram.com",
+    "DATA_EMBED": null,
+    "HEIGHT": null,
+    "WIDTH": null,
+    "DATA_WIDGET_ID": null,
+    "CREATED_TIME": "2018-02-17T09:48:19.5",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 5,
+    "TYPE": "Social",
+    "NAME": "pinterest",
+    "DESCRIPTION": "pinterest",
+    "ICON": "pinterest",
+    "URL": "https://pinterest.com",
+    "DATA_EMBED": null,
+    "HEIGHT": null,
+    "WIDTH": null,
+    "DATA_WIDGET_ID": null,
+    "CREATED_TIME": "2018-02-17T09:48:52.107",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================3/4/2018 11:56:58 AM===================================================
+URL					 = http://localhost:45086/api/Category/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 2,
+    "CATEGORY_CODE": "C01",
+    "CATEGORY_NAME": "Pembiayaan Mobil",
+    "CATEGORY_DESCRIPTION": "Find tours where you are now and explore the diversity of each region with its beauty.\r\nEnjoy the beauty of life.",
+    "URL": "http://localhost:53083/Category/Detail/2",
+    "CLASS": "danger",
+    "PHOTO_PATH": "/Content/img/Hydrangeas.jpg",
+    "CREATED_TIME": "2018-02-12T09:59:37.95",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:20:59.847",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 3,
+    "CATEGORY_CODE": "C02",
+    "CATEGORY_NAME": "Pembiayaan Multiguna",
+    "CATEGORY_DESCRIPTION": "Cultural diversity makes a region unique to each.\r\nFind here every event in every area you will visit, and do not miss it. Enjoy.",
+    "URL": "http://localhost:53083/Category/Detail/3",
+    "CLASS": "primary",
+    "PHOTO_PATH": "/Content/img/Chrysanthemum.jpg",
+    "CREATED_TIME": "2018-02-12T10:00:07.423",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:21:22.327",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 4,
+    "CATEGORY_CODE": "C03",
+    "CATEGORY_NAME": "Pembiayaan Fleet",
+    "CATEGORY_DESCRIPTION": "Each region has a meaning and every region has its trademark.\r\nDiscover the diverse diet of food in each region, also discover every flavor created by each spoon.\r\nMake culinary a sweet memory with loved ones. Enjoy.",
+    "URL": "http://localhost:53083/Category/Detail/4",
+    "CLASS": "success",
+    "PHOTO_PATH": "/Content/img/Desert.jpg",
+    "CREATED_TIME": "2018-02-12T10:00:17.977",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:21:31.35",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 5,
+    "CATEGORY_CODE": "C04",
+    "CATEGORY_NAME": "Katalog Kendaraan",
+    "CATEGORY_DESCRIPTION": "Katalog Kendaraan",
+    "URL": null,
+    "CLASS": "default",
+    "PHOTO_PATH": "/Content/img/Penguins.jpg",
+    "CREATED_TIME": "2018-02-24T16:57:00.227",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:21:43.037",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 6,
+    "CATEGORY_CODE": "C05",
+    "CATEGORY_NAME": "Pengajuan Kredit",
+    "CATEGORY_DESCRIPTION": "Pengajuan Kredit",
+    "URL": null,
+    "CLASS": "default",
+    "PHOTO_PATH": "/Content/img/Lighthouse.jpg",
+    "CREATED_TIME": "2018-02-24T16:57:24.493",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:21:52.68",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 7,
+    "CATEGORY_CODE": "C06",
+    "CATEGORY_NAME": "Persyaratan Kredit",
+    "CATEGORY_DESCRIPTION": "Persyaratan Kredit",
+    "URL": null,
+    "CLASS": "default",
+    "PHOTO_PATH": "/Content/img/Koala.jpg",
+    "CREATED_TIME": "2018-02-24T16:57:46.9",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:22:02.66",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 8,
+    "CATEGORY_CODE": "C07",
+    "CATEGORY_NAME": "Produk Layanan",
+    "CATEGORY_DESCRIPTION": "Produk Layanan",
+    "URL": null,
+    "CLASS": "default",
+    "PHOTO_PATH": "/Content/img/Jellyfish.jpg",
+    "CREATED_TIME": "2018-02-24T16:58:06.313",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:22:12.437",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 9,
+    "CATEGORY_CODE": "C08",
+    "CATEGORY_NAME": "Profil & Cabang",
+    "CATEGORY_DESCRIPTION": "Profil & Cabang",
+    "URL": null,
+    "CLASS": "default",
+    "PHOTO_PATH": "/Content/img/Tulips.jpg",
+    "CREATED_TIME": "2018-02-24T16:58:39.61",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:22:21.17",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================3/4/2018 11:57:35 AM===================================================
+URL					 = http://localhost:45086/api/Category/RetrieveData
+Request					 = 2
+Respon					 = {
+  "ID": 2,
+  "CATEGORY_CODE": "C01",
+  "CATEGORY_NAME": "Pembiayaan Mobil",
+  "CATEGORY_DESCRIPTION": "Find tours where you are now and explore the diversity of each region with its beauty.\r\nEnjoy the beauty of life.",
+  "URL": "http://localhost:53083/Category/Detail/2",
+  "CLASS": "danger",
+  "PHOTO_PATH": "/Content/img/Hydrangeas.jpg",
+  "CREATED_TIME": "2018-02-12T09:59:37.95",
+  "CREATED_BY": "hamkair",
+  "LAST_MODIFIED_TIME": "2018-02-24T17:20:59.847",
+  "LAST_MODIFIED_BY": "hamkair",
+  "ROW_STATUS": 0,
+  "TOURIS_TV_SUB_CATEGORY": [
+    {
+      "ID": 4,
+      "COUNTRY_ID": 0,
+      "COUNTRY_NAME": null,
+      "PROVINCE_ID": 0,
+      "PROVINCE_NAME": null,
+      "CITY_ID": 0,
+      "CITY_NAME": null,
+      "DISTRICT_ID": 0,
+      "DISTRICT_NAME": null,
+      "VILLAGE_ID": 2,
+      "VILLAGE_NAME": null,
+      "CATEGORY_ID": 2,
+      "CATEGORY_NAME": null,
+      "SUB_CATEGORY_NAME": "Wisata Malam ",
+      "SUB_CATEGORY_DESCRIPTION": "Berkeliling lingkungan danau srengseng dan berkomunikasi dengan makhluk astral",
+      "ADDRESS": "Jl. Pengumben raya No. 78",
+      "START_TIME": "2018-02-20T09:29:00",
+      "END_TIME": "2018-02-28T09:29:00",
+      "PHOTO_PATH": "/Content/img/Jellyfish.jpg",
+      "LATITUDE": 0.0,
+      "LONGITUDE": 0.0,
+      "CREATED_TIME": "0001-01-01T00:00:00",
+      "CREATED_BY": null,
+      "LAST_MODIFIED_TIME": null,
+      "LAST_MODIFIED_BY": null,
+      "ROW_STATUS": 0,
+      "TOURIS_TV_CATEGORY": null,
+      "TOURIS_TV_SUB_CATEGORY_PHOTO": [],
+      "TOURIS_TV_VILLAGE": null
+    }
+  ]
+}
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================3/4/2018 11:57:53 AM===================================================
+URL					 = http://localhost:45086/api/SubCategory/RetrieveData
+Request					 = 4
+Respon					 = {
+  "ID": 4,
+  "COUNTRY_ID": 23,
+  "COUNTRY_NAME": "Indonesia",
+  "PROVINCE_ID": 11,
+  "PROVINCE_NAME": "DKI Jakarta",
+  "CITY_ID": 6,
+  "CITY_NAME": "Jakarta Barat",
+  "DISTRICT_ID": 3,
+  "DISTRICT_NAME": "Kembangan",
+  "VILLAGE_ID": 2,
+  "VILLAGE_NAME": "Srengseng",
+  "CATEGORY_ID": 2,
+  "CATEGORY_NAME": "Pembiayaan Mobil",
+  "SUB_CATEGORY_NAME": "Wisata Malam ",
+  "SUB_CATEGORY_DESCRIPTION": "Berkeliling lingkungan danau srengseng dan berkomunikasi dengan makhluk astral",
+  "ADDRESS": "Jl. Pengumben raya No. 78",
+  "START_TIME": "2018-02-20T09:29:00",
+  "END_TIME": "2018-02-28T09:29:00",
+  "PHOTO_PATH": "/Content/img/Jellyfish.jpg",
+  "LATITUDE": -6.2163638,
+  "LONGITUDE": 106.7741395,
+  "CREATED_TIME": "2018-02-20T09:29:33.437",
+  "CREATED_BY": "hamkair",
+  "LAST_MODIFIED_TIME": null,
+  "LAST_MODIFIED_BY": null,
+  "ROW_STATUS": 0,
+  "TOURIS_TV_CATEGORY": null,
+  "TOURIS_TV_SUB_CATEGORY_PHOTO": [],
+  "TOURIS_TV_VILLAGE": null
+}
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================3/4/2018 1:18:15 PM===================================================
+URL					 = http://localhost:45086/api/Slideshow/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 3,
+    "TITTLE": "TOURISMPEDIA",
+    "CONTENT_DESCRIPTION": "ini content",
+    "CLASS": "active",
+    "PHOTO_PATH": "/Content/img/Lighthouse.jpg",
+    "URL": "#",
+    "CREATED_TIME": "2018-02-15T06:09:25.23",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-15T09:48:03.95",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 4,
+    "TITTLE": "TOURISMPEDIA",
+    "CONTENT_DESCRIPTION": "Testing for content description. This content for testing,",
+    "CLASS": "#",
+    "PHOTO_PATH": "/Content/img/Tulips.jpg",
+    "URL": "#",
+    "CREATED_TIME": "2018-02-15T09:49:19.983",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 5,
+    "TITTLE": "TOURISMPEDIA",
+    "CONTENT_DESCRIPTION": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "CLASS": "#",
+    "PHOTO_PATH": "/Content/img/Koala.jpg",
+    "URL": "#",
+    "CREATED_TIME": "2018-02-15T09:59:41.5",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-15T11:06:08.697",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 6,
+    "TITTLE": "TOURISMPEDIA",
+    "CONTENT_DESCRIPTION": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "CLASS": "#",
+    "PHOTO_PATH": "/Content/img/Penguins.jpg",
+    "URL": "#",
+    "CREATED_TIME": "2018-02-15T10:00:52.45",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-15T11:06:22.597",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 10,
+    "TITTLE": "Tourismpedia",
+    "CONTENT_DESCRIPTION": "Testing for content description. This content for testing,",
+    "CLASS": "inactive",
+    "PHOTO_PATH": null,
+    "URL": "#",
+    "CREATED_TIME": "2018-02-22T02:45:33.19",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T16:16:35.457",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================3/4/2018 1:18:15 PM===================================================
+URL					 = http://localhost:45086/api/Sosmed/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 2,
+    "TYPE": "Social",
+    "NAME": "facebook",
+    "DESCRIPTION": "facebook",
+    "ICON": "facebook",
+    "URL": "https://facebook.com",
+    "DATA_EMBED": null,
+    "HEIGHT": null,
+    "WIDTH": null,
+    "DATA_WIDGET_ID": null,
+    "CREATED_TIME": "2018-02-17T06:38:49.457",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-17T09:44:32.123",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 3,
+    "TYPE": "Social",
+    "NAME": "twitter",
+    "DESCRIPTION": "twitter",
+    "ICON": "twitter",
+    "URL": "https://twitter.com/vany_pucca",
+    "DATA_EMBED": null,
+    "HEIGHT": null,
+    "WIDTH": null,
+    "DATA_WIDGET_ID": null,
+    "CREATED_TIME": "2018-02-17T09:36:00.993",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-17T10:43:21.097",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 4,
+    "TYPE": "Social",
+    "NAME": "instagram",
+    "DESCRIPTION": "instagram",
+    "ICON": "instagram",
+    "URL": "https://instagram.com",
+    "DATA_EMBED": null,
+    "HEIGHT": null,
+    "WIDTH": null,
+    "DATA_WIDGET_ID": null,
+    "CREATED_TIME": "2018-02-17T09:48:19.5",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 5,
+    "TYPE": "Social",
+    "NAME": "pinterest",
+    "DESCRIPTION": "pinterest",
+    "ICON": "pinterest",
+    "URL": "https://pinterest.com",
+    "DATA_EMBED": null,
+    "HEIGHT": null,
+    "WIDTH": null,
+    "DATA_WIDGET_ID": null,
+    "CREATED_TIME": "2018-02-17T09:48:52.107",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================3/4/2018 1:18:15 PM===================================================
+URL					 = http://localhost:45086/api/Category/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 2,
+    "CATEGORY_CODE": "C01",
+    "CATEGORY_NAME": "Pembiayaan Mobil",
+    "CATEGORY_DESCRIPTION": "Find tours where you are now and explore the diversity of each region with its beauty.\r\nEnjoy the beauty of life.",
+    "URL": "http://localhost:53083/Category/Detail/2",
+    "CLASS": "danger",
+    "PHOTO_PATH": "/Content/img/Hydrangeas.jpg",
+    "CREATED_TIME": "2018-02-12T09:59:37.95",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:20:59.847",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 3,
+    "CATEGORY_CODE": "C02",
+    "CATEGORY_NAME": "Pembiayaan Multiguna",
+    "CATEGORY_DESCRIPTION": "Cultural diversity makes a region unique to each.\r\nFind here every event in every area you will visit, and do not miss it. Enjoy.",
+    "URL": "http://localhost:53083/Category/Detail/3",
+    "CLASS": "primary",
+    "PHOTO_PATH": "/Content/img/Chrysanthemum.jpg",
+    "CREATED_TIME": "2018-02-12T10:00:07.423",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:21:22.327",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 4,
+    "CATEGORY_CODE": "C03",
+    "CATEGORY_NAME": "Pembiayaan Fleet",
+    "CATEGORY_DESCRIPTION": "Each region has a meaning and every region has its trademark.\r\nDiscover the diverse diet of food in each region, also discover every flavor created by each spoon.\r\nMake culinary a sweet memory with loved ones. Enjoy.",
+    "URL": "http://localhost:53083/Category/Detail/4",
+    "CLASS": "success",
+    "PHOTO_PATH": "/Content/img/Desert.jpg",
+    "CREATED_TIME": "2018-02-12T10:00:17.977",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:21:31.35",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 5,
+    "CATEGORY_CODE": "C04",
+    "CATEGORY_NAME": "Katalog Kendaraan",
+    "CATEGORY_DESCRIPTION": "Katalog Kendaraan",
+    "URL": null,
+    "CLASS": "default",
+    "PHOTO_PATH": "/Content/img/Penguins.jpg",
+    "CREATED_TIME": "2018-02-24T16:57:00.227",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:21:43.037",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 6,
+    "CATEGORY_CODE": "C05",
+    "CATEGORY_NAME": "Pengajuan Kredit",
+    "CATEGORY_DESCRIPTION": "Pengajuan Kredit",
+    "URL": null,
+    "CLASS": "default",
+    "PHOTO_PATH": "/Content/img/Lighthouse.jpg",
+    "CREATED_TIME": "2018-02-24T16:57:24.493",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:21:52.68",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 7,
+    "CATEGORY_CODE": "C06",
+    "CATEGORY_NAME": "Persyaratan Kredit",
+    "CATEGORY_DESCRIPTION": "Persyaratan Kredit",
+    "URL": null,
+    "CLASS": "default",
+    "PHOTO_PATH": "/Content/img/Koala.jpg",
+    "CREATED_TIME": "2018-02-24T16:57:46.9",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:22:02.66",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 8,
+    "CATEGORY_CODE": "C07",
+    "CATEGORY_NAME": "Produk Layanan",
+    "CATEGORY_DESCRIPTION": "Produk Layanan",
+    "URL": null,
+    "CLASS": "default",
+    "PHOTO_PATH": "/Content/img/Jellyfish.jpg",
+    "CREATED_TIME": "2018-02-24T16:58:06.313",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:22:12.437",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 9,
+    "CATEGORY_CODE": "C08",
+    "CATEGORY_NAME": "Profil & Cabang",
+    "CATEGORY_DESCRIPTION": "Profil & Cabang",
+    "URL": null,
+    "CLASS": "default",
+    "PHOTO_PATH": "/Content/img/Tulips.jpg",
+    "CREATED_TIME": "2018-02-24T16:58:39.61",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:22:21.17",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================3/4/2018 1:18:19 PM===================================================
+URL					 = http://localhost:45086/api/Category/RetrieveData
+Request					 = 2
+Respon					 = {
+  "ID": 2,
+  "CATEGORY_CODE": "C01",
+  "CATEGORY_NAME": "Pembiayaan Mobil",
+  "CATEGORY_DESCRIPTION": "Find tours where you are now and explore the diversity of each region with its beauty.\r\nEnjoy the beauty of life.",
+  "URL": "http://localhost:53083/Category/Detail/2",
+  "CLASS": "danger",
+  "PHOTO_PATH": "/Content/img/Hydrangeas.jpg",
+  "CREATED_TIME": "2018-02-12T09:59:37.95",
+  "CREATED_BY": "hamkair",
+  "LAST_MODIFIED_TIME": "2018-02-24T17:20:59.847",
+  "LAST_MODIFIED_BY": "hamkair",
+  "ROW_STATUS": 0,
+  "TOURIS_TV_SUB_CATEGORY": [
+    {
+      "ID": 4,
+      "COUNTRY_ID": 0,
+      "COUNTRY_NAME": null,
+      "PROVINCE_ID": 0,
+      "PROVINCE_NAME": null,
+      "CITY_ID": 0,
+      "CITY_NAME": null,
+      "DISTRICT_ID": 0,
+      "DISTRICT_NAME": null,
+      "VILLAGE_ID": 2,
+      "VILLAGE_NAME": null,
+      "CATEGORY_ID": 2,
+      "CATEGORY_NAME": null,
+      "SUB_CATEGORY_NAME": "Wisata Malam ",
+      "SUB_CATEGORY_DESCRIPTION": "Berkeliling lingkungan danau srengseng dan berkomunikasi dengan makhluk astral",
+      "ADDRESS": "Jl. Pengumben raya No. 78",
+      "START_TIME": "2018-02-20T09:29:00",
+      "END_TIME": "2018-02-28T09:29:00",
+      "PHOTO_PATH": "/Content/img/Jellyfish.jpg",
+      "LATITUDE": 0.0,
+      "LONGITUDE": 0.0,
+      "CREATED_TIME": "0001-01-01T00:00:00",
+      "CREATED_BY": null,
+      "LAST_MODIFIED_TIME": null,
+      "LAST_MODIFIED_BY": null,
+      "ROW_STATUS": 0,
+      "TOURIS_TV_CATEGORY": null,
+      "TOURIS_TV_SUB_CATEGORY_PHOTO": [],
+      "TOURIS_TV_VILLAGE": null
+    }
+  ]
+}
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================3/4/2018 1:18:24 PM===================================================
+URL					 = http://localhost:45086/api/SubCategory/RetrieveData
+Request					 = 4
+Respon					 = {
+  "ID": 4,
+  "COUNTRY_ID": 23,
+  "COUNTRY_NAME": "Indonesia",
+  "PROVINCE_ID": 11,
+  "PROVINCE_NAME": "DKI Jakarta",
+  "CITY_ID": 6,
+  "CITY_NAME": "Jakarta Barat",
+  "DISTRICT_ID": 3,
+  "DISTRICT_NAME": "Kembangan",
+  "VILLAGE_ID": 2,
+  "VILLAGE_NAME": "Srengseng",
+  "CATEGORY_ID": 2,
+  "CATEGORY_NAME": "Pembiayaan Mobil",
+  "SUB_CATEGORY_NAME": "Wisata Malam ",
+  "SUB_CATEGORY_DESCRIPTION": "Berkeliling lingkungan danau srengseng dan berkomunikasi dengan makhluk astral",
+  "ADDRESS": "Jl. Pengumben raya No. 78",
+  "START_TIME": "2018-02-20T09:29:00",
+  "END_TIME": "2018-02-28T09:29:00",
+  "PHOTO_PATH": "/Content/img/Jellyfish.jpg",
+  "LATITUDE": -6.2163638,
+  "LONGITUDE": 106.7741395,
+  "CREATED_TIME": "2018-02-20T09:29:33.437",
+  "CREATED_BY": "hamkair",
+  "LAST_MODIFIED_TIME": null,
+  "LAST_MODIFIED_BY": null,
+  "ROW_STATUS": 0,
+  "TOURIS_TV_CATEGORY": null,
+  "TOURIS_TV_SUB_CATEGORY_PHOTO": [],
+  "TOURIS_TV_VILLAGE": null
+}
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================3/4/2018 1:22:52 PM===================================================
+URL					 = http://localhost:45086/api/SubCategory/RetrieveData
+Request					 = 4
+Respon					 = {
+  "ID": 4,
+  "COUNTRY_ID": 23,
+  "COUNTRY_NAME": "Indonesia",
+  "PROVINCE_ID": 11,
+  "PROVINCE_NAME": "DKI Jakarta",
+  "CITY_ID": 6,
+  "CITY_NAME": "Jakarta Barat",
+  "DISTRICT_ID": 3,
+  "DISTRICT_NAME": "Kembangan",
+  "VILLAGE_ID": 2,
+  "VILLAGE_NAME": "Srengseng",
+  "CATEGORY_ID": 2,
+  "CATEGORY_NAME": "Pembiayaan Mobil",
+  "SUB_CATEGORY_NAME": "Wisata Malam ",
+  "SUB_CATEGORY_DESCRIPTION": "Berkeliling lingkungan danau srengseng dan berkomunikasi dengan makhluk astral",
+  "ADDRESS": "Jl. Pengumben raya No. 78",
+  "START_TIME": "2018-02-20T09:29:00",
+  "END_TIME": "2018-02-28T09:29:00",
+  "PHOTO_PATH": "/Content/img/Jellyfish.jpg",
+  "LATITUDE": -6.2163638,
+  "LONGITUDE": 106.7741395,
+  "CREATED_TIME": "2018-02-20T09:29:33.437",
+  "CREATED_BY": "hamkair",
+  "LAST_MODIFIED_TIME": null,
+  "LAST_MODIFIED_BY": null,
+  "ROW_STATUS": 0,
+  "TOURIS_TV_CATEGORY": null,
+  "TOURIS_TV_SUB_CATEGORY_PHOTO": [],
+  "TOURIS_TV_VILLAGE": null
+}
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================3/4/2018 1:40:34 PM===================================================
+URL					 = http://localhost:45086/api/SubCategory/RetrieveData
+Request					 = 4
+Respon					 = {
+  "ID": 4,
+  "COUNTRY_ID": 23,
+  "COUNTRY_NAME": "Indonesia",
+  "PROVINCE_ID": 11,
+  "PROVINCE_NAME": "DKI Jakarta",
+  "CITY_ID": 6,
+  "CITY_NAME": "Jakarta Barat",
+  "DISTRICT_ID": 3,
+  "DISTRICT_NAME": "Kembangan",
+  "VILLAGE_ID": 2,
+  "VILLAGE_NAME": "Srengseng",
+  "CATEGORY_ID": 2,
+  "CATEGORY_NAME": "Pembiayaan Mobil",
+  "SUB_CATEGORY_NAME": "Wisata Malam ",
+  "SUB_CATEGORY_DESCRIPTION": "Berkeliling lingkungan danau srengseng dan berkomunikasi dengan makhluk astral",
+  "ADDRESS": "Jl. Pengumben raya No. 78",
+  "START_TIME": "2018-02-20T09:29:00",
+  "END_TIME": "2018-02-28T09:29:00",
+  "PHOTO_PATH": "/Content/img/Jellyfish.jpg",
+  "LATITUDE": -6.2163638,
+  "LONGITUDE": 106.7741395,
+  "CREATED_TIME": "2018-02-20T09:29:33.437",
+  "CREATED_BY": "hamkair",
+  "LAST_MODIFIED_TIME": null,
+  "LAST_MODIFIED_BY": null,
+  "ROW_STATUS": 0,
+  "TOURIS_TV_CATEGORY": null,
+  "TOURIS_TV_SUB_CATEGORY_PHOTO": [],
+  "TOURIS_TV_VILLAGE": null
+}
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================3/4/2018 1:43:21 PM===================================================
+URL					 = http://localhost:45086/api/User/Login
+Request					 = {"Email":"hamkairama@yahoo.com","Password":"123456","RememberMe":false}
+Respon					 = {
+  "ID": 7,
+  "USER_ID": "hamkair",
+  "USER_NAME": "hamkairama",
+  "IS_SUPER_ADMIN": true,
+  "LAST_LOGIN": null,
+  "USER_MAIL": "hamkairama@yahoo.com",
+  "PASSWORD": "123456",
+  "CONFIRM_PASSWORD": null,
+  "CREATED_TIME": "2018-02-15T17:55:26.07",
+  "CREATED_BY": "hamkair",
+  "LAST_MODIFIED_TIME": "2018-02-19T18:05:51.053",
+  "LAST_MODIFIED_BY": "hamkair",
+  "ROW_STATUS": 0,
+  "PHOTO_PATH": "/Content/img/Tulips.jpg",
+  "GENDER": "P",
+  "BORN": "2018-02-13T23:55:00",
+  "ADDRESS": "jl.karya utama\r\nsrengseng, kembangan.\r\nJakarta barat",
+  "DESCRIPTION": "perkampretan",
+  "JOB": "adsf",
+  "COMPANY": "asdf",
+  "HOBBY": "asdf",
+  "TOURIS_TV_USER_PROFILE": [
+    {
+      "ID": 7,
+      "USER_ID_ID": 7,
+      "PHOTO_PATH": "/Content/img/Tulips.jpg",
+      "GENDER": "P",
+      "BORN": "2018-02-13T23:55:00",
+      "ADDRESS": "jl.karya utama\r\nsrengseng, kembangan.\r\nJakarta barat",
+      "DESCRIPTION": "perkampretan",
+      "JOB": "adsf",
+      "COMPANY": "asdf",
+      "HOBBY": "asdf",
+      "CREATED_TIME": "2018-02-15T17:55:26.087",
+      "CREATED_BY": "hamkair",
+      "LAST_MODIFIED_TIME": "2018-02-19T18:05:51.053",
+      "LAST_MODIFIED_BY": "hamkair",
+      "ROW_STATUS": 0,
+      "TOURIS_TV_USER": null,
+      "TOURIS_TV_USER_PROFILE_SOSMED": []
+    }
+  ]
+}
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================3/4/2018 1:43:21 PM===================================================
+URL					 = http://localhost:45086/api/Slideshow/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 3,
+    "TITTLE": "TOURISMPEDIA",
+    "CONTENT_DESCRIPTION": "ini content",
+    "CLASS": "active",
+    "PHOTO_PATH": "/Content/img/Lighthouse.jpg",
+    "URL": "#",
+    "CREATED_TIME": "2018-02-15T06:09:25.23",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-15T09:48:03.95",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 4,
+    "TITTLE": "TOURISMPEDIA",
+    "CONTENT_DESCRIPTION": "Testing for content description. This content for testing,",
+    "CLASS": "#",
+    "PHOTO_PATH": "/Content/img/Tulips.jpg",
+    "URL": "#",
+    "CREATED_TIME": "2018-02-15T09:49:19.983",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 5,
+    "TITTLE": "TOURISMPEDIA",
+    "CONTENT_DESCRIPTION": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "CLASS": "#",
+    "PHOTO_PATH": "/Content/img/Koala.jpg",
+    "URL": "#",
+    "CREATED_TIME": "2018-02-15T09:59:41.5",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-15T11:06:08.697",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 6,
+    "TITTLE": "TOURISMPEDIA",
+    "CONTENT_DESCRIPTION": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "CLASS": "#",
+    "PHOTO_PATH": "/Content/img/Penguins.jpg",
+    "URL": "#",
+    "CREATED_TIME": "2018-02-15T10:00:52.45",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-15T11:06:22.597",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 10,
+    "TITTLE": "Tourismpedia",
+    "CONTENT_DESCRIPTION": "Testing for content description. This content for testing,",
+    "CLASS": "inactive",
+    "PHOTO_PATH": null,
+    "URL": "#",
+    "CREATED_TIME": "2018-02-22T02:45:33.19",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T16:16:35.457",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================3/4/2018 1:43:21 PM===================================================
+URL					 = http://localhost:45086/api/Sosmed/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 2,
+    "TYPE": "Social",
+    "NAME": "facebook",
+    "DESCRIPTION": "facebook",
+    "ICON": "facebook",
+    "URL": "https://facebook.com",
+    "DATA_EMBED": null,
+    "HEIGHT": null,
+    "WIDTH": null,
+    "DATA_WIDGET_ID": null,
+    "CREATED_TIME": "2018-02-17T06:38:49.457",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-17T09:44:32.123",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 3,
+    "TYPE": "Social",
+    "NAME": "twitter",
+    "DESCRIPTION": "twitter",
+    "ICON": "twitter",
+    "URL": "https://twitter.com/vany_pucca",
+    "DATA_EMBED": null,
+    "HEIGHT": null,
+    "WIDTH": null,
+    "DATA_WIDGET_ID": null,
+    "CREATED_TIME": "2018-02-17T09:36:00.993",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-17T10:43:21.097",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 4,
+    "TYPE": "Social",
+    "NAME": "instagram",
+    "DESCRIPTION": "instagram",
+    "ICON": "instagram",
+    "URL": "https://instagram.com",
+    "DATA_EMBED": null,
+    "HEIGHT": null,
+    "WIDTH": null,
+    "DATA_WIDGET_ID": null,
+    "CREATED_TIME": "2018-02-17T09:48:19.5",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 5,
+    "TYPE": "Social",
+    "NAME": "pinterest",
+    "DESCRIPTION": "pinterest",
+    "ICON": "pinterest",
+    "URL": "https://pinterest.com",
+    "DATA_EMBED": null,
+    "HEIGHT": null,
+    "WIDTH": null,
+    "DATA_WIDGET_ID": null,
+    "CREATED_TIME": "2018-02-17T09:48:52.107",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================3/4/2018 1:43:21 PM===================================================
+URL					 = http://localhost:45086/api/Category/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 2,
+    "CATEGORY_CODE": "C01",
+    "CATEGORY_NAME": "Pembiayaan Mobil",
+    "CATEGORY_DESCRIPTION": "Find tours where you are now and explore the diversity of each region with its beauty.\r\nEnjoy the beauty of life.",
+    "URL": "http://localhost:53083/Category/Detail/2",
+    "CLASS": "danger",
+    "PHOTO_PATH": "/Content/img/Hydrangeas.jpg",
+    "CREATED_TIME": "2018-02-12T09:59:37.95",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:20:59.847",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 3,
+    "CATEGORY_CODE": "C02",
+    "CATEGORY_NAME": "Pembiayaan Multiguna",
+    "CATEGORY_DESCRIPTION": "Cultural diversity makes a region unique to each.\r\nFind here every event in every area you will visit, and do not miss it. Enjoy.",
+    "URL": "http://localhost:53083/Category/Detail/3",
+    "CLASS": "primary",
+    "PHOTO_PATH": "/Content/img/Chrysanthemum.jpg",
+    "CREATED_TIME": "2018-02-12T10:00:07.423",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:21:22.327",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 4,
+    "CATEGORY_CODE": "C03",
+    "CATEGORY_NAME": "Pembiayaan Fleet",
+    "CATEGORY_DESCRIPTION": "Each region has a meaning and every region has its trademark.\r\nDiscover the diverse diet of food in each region, also discover every flavor created by each spoon.\r\nMake culinary a sweet memory with loved ones. Enjoy.",
+    "URL": "http://localhost:53083/Category/Detail/4",
+    "CLASS": "success",
+    "PHOTO_PATH": "/Content/img/Desert.jpg",
+    "CREATED_TIME": "2018-02-12T10:00:17.977",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:21:31.35",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 5,
+    "CATEGORY_CODE": "C04",
+    "CATEGORY_NAME": "Katalog Kendaraan",
+    "CATEGORY_DESCRIPTION": "Katalog Kendaraan",
+    "URL": null,
+    "CLASS": "default",
+    "PHOTO_PATH": "/Content/img/Penguins.jpg",
+    "CREATED_TIME": "2018-02-24T16:57:00.227",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:21:43.037",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 6,
+    "CATEGORY_CODE": "C05",
+    "CATEGORY_NAME": "Pengajuan Kredit",
+    "CATEGORY_DESCRIPTION": "Pengajuan Kredit",
+    "URL": null,
+    "CLASS": "default",
+    "PHOTO_PATH": "/Content/img/Lighthouse.jpg",
+    "CREATED_TIME": "2018-02-24T16:57:24.493",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:21:52.68",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 7,
+    "CATEGORY_CODE": "C06",
+    "CATEGORY_NAME": "Persyaratan Kredit",
+    "CATEGORY_DESCRIPTION": "Persyaratan Kredit",
+    "URL": null,
+    "CLASS": "default",
+    "PHOTO_PATH": "/Content/img/Koala.jpg",
+    "CREATED_TIME": "2018-02-24T16:57:46.9",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:22:02.66",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 8,
+    "CATEGORY_CODE": "C07",
+    "CATEGORY_NAME": "Produk Layanan",
+    "CATEGORY_DESCRIPTION": "Produk Layanan",
+    "URL": null,
+    "CLASS": "default",
+    "PHOTO_PATH": "/Content/img/Jellyfish.jpg",
+    "CREATED_TIME": "2018-02-24T16:58:06.313",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:22:12.437",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 9,
+    "CATEGORY_CODE": "C08",
+    "CATEGORY_NAME": "Profil & Cabang",
+    "CATEGORY_DESCRIPTION": "Profil & Cabang",
+    "URL": null,
+    "CLASS": "default",
+    "PHOTO_PATH": "/Content/img/Tulips.jpg",
+    "CREATED_TIME": "2018-02-24T16:58:39.61",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-24T17:22:21.17",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================

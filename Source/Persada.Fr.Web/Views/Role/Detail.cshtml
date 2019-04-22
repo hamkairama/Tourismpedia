@@ -1,0 +1,39 @@
+﻿@model Persada.Fr.ModelView.TOURIS_TV_MENU
+@{
+    ViewBag.Title = "Detail Menu";
+}
+
+<h2>@ViewBag.Title.</h2>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Menu Name
+        </dt>
+
+        <dd>
+            @Model.MENU_NAME
+        </dd>
+
+        <dt>
+            Description
+        </dt>
+
+        <dd>
+            @Model.MENU_DESCRIPTION
+        </dd>
+        <dt>            
+            Parent Id
+        </dt>
+        <dd>
+            @Model.MENU_PARENT_ID
+        </dd>
+
+    </dl>
+
+    <div class="form-actions no-color">
+        @Html.ActionLink("Back to List", "Index")
+    </div>
+
+</div>

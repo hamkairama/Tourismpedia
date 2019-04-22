@@ -1,0 +1,55 @@
+﻿@model Persada.Fr.ModelView.TOURIS_TV_CITY
+@{
+    ViewBag.Title = "Create City";
+}
+
+<h2>@ViewBag.Title.</h2>
+
+@using (Html.BeginForm("ActionCreate", "City", FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+{
+    @Html.AntiForgeryToken()
+    <hr />
+    @Html.ValidationSummary("", new { @class = "text-danger" })
+    <div class="form-group">
+        <label class="col-md-2 control-label">City Code</label>
+        <div class="col-md-10">
+            @Html.TextBoxFor(m => m.CITY_CODE, new { @class = "form-control" })
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="col-md-2 control-label">Country</label>
+        <div class="col-md-10">
+            @Html.DropDownList("COUNTRY_ID", (IEnumerable<SelectListItem>)ViewBag.GetCountryList, new { @class = "form-control" })
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="col-md-2 control-label">Province</label>
+        <div class="col-md-10">
+            @Html.DropDownListFor(model => model.PROVINCE_ID, (IEnumerable<SelectListItem>)ViewBag.GetNullList, new { @class = "form-control" })
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="col-md-2 control-label">City Name</label>
+        <div class="col-md-10">
+            @Html.TextBoxFor(m => m.CITY_NAME, new { @class = "form-control" })
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="col-md-2 control-label">City Description</label>
+        <div class="col-md-10">
+            @Html.TextBoxFor(m => m.CITY_DESCRIPTION, new { @class = "form-control" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" class="btn btn-default" value="Create" />
+        </div>
+    </div>
+}
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
+
+<script src="~/Scripts/Controller/CityScript.js"></script>

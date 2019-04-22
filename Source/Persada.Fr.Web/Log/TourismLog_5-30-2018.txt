@@ -1,0 +1,11 @@
+===================================================5/30/2018 1:12:07 AM===================================================
+URL					 = http://localhost:45086/api/Slideshow/GridBind
+Request					 = 
+Respon					 = {
+  "Status": -1,
+  "MessageText": "Object reference not set to an instance of an object.",
+  "IsSuccess": false
+}
+Message					 = 
+Stack					 = 
+=========================================================================================================================

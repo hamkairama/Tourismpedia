@@ -1,0 +1,75 @@
+E:\Project 2\Persada.Fr.Web\Persada.Fr.Model\bin\Debug\Persada.Fr.Model.dll.config
+E:\Project 2\Persada.Fr.Web\Persada.Fr.Model\bin\Debug\Persada.Fr.Model.dll
+E:\Project 2\Persada.Fr.Web\Persada.Fr.Model\bin\Debug\Persada.Fr.Model.pdb
+E:\Project 2\Persada.Fr.Web\Persada.Fr.Model\bin\Debug\EntityFramework.dll
+E:\Project 2\Persada.Fr.Web\Persada.Fr.Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\Project 2\Persada.Fr.Web\Persada.Fr.Model\bin\Debug\EntityFramework.xml
+E:\Project 2\Persada.Fr.Web\Persada.Fr.Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\Project 2\Persada.Fr.Web\Persada.Fr.Model\obj\Debug\Persada.Fr.Model.dll
+E:\Project 2\Persada.Fr.Web\Persada.Fr.Model\obj\Debug\Persada.Fr.Model.pdb
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.Model\bin\Debug\Persada.Fr.Model.dll.config
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.Model\bin\Debug\Persada.Fr.Model.dll
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.Model\bin\Debug\Persada.Fr.Model.pdb
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.Model\bin\Debug\EntityFramework.dll
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.Model\bin\Debug\Persada.Fr.ModelView.dll
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.Model\bin\Debug\Persada.Fr.ModelView.pdb
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.Model\bin\Debug\EntityFramework.xml
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.Model\obj\Debug\Persada.Fr.Model.csprojResolveAssemblyReference.cache
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.Model\obj\Debug\Persada.Fr.Model.dll
+D:\Hamka\GitHub\Persada\Persada.Fr.Web\Persada.Fr.Model\obj\Debug\Persada.Fr.Model.pdb
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.Model\bin\Debug\Persada.Fr.Model.dll.config
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.Model\bin\Debug\Persada.Fr.Model.dll
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.Model\bin\Debug\Persada.Fr.Model.pdb
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.Model\bin\Debug\EntityFramework.dll
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.Model\bin\Debug\Persada.Fr.CommonFunction.dll
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.Model\bin\Debug\Persada.Fr.ModelView.dll
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.Model\bin\Debug\Newtonsoft.Json.dll
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.Model\bin\Debug\System.Web.Mvc.dll
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.Model\bin\Debug\System.Web.Razor.dll
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.Model\bin\Debug\System.Web.WebPages.Razor.dll
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.Model\bin\Debug\System.Web.WebPages.dll
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.Model\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.Model\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.Model\bin\Debug\Persada.Fr.CommonFunction.pdb
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.Model\bin\Debug\Persada.Fr.ModelView.pdb
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.Model\bin\Debug\EntityFramework.xml
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.Model\bin\Debug\System.Web.Mvc.xml
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.Model\bin\Debug\System.Web.Razor.xml
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.Model\bin\Debug\System.Web.WebPages.Razor.xml
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.Model\bin\Debug\System.Web.WebPages.xml
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.Model\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.Model\obj\Debug\Persada.Fr.Model.csprojResolveAssemblyReference.cache
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.Model\obj\Debug\Persada.Fr.Model.dll
+E:\Github\Persada\Persada.Fr.Web\Persada.Fr.Model\obj\Debug\Persada.Fr.Model.pdb
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.Model\bin\Debug\Persada.Fr.Model.dll.config
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.Model\bin\Debug\Persada.Fr.Model.dll
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.Model\bin\Debug\Persada.Fr.Model.pdb
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.Model\bin\Debug\Persada.Fr.CommonFunction.dll
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.Model\bin\Debug\Persada.Fr.ModelView.dll
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.Model\bin\Debug\Newtonsoft.Json.dll
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.Model\bin\Debug\System.Web.Mvc.dll
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.Model\bin\Debug\Persada.Fr.CommonFunction.pdb
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.Model\bin\Debug\Persada.Fr.ModelView.pdb
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.Model\bin\Debug\EntityFramework.xml
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.Model\bin\Debug\System.Web.Mvc.xml
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.Model\obj\Debug\Persada.Fr.Model.csprojResolveAssemblyReference.cache
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.Model\obj\Debug\Persada.Fr.Model.dll
+D:\persada\trunk\Persada.Fr.Web\Persada.Fr.Model\obj\Debug\Persada.Fr.Model.pdb
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.Model\bin\Debug\Persada.Fr.Model.dll.config
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.Model\bin\Debug\Persada.Fr.Model.dll
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.Model\bin\Debug\Persada.Fr.Model.pdb
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.Model\bin\Debug\Persada.Fr.CommonFunction.dll
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.Model\bin\Debug\Persada.Fr.ModelView.dll
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.Model\bin\Debug\System.Web.Mvc.dll
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.Model\bin\Debug\Newtonsoft.Json.dll
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.Model\bin\Debug\Persada.Fr.CommonFunction.pdb
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.Model\bin\Debug\Persada.Fr.ModelView.pdb
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.Model\bin\Debug\System.Web.Mvc.xml
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.Model\obj\Debug\Persada.Fr.Model.csprojResolveAssemblyReference.cache
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.Model\obj\Debug\Persada.Fr.Model.dll
+D:\Hamka\GitHub\JsonPersada\trunk\Persada.Fr.Web\Persada.Fr.Model\obj\Debug\Persada.Fr.Model.pdb

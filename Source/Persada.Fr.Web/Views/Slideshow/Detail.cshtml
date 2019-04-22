@@ -1,0 +1,59 @@
+﻿@model Persada.Fr.ModelView.TOURIS_TV_SLIDESHOW
+@using System.Text;
+
+@{
+    ViewBag.Title = "Detail Slideshow";
+}
+
+<h2>@ViewBag.Title.</h2>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Title
+        </dt>
+
+        <dd>
+            @Model.TITTLE
+        </dd>
+
+        <dt>
+            Content
+        </dt>
+
+        <dd>
+            @Model.CONTENT_DESCRIPTION
+        </dd>
+
+        <dt>
+            Class Item
+        </dt>
+
+        <dd>
+            @Model.CLASS
+        </dd>
+
+        <dt>
+            Url
+        </dt>
+
+        <dd>
+            @Model.URL
+        </dd>
+
+        <dt>
+            Photo
+        </dt>
+
+        <dd>
+            <img src="@Model.PHOTO_PATH" class="img-medium" />
+        </dd>
+
+    </dl>
+
+    <div class="form-actions no-color">
+        @Html.ActionLink("Back to List", "Index")
+    </div>
+
+</div>

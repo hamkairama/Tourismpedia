@@ -1,0 +1,93 @@
+===================================================2/13/2018 11:09:11 AM===================================================
+URL					 = http://localhost:45086/api/Country/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 22,
+    "COUNTRY_NAME": "Singapore",
+    "COUNTRY_CODE": "12",
+    "COUNTRY_DESCRIPTION": "Singapore",
+    "CREATED_TIME": "2018-02-08T05:52:02.58",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-09T06:31:07.307",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 23,
+    "COUNTRY_NAME": "Indonesia",
+    "COUNTRY_CODE": "3",
+    "COUNTRY_DESCRIPTION": "Indonesia",
+    "CREATED_TIME": "2018-02-08T05:59:27.36",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:03:20.177",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 24,
+    "COUNTRY_NAME": "Malaysia",
+    "COUNTRY_CODE": "ad",
+    "COUNTRY_DESCRIPTION": "adfad",
+    "CREATED_TIME": "2018-02-08T06:14:20.91",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:02.12",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 25,
+    "COUNTRY_NAME": "Bruney Darussalam",
+    "COUNTRY_CODE": "ads",
+    "COUNTRY_DESCRIPTION": "fad",
+    "CREATED_TIME": "2018-02-08T06:15:03.513",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-08T06:49:12.5",
+    "LAST_MODIFIED_BY": "System",
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================2/13/2018 11:09:37 AM===================================================
+URL					 = http://localhost:45086/api/Category/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 2,
+    "CATEGORY_CODE": "C01",
+    "CATEGORY_NAME": "Tour",
+    "CATEGORY_DESCRIPTION": "Tour",
+    "CREATED_TIME": "2018-02-12T09:59:37.95",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 3,
+    "CATEGORY_CODE": "C02",
+    "CATEGORY_NAME": "Event",
+    "CATEGORY_DESCRIPTION": "Event",
+    "CREATED_TIME": "2018-02-12T10:00:07.423",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 4,
+    "CATEGORY_CODE": "C03",
+    "CATEGORY_NAME": "Culinary",
+    "CATEGORY_DESCRIPTION": "Culinary",
+    "CREATED_TIME": "2018-02-12T10:00:17.977",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================

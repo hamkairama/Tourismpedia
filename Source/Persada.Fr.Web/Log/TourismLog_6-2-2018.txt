@@ -1,0 +1,556 @@
+===================================================6/2/2018 4:39:53 PM===================================================
+URL					 = http://localhost:45086/api/Slideshow/GridBind
+Request					 = 
+Respon					 = {
+  "Status": -1,
+  "MessageText": "Object reference not set to an instance of an object.",
+  "IsSuccess": false
+}
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================6/2/2018 4:41:46 PM===================================================
+URL					 = http://tourismpediaapi.professionalis.me/api/Slideshow/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 1,
+    "TITTLE": "Tourismpedia",
+    "CONTENT_DESCRIPTION": "Testing for content description. This content for testing,",
+    "CLASS": "active",
+    "PHOTO_PATH": "../Content/img/Tulips.jpg",
+    "URL": "#",
+    "CREATED_TIME": "2018-02-21T11:46:19.873",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 2,
+    "TITTLE": "Tour",
+    "CONTENT_DESCRIPTION": "Hellow tour",
+    "CLASS": "inactive",
+    "PHOTO_PATH": null,
+    "URL": "#",
+    "CREATED_TIME": "2018-02-21T21:20:42.917",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================6/2/2018 4:41:47 PM===================================================
+URL					 = http://tourismpediaapi.professionalis.me/api/Sosmed/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 1,
+    "TYPE": "Social",
+    "NAME": "Fdd",
+    "DESCRIPTION": null,
+    "ICON": null,
+    "URL": null,
+    "DATA_EMBED": null,
+    "HEIGHT": null,
+    "WIDTH": null,
+    "DATA_WIDGET_ID": null,
+    "CREATED_TIME": "2018-02-22T05:51:36.85",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================6/2/2018 4:41:47 PM===================================================
+URL					 = http://tourismpediaapi.professionalis.me/api/Category/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 1,
+    "CATEGORY_CODE": "CC01",
+    "CATEGORY_NAME": "Tour",
+    "CATEGORY_DESCRIPTION": "Find tours where you are now and explore the diversity of each region with its beauty.  Enjoy the beauty of life.",
+    "URL": "http://tourismpedia.professionalis.me/Category/Detail/1",
+    "CLASS": "primary",
+    "CREATED_TIME": "2018-02-21T21:27:49.247",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-21T21:32:48.233",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 2,
+    "CATEGORY_CODE": "CC02",
+    "CATEGORY_NAME": "Event",
+    "CATEGORY_DESCRIPTION": "Cultural diversity makes a region unique to each.  Find here every event in every area you will visit, and do not miss it. Enjoy.",
+    "URL": "#",
+    "CLASS": "success",
+    "CREATED_TIME": "2018-02-21T21:28:11.107",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-21T21:28:43.03",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 3,
+    "CATEGORY_CODE": "CC03",
+    "CATEGORY_NAME": "Culinary",
+    "CATEGORY_DESCRIPTION": "Each region has a meaning and every region has its trademark.  Discover the diverse diet of food in each region, also discover every flavor created by each spoon.  Make culinary a sweet memory with loved ones. Enjoy.",
+    "URL": "http://tourismpedia.professionalis.me/Category/Detail/3",
+    "CLASS": "danger",
+    "CREATED_TIME": "2018-02-21T21:28:36.077",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-23T02:47:22.067",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================6/2/2018 4:42:38 PM===================================================
+URL					 = http://tourismpediaapi.professionalis.me/api/Slideshow/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 1,
+    "TITTLE": "Tourismpedia",
+    "CONTENT_DESCRIPTION": "Testing for content description. This content for testing,",
+    "CLASS": "active",
+    "PHOTO_PATH": "../Content/img/Tulips.jpg",
+    "URL": "#",
+    "CREATED_TIME": "2018-02-21T11:46:19.873",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 2,
+    "TITTLE": "Tour",
+    "CONTENT_DESCRIPTION": "Hellow tour",
+    "CLASS": "inactive",
+    "PHOTO_PATH": null,
+    "URL": "#",
+    "CREATED_TIME": "2018-02-21T21:20:42.917",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================6/2/2018 4:42:39 PM===================================================
+URL					 = http://tourismpediaapi.professionalis.me/api/Sosmed/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 1,
+    "TYPE": "Social",
+    "NAME": "Fdd",
+    "DESCRIPTION": null,
+    "ICON": null,
+    "URL": null,
+    "DATA_EMBED": null,
+    "HEIGHT": null,
+    "WIDTH": null,
+    "DATA_WIDGET_ID": null,
+    "CREATED_TIME": "2018-02-22T05:51:36.85",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================6/2/2018 4:42:39 PM===================================================
+URL					 = http://tourismpediaapi.professionalis.me/api/Category/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 1,
+    "CATEGORY_CODE": "CC01",
+    "CATEGORY_NAME": "Tour",
+    "CATEGORY_DESCRIPTION": "Find tours where you are now and explore the diversity of each region with its beauty.  Enjoy the beauty of life.",
+    "URL": "http://tourismpedia.professionalis.me/Category/Detail/1",
+    "CLASS": "primary",
+    "CREATED_TIME": "2018-02-21T21:27:49.247",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-21T21:32:48.233",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 2,
+    "CATEGORY_CODE": "CC02",
+    "CATEGORY_NAME": "Event",
+    "CATEGORY_DESCRIPTION": "Cultural diversity makes a region unique to each.  Find here every event in every area you will visit, and do not miss it. Enjoy.",
+    "URL": "#",
+    "CLASS": "success",
+    "CREATED_TIME": "2018-02-21T21:28:11.107",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-21T21:28:43.03",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 3,
+    "CATEGORY_CODE": "CC03",
+    "CATEGORY_NAME": "Culinary",
+    "CATEGORY_DESCRIPTION": "Each region has a meaning and every region has its trademark.  Discover the diverse diet of food in each region, also discover every flavor created by each spoon.  Make culinary a sweet memory with loved ones. Enjoy.",
+    "URL": "http://tourismpedia.professionalis.me/Category/Detail/3",
+    "CLASS": "danger",
+    "CREATED_TIME": "2018-02-21T21:28:36.077",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-23T02:47:22.067",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================6/2/2018 4:43:07 PM===================================================
+URL					 = http://tourismpediaapi.professionalis.me/api/Slideshow/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 1,
+    "TITTLE": "Tourismpedia",
+    "CONTENT_DESCRIPTION": "Testing for content description. This content for testing,",
+    "CLASS": "active",
+    "PHOTO_PATH": "../Content/img/Tulips.jpg",
+    "URL": "#",
+    "CREATED_TIME": "2018-02-21T11:46:19.873",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 2,
+    "TITTLE": "Tour",
+    "CONTENT_DESCRIPTION": "Hellow tour",
+    "CLASS": "inactive",
+    "PHOTO_PATH": null,
+    "URL": "#",
+    "CREATED_TIME": "2018-02-21T21:20:42.917",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================6/2/2018 4:43:08 PM===================================================
+URL					 = http://tourismpediaapi.professionalis.me/api/Sosmed/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 1,
+    "TYPE": "Social",
+    "NAME": "Fdd",
+    "DESCRIPTION": null,
+    "ICON": null,
+    "URL": null,
+    "DATA_EMBED": null,
+    "HEIGHT": null,
+    "WIDTH": null,
+    "DATA_WIDGET_ID": null,
+    "CREATED_TIME": "2018-02-22T05:51:36.85",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================6/2/2018 4:43:08 PM===================================================
+URL					 = http://tourismpediaapi.professionalis.me/api/Category/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 1,
+    "CATEGORY_CODE": "CC01",
+    "CATEGORY_NAME": "Tour",
+    "CATEGORY_DESCRIPTION": "Find tours where you are now and explore the diversity of each region with its beauty.  Enjoy the beauty of life.",
+    "URL": "http://tourismpedia.professionalis.me/Category/Detail/1",
+    "CLASS": "primary",
+    "CREATED_TIME": "2018-02-21T21:27:49.247",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-21T21:32:48.233",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 2,
+    "CATEGORY_CODE": "CC02",
+    "CATEGORY_NAME": "Event",
+    "CATEGORY_DESCRIPTION": "Cultural diversity makes a region unique to each.  Find here every event in every area you will visit, and do not miss it. Enjoy.",
+    "URL": "#",
+    "CLASS": "success",
+    "CREATED_TIME": "2018-02-21T21:28:11.107",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-21T21:28:43.03",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 3,
+    "CATEGORY_CODE": "CC03",
+    "CATEGORY_NAME": "Culinary",
+    "CATEGORY_DESCRIPTION": "Each region has a meaning and every region has its trademark.  Discover the diverse diet of food in each region, also discover every flavor created by each spoon.  Make culinary a sweet memory with loved ones. Enjoy.",
+    "URL": "http://tourismpedia.professionalis.me/Category/Detail/3",
+    "CLASS": "danger",
+    "CREATED_TIME": "2018-02-21T21:28:36.077",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-23T02:47:22.067",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================6/2/2018 4:43:40 PM===================================================
+URL					 = http://tourismpediaapi.professionalis.me/api/Slideshow/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 1,
+    "TITTLE": "Tourismpedia",
+    "CONTENT_DESCRIPTION": "Testing for content description. This content for testing,",
+    "CLASS": "active",
+    "PHOTO_PATH": "../Content/img/Tulips.jpg",
+    "URL": "#",
+    "CREATED_TIME": "2018-02-21T11:46:19.873",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 2,
+    "TITTLE": "Tour",
+    "CONTENT_DESCRIPTION": "Hellow tour",
+    "CLASS": "inactive",
+    "PHOTO_PATH": null,
+    "URL": "#",
+    "CREATED_TIME": "2018-02-21T21:20:42.917",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================6/2/2018 4:43:41 PM===================================================
+URL					 = http://tourismpediaapi.professionalis.me/api/Sosmed/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 1,
+    "TYPE": "Social",
+    "NAME": "Fdd",
+    "DESCRIPTION": null,
+    "ICON": null,
+    "URL": null,
+    "DATA_EMBED": null,
+    "HEIGHT": null,
+    "WIDTH": null,
+    "DATA_WIDGET_ID": null,
+    "CREATED_TIME": "2018-02-22T05:51:36.85",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================6/2/2018 4:43:41 PM===================================================
+URL					 = http://tourismpediaapi.professionalis.me/api/Category/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 1,
+    "CATEGORY_CODE": "CC01",
+    "CATEGORY_NAME": "Tour",
+    "CATEGORY_DESCRIPTION": "Find tours where you are now and explore the diversity of each region with its beauty.  Enjoy the beauty of life.",
+    "URL": "http://tourismpedia.professionalis.me/Category/Detail/1",
+    "CLASS": "primary",
+    "CREATED_TIME": "2018-02-21T21:27:49.247",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-21T21:32:48.233",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 2,
+    "CATEGORY_CODE": "CC02",
+    "CATEGORY_NAME": "Event",
+    "CATEGORY_DESCRIPTION": "Cultural diversity makes a region unique to each.  Find here every event in every area you will visit, and do not miss it. Enjoy.",
+    "URL": "#",
+    "CLASS": "success",
+    "CREATED_TIME": "2018-02-21T21:28:11.107",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-21T21:28:43.03",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 3,
+    "CATEGORY_CODE": "CC03",
+    "CATEGORY_NAME": "Culinary",
+    "CATEGORY_DESCRIPTION": "Each region has a meaning and every region has its trademark.  Discover the diverse diet of food in each region, also discover every flavor created by each spoon.  Make culinary a sweet memory with loved ones. Enjoy.",
+    "URL": "http://tourismpedia.professionalis.me/Category/Detail/3",
+    "CLASS": "danger",
+    "CREATED_TIME": "2018-02-21T21:28:36.077",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-23T02:47:22.067",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================6/2/2018 4:44:14 PM===================================================
+URL					 = http://tourismpediaapi.professionalis.me/api/Slideshow/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 1,
+    "TITTLE": "Tourismpedia",
+    "CONTENT_DESCRIPTION": "Testing for content description. This content for testing,",
+    "CLASS": "active",
+    "PHOTO_PATH": "../Content/img/Tulips.jpg",
+    "URL": "#",
+    "CREATED_TIME": "2018-02-21T11:46:19.873",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  },
+  {
+    "ID": 2,
+    "TITTLE": "Tour",
+    "CONTENT_DESCRIPTION": "Hellow tour",
+    "CLASS": "inactive",
+    "PHOTO_PATH": null,
+    "URL": "#",
+    "CREATED_TIME": "2018-02-21T21:20:42.917",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================6/2/2018 4:44:14 PM===================================================
+URL					 = http://tourismpediaapi.professionalis.me/api/Sosmed/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 1,
+    "TYPE": "Social",
+    "NAME": "Fdd",
+    "DESCRIPTION": null,
+    "ICON": null,
+    "URL": null,
+    "DATA_EMBED": null,
+    "HEIGHT": null,
+    "WIDTH": null,
+    "DATA_WIDGET_ID": null,
+    "CREATED_TIME": "2018-02-22T05:51:36.85",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": null,
+    "LAST_MODIFIED_BY": null,
+    "ROW_STATUS": 0
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================
+===================================================6/2/2018 4:44:15 PM===================================================
+URL					 = http://tourismpediaapi.professionalis.me/api/Category/GridBind
+Request					 = 
+Respon					 = [
+  {
+    "ID": 1,
+    "CATEGORY_CODE": "CC01",
+    "CATEGORY_NAME": "Tour",
+    "CATEGORY_DESCRIPTION": "Find tours where you are now and explore the diversity of each region with its beauty.  Enjoy the beauty of life.",
+    "URL": "http://tourismpedia.professionalis.me/Category/Detail/1",
+    "CLASS": "primary",
+    "CREATED_TIME": "2018-02-21T21:27:49.247",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-21T21:32:48.233",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 2,
+    "CATEGORY_CODE": "CC02",
+    "CATEGORY_NAME": "Event",
+    "CATEGORY_DESCRIPTION": "Cultural diversity makes a region unique to each.  Find here every event in every area you will visit, and do not miss it. Enjoy.",
+    "URL": "#",
+    "CLASS": "success",
+    "CREATED_TIME": "2018-02-21T21:28:11.107",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-21T21:28:43.03",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  },
+  {
+    "ID": 3,
+    "CATEGORY_CODE": "CC03",
+    "CATEGORY_NAME": "Culinary",
+    "CATEGORY_DESCRIPTION": "Each region has a meaning and every region has its trademark.  Discover the diverse diet of food in each region, also discover every flavor created by each spoon.  Make culinary a sweet memory with loved ones. Enjoy.",
+    "URL": "http://tourismpedia.professionalis.me/Category/Detail/3",
+    "CLASS": "danger",
+    "CREATED_TIME": "2018-02-21T21:28:36.077",
+    "CREATED_BY": "hamkair",
+    "LAST_MODIFIED_TIME": "2018-02-23T02:47:22.067",
+    "LAST_MODIFIED_BY": "hamkair",
+    "ROW_STATUS": 0,
+    "TOURIS_TV_SUB_CATEGORY": []
+  }
+]
+Message					 = 
+Stack					 = 
+=========================================================================================================================

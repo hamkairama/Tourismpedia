@@ -1,0 +1,114 @@
+﻿@model Persada.Fr.ModelView.TOURIS_TV_CONTACT_US
+@{
+    ViewBag.Title = "Contact";
+    ViewBag.Contact = "active";
+}
+<h2>@ViewBag.Title.</h2>
+<h3>Tourismpedia</h3>
+@if (ViewBag.msgSuccess != null)
+{
+    <div class="alert alert-success">
+        <a href="#" class="close" type="button" data-dismiss="alert">
+            <i class="ace-icon fa fa-times"></i>
+        </a>
+
+        <strong>
+            <i class="ace-icon fa fa-check"></i>
+        </strong>
+        @ViewBag.msgSuccess
+        <br>
+    </div>
+}
+
+@if (ViewBag.msgError != null)
+{
+    <div class="alert alert-danger">
+        <a href="#" class="close" type="button" data-dismiss="alert">
+            <i class="ace-icon fa fa-times"></i>
+        </a>
+        <strong>
+            <i class="ace-icon fa fa-times"></i>
+        </strong>
+        @ViewBag.msgError
+        <br>
+    </div>
+}
+
+
+@using (Html.BeginForm("SendEmail", "Home", FormMethod.Post, new { enctype = "multipart/form-data", @class = "form-horizontal", role = "form" }))
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary("", new { @class = "text-danger" })
+
+    <div class="row">
+        <div class="col-md-6">
+            <section id="messageForm">                
+                <hr />
+                <div class="form-group">
+                    <label class="col-md-2 control-label">Name</label>
+                    <div class="col-md-10">
+                        @Html.TextBoxFor(m => m.NAME_SENDER, new { @class = "form-control" })
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label class="col-md-2 control-label">Email</label>
+                    <div class="col-md-10">
+                        @Html.TextBoxFor(m => m.EMAIL_SENDER, new { @class = "form-control" })
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label class="col-md-2 control-label">Phone</label>
+                    <div class="col-md-10">
+                        @Html.TextBoxFor(m => m.PHONE_SENDER, new { @class = "form-control" })
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label class="col-md-2 control-label">Message</label>
+                    <div class="col-md-10">
+                        @Html.TextAreaFor(m => m.DESCRIPTION, new { @class = "form-control", @rows = "5" })
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label class="col-md-2 control-label">Image</label>
+                    <div class="col-md-10">
+                        <div>
+                            <img id="txtImage" src="data:image/png;base64," class="img-medium" style="display:none" />
+                            <input type="file" id="postedFile" name="postedFile" style="display:none" />
+                        </div>
+                        <div style="float:left">
+                            <a href="#" id="btnBrowse" onclick="GetFile()" class="btn btn-sm btn-white btn-default btn-round">Browse</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <div class="col-md-offset-2 col-md-10">
+                        <input type="submit" class="btn btn-default" value="Sent" />
+                    </div>
+                </div>
+            </section>
+        </div>
+        <div class="col-md-6">
+            <section id="Company">
+                <h4>Our Coampany</h4>
+                <hr />
+                <address>
+                    Swadarma Raya, South Jakarta<br />
+                    Hamka, <br />
+                    <abbr title="Phone">P:</abbr>
+                    (+62)812 8757 8756
+                </address>
+
+                <address>
+                    <strong>Support:</strong>   <a href="mailto:Support@tourismpedia.com">Support@tourismpedia.com</a><br />
+                    <strong>Marketing:</strong> <a href="mailto:Marketing@tourismpedia.com">Marketing@tourismpedia.com</a>
+                </address>
+            </section>
+        </div>
+    </div>
+}
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
+
